@@ -1,4 +1,4 @@
-# CryptoBlades
+# CryptoWar
 
 CryptoBlades is a Play to Earn NFT RPG developed by Riveted Games on the Binance Smart Chain platform. The game revolves around the acquisition of legendary Blades and powerful Heroes to wield them. Players may participate in combat using their assets to earn SKILL tokens. Assets are player owned NFTs minted in the ERC-721 standard which may be traded on the proprietary marketplace.
 
