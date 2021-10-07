@@ -1,20 +1,20 @@
-# Infrastructure
+# Cơ sở hạ tầng
 
-CryptoWar currently runs almost entirely on the blockchain, as opposed to centralized games running on their own servers.
+CryptoWar hiện chạy gần như hoàn toàn trên blockchain, trái ngược với các trò chơi tập trung chạy trên máy chủ của riêng họ.
 
-Having all gameplay done on-chain provides a level of trust not commonly found in traditional video games, and allows all users to verify the code that runs the game, as well as all interactions happening on the game's smart contracts.
+Việc thực hiện tất cả các trò chơi trên chuỗi cung cấp mức độ tin cậy không thường thấy trong các trò chơi điện tử truyền thống và cho phép tất cả người dùng xác minh mã chạy trò chơi, cũng như tất cả các tương tác xảy ra trên các hợp đồng thông minh của trò chơi.
 
 ## CDN
 
-CryptoWar has a 99.99% uptime on their SLA with Cloudflare, and ensures smooth production and deployment of any features pushed to the website, as well as the usability of the website for all players.
+CryptoWar có 99.99% thời gian hoạt động trên SLA của họ với Cloudflare và đảm bảo việc sản xuất và triển khai suôn sẻ của bất kỳ tính năng nào được đưa lên trang web, cũng như sự khả dụng của trang web cho tất cả người chơi.
 
-DDOS attacks can disrupt marketplace and leaderboard data, but being on the blockchain ensures that assets are always safe and the game is always playable.
+Các cuộc tấn công DDOS có thể làm gián đoạn dữ liệu thị trường và bảng xếp hạng, nhưng trên blockchain đảm bảo rằng tài sản luôn an toàn và trò chơi luôn có thể chơi được.
 
-## On-Chain vs Off-Chain
+## On-Chain và Off-Chain
 
-Off-chain refers to traditional games where gameplay code is executed on the developer's own servers. Such games are liable to DDOS attacks since all the game code is running on one central location.
+Off-chain (Ngoại tuyến) đề cập đến các trò chơi truyền thống trong đó mã trò chơi được thực thi trên máy chủ của chính nhà phát triển. Các trò chơi như vậy có thể chịu các cuộc tấn công DDOS vì tất cả mã trò chơi đang chạy trên một vị trí trung tâm.
 
-CryptoWar, being on-chain, has a distinct advantage in that the website isn't necessary to play the game. Assuming the player knows how to interact with the blockchain, they can play entirely on the smart contracts by calling the appropriate functions and supplying the necessary data on the BscScan contract pages.
+CryptoWar, là trên chuỗi (On-Chain), có một lợi thế khác biệt là trang web không cần thiết để chơi trò chơi. Giả sử người chơi biết cách tương tác với blockchain, họ có thể chơi hoàn toàn trên các hợp đồng thông minh bằng cách gọi các chức năng thích hợp và cung cấp dữ liệu cần thiết trên các trang hợp đồng BscScan.
 
-Another advantage to being on-chain is that transactions the users take can be tracked and verified by checking TxIDs on BscScan. Assets can also be tracked and traced as they transfer from one user to another, all the way back to when it was first minted.
+Một lợi thế khác của On-Chain (trực tuyến) là các giao dịch mà người dùng thực hiện có thể được theo dõi và xác minh bằng cách kiểm tra TxID trên BscScan. Nội dung cũng có thể được theo dõi và truy tìm khi chúng chuyển từ người dùng này sang người dùng khác, từ khi nó được đúc lần đầu tiên.
 
