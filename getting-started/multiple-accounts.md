@@ -1,24 +1,23 @@
-# Multiple Accounts
+# Nhiều tài khoản
 
-Having multiple accounts is allowed in CryptoWar, and is balanced through the use of the stamina time gate.
+Người chơi được phép có nhiều tài khoản trong CryptoWar và được cân bằng thông qua việc sử dụng cổng thời gian sức chịu đựng.
 
-Each account of four characters is required to have their own weapon, as a 24 hour trade lock prevents the passing of one weapon to multiple accounts.
+Mỗi tài khoản có bốn nhân vật bắt buộc phải có vũ khí riêng vì khóa giao dịch 24 giờ ngăn cản việc chuyển vũ khí cho nhiều tài khoản.
 
-Each account also needs their own gas, and the more accounts you have the higher gas upkeep is required.
+Mỗi tài khoản cũng cần Gas riêng và bạn càng có nhiều tài khoản thì lượng Gas dự phòng càng cao.
 
-You may use a single MetaMask to house multiple accounts.
+Bạn có thể sử dụng một MetaMask duy nhất để chứa nhiều tài khoản.
 
-To create a new account, simply click on the circle icon on the upper right side of your screen and select "Create Account".
+Để tạo tài khoản mới, chỉ cần nhấp vào biểu tượng vòng tròn ở phía trên bên phải màn hình và chọn "Tạo tài khoản".
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/create-account.png)
 
-Sometimes, CryptoWar may not recognize a second account on the same MetaMask. To resolve this, click on the MetaMask icon in your browser's extensions tab and click on the "Not connected" text.
+Đôi khi, CryptoWar có thể không nhận ra tài khoản thứ hai trên cùng một MetaMask. Để giải quyết vấn đề này, hãy nhấp vào biểu tượng MetaMask trong tab tiện ích mở rộng của trình duyệt và nhấp vào văn bản "Không được kết nối".
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/not-connected.png)
 
-Click on the "Connect" button when prompted.
+Nhấp vào nút "Kết nối" khi được nhắc.
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/connect-button.png)
 
-Once you are finished, CryptoWar should now detect your new account. If your new account is not yet reflected on the website, simply refresh CryptoWar.
-
+Sau khi bạn hoàn tất, CryptoWar sẽ phát hiện tài khoản mới của bạn. Nếu tài khoản mới của bạn chưa được phản ánh trên trang web, chỉ cần làm mới CryptoWar.
