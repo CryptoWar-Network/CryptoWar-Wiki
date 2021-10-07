@@ -1,27 +1,27 @@
-# Roadmap
+# Lộ trình
 
 
 
-#### Phase 1 - Launching
+#### Giai đoạn 1 - Khởi động
 
-* Graphic Designs Characters And Marketplace
-* Launch Social + Website
-* IDO on Unicrypt
-* Public launch on PancakeSwap
-* Public launch NFT Marketplace
+* Nhân vật thiết kế đồ họa và thị trường
+* Khởi chạy trang web + xã hội
+* IDO trên Unicrypt
+* Ra mắt công khai trên PancakeSwap
+* Ra mắt công khai Thị trường NFT
 
-#### Phase 2 - Acceleration Phase
+#### Giai đoạn 2 - Giai đoạn Tăng tốc
 
-* Play-to-Earn NFT Game
-* Coingecko, CMC listing
-* CEX Listing
-* Public launch NFT booster farming
-* Release more Hero & Weapon NFT
+* Chơi để kiếm tiền trò chơi NFT
+* Niêm yết Coingecko, CMC
+* Niêm yết CEX
+* Ra mắt công khai tăng thanh khoản NFT
+* Phát hành thêm Anh hùng & Vũ khí NFT
 
-#### Phase 3 - Mars Phase
+#### Giai đoạn 3 - Giai đoạn Sao Hỏa
 
-* Crafting & Upgrade Items
-* PvP Mode Beta
-* CryptoWar Dapp Mobile Game
-* Gaming Ecosystem Expansion
+* Chế tạo & nâng cấp vật phẩm
+* Chế độ PvP Beta
+* Trò chơi di động CryptoWar Dapp
+* Mở rộng hệ sinh thái trò chơi
 
