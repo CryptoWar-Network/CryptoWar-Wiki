@@ -1,6 +1,6 @@
 # Weapons
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapons.png)
+<a href="https://imgur.com/YPmtQOW"><img src="https://i.imgur.com/YPmtQOW.png" title="source: imgur.com" /></a>
 
 It goes without saying that weapons are an essential pillar of NFTs. To get engaged in the game, players are required to possess their own weapons which can be fully utilized for in-game transactions such as trading, obtaining xBlade and earning money. What differentiates the weapons from characters is the unbounded number of weapons in each account. 
 
@@ -24,7 +24,8 @@ Set the decimal to "0" if prompted.
 
 ## Weapon Durability
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapon-stamina.png) 
+
+<a href="https://imgur.com/PAomI1i"><img src="https://i.imgur.com/PAomI1i.png" title="source: imgur.com" /></a>
 
 Durability refers to the amount of time that players can shoot an enemy with a weapon meaning that each weapon owns a certain durability to cut down the amount of time spending on each weapon, halting taking advantage of that weapon by passing it around as well. That is the reason what a weapon needs to be cooled down after each battle.  
 
