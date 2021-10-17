@@ -1,6 +1,6 @@
 # Tokenomics
 
-xBlade serves as the native game currency for CryptoWar. Players leverage xBlade to acquire characters, forge and reforge weapons, and to buy and sell on the NFT Marketplace. The supply of xBlade is designated as follows:
+xBlade (CA: [0x27a339d9b59b21390d7209b78a839868e319301b](https://bscscan.com/token/0x27a339d9b59b21390d7209b78a839868e319301b) ) serves as the native game currency for CryptoWar. Players leverage xBlade to acquire characters, forge and reforge weapons, and to buy and sell on the NFT Marketplace. The supply of xBlade is designated as follows:
 
 | Total Supply                                     | 100 millions xBlade                 |                                            |
 | ------------------------------------------------ | ----------------------------------- | ------------------------------------------ |
