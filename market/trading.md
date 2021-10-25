@@ -8,7 +8,7 @@ Players should be aware that there are safety risks for players to make themselv
 
 ## Trading Characters
 
-The character contract, which can be explored on the link below, is used to trade characters. It is worth nothing that character contract is completely different from weapon contract. Further information on the character contract can be found here : \[**CryptoWar Character Trading Contract**] (https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract)
+The character contract, which can be explored on the link below, is used to trade characters. It is worth noting that character contract is completely different from weapon contract. Further information on the character contract can be found here: [**CryptoWar Character Trading Contract**](https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract)&#x20;
 
 {% hint style="info" %}
 Players are warned to be on the alert for not trading weapons on the character contract.
@@ -37,11 +37,11 @@ Please note that the character’s account is the one connected to the contract
 
 ## Trading Weapons
 
-The weapon contract, which can be viewed on the link below, is only applied to trade weapon. It is worth nothing that weapon contract is completely different from character contract, empowering players to only trade weapons.
+The weapon contract, which can be viewed on the link below, is only applied to trade weapon. It is worth noting that weapon contract is completely different from character contract, empowering players to only trade weapons.
 
-Further information on the weapon contract can be discovered here: : [**CryptoWar Weapon Trading Contract**](https://bscscan.com/address/0x7e091b0a220356b157131c831258a9c98ac8031a#writeProxyContract)
+Further information on the weapon contract can be discovered here: [**CryptoWar Weapon Trading Contract**](https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract)****
 
-(https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract)
+([https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract](https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract))
 
 {% hint style="info" %}
 Players are warned to be on the alert for not trading characters on the weapon contract.
