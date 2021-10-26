@@ -8,7 +8,9 @@ Players should be aware that there are safety risks for players to make themselv
 
 ## Trading Characters
 
-The character contract, which can be explored on the link below, is used to trade characters. It is worth noting that character contract is completely different from weapon contract. Further information on the character contract can be found here: [**CryptoWar Character Trading Contract**](https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract)&#x20;
+The character contract, which can be explored on the link below, is used to trade characters. It is worth noting that character contract is completely different from weapon contract. Further information on the character contract can be found here: [**CryptoWar Character Trading Contract**](https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract)** **
+
+0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B&#x20;
 
 {% hint style="info" %}
 Players are warned to be on the alert for not trading weapons on the character contract.
@@ -41,7 +43,7 @@ The weapon contract, which can be viewed on the link below, is only applied to t
 
 Further information on the weapon contract can be discovered here: [**CryptoWar Weapon Trading Contract**](https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract)****
 
-([https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract](https://bscscan.com/address/0x52683412f6Ea2B6302ceA8406EfF928510466c2c#writeProxyContract))
+0x52683412f6Ea2B6302ceA8406EfF928510466c2c
 
 {% hint style="info" %}
 Players are warned to be on the alert for not trading characters on the weapon contract.

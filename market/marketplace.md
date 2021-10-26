@@ -1,14 +1,14 @@
 # Marketplace
 
-When engaging in the game, players possess their own assets for example characters & weapons which are stockpiled in the game and minted in ERC-721 NFTs. These assets can be freely traded with other players. All in-game transactions are conducted on an exclusive marketplace owned by CryptoWar in which players are granted permission to enlist and purchase their NFTs for eliminating massive frauds while doing trades through the use of NFT contracts.  
+When engaging in the game, players possess their own assets for example characters & weapons which are stockpiled in the game and minted in ERC-721 NFTs. These assets can be freely traded with other players. All in-game transactions are conducted on an exclusive marketplace owned by CryptoWar in which players are granted permission to enlist and purchase their NFTs for eliminating massive frauds while doing trades through the use of NFT contracts.
 
 ## Approving xBlade Spending
 
-After purchasing NFTs on the marketplace, the system automatically dispatch a notification of a transaction approval form to the players, as illustrated in the following photo: 
+After purchasing NFTs on the marketplace, the system automatically dispatch a notification of a transaction approval form to the players, as illustrated in the following photo:
 
-![image](https://user-images.githubusercontent.com/90205972/136230009-6c0c5449-ad0e-46fe-a93c-7c324ebe70c6.png)
+It is due to the fact that CryptoWar is not given authorization to spend xBlade directly from players’ MetaMask wallet. Consequently, players are obligated to seek authorization whenever they need to execute a marketplace transaction, which appears to be completely different from the actual purchase confirmation. After the completion of transaction approval, players will receive an official notification of purchasing process on the market.
 
-It is due to the fact that CryptoWar is not given authorization to spend xBlade directly from players’ MetaMask wallet. Consequently, players are obligated to seek authorization whenever they need to execute a marketplace transaction, which appears to be completely different from the actual purchase confirmation. After the completion of transaction approval, players will receive an official notification of purchasing process on the market. 
+![](../.gitbook/assets/11.jpg)
 
 {% hint style="info" %}
 It is advisable to have a strategic purchase planning for each item on the market; otherwise players will receive a gas fee error in case they try out for items purchased by someone else.
@@ -42,7 +42,7 @@ If players are able to access to the asset ID of the NFT purchased or to the sel
 
 After that, simply paste asset ID on the textbox and select either "Search Character ID" or "Search Weapon ID" to detect players’ wanted NFT.
 
-In case players have the seller’s wallet address, they may possibly insert it into the textbox and choose “Characters by Seller” or “Weapons by Seller” to see over all of their existing characters and weapons. What is more, players can use this tab to keep track of their current characters and weapons, along with their tax-inclusive price. 
+In case players have the seller’s wallet address, they may possibly insert it into the textbox and choose “Characters by Seller” or “Weapons by Seller” to see over all of their existing characters and weapons. What is more, players can use this tab to keep track of their current characters and weapons, along with their tax-inclusive price.
 
 Players are empowered to de-list the item or adjust its’ listed price when selecting a listed NFT. Nevertheless, it is worth noting that players should place a new price into the textbox after the process of adjusting price, which will then be taxed at the rate of 10% before having the item re-listed on the marketplace.
 

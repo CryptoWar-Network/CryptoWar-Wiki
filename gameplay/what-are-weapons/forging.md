@@ -1,6 +1,6 @@
 # Forging
 
-To reinforce combat power, players are suggested to purchase new weapons from xBlade shop. Below is the concrete detail about secret boxes which are harnessed to mint each tier of weapons. 
+To reinforce combat power, players are suggested to purchase new weapons from xBlade shop. Below is the concrete detail about secret boxes which are harnessed to mint each tier of weapons.
 
 **Common Box**
 
@@ -14,6 +14,8 @@ To reinforce combat power, players are suggested to purchase new weapons from xB
 
 • Five-star, 1% chance
 
+![](../../.gitbook/assets/20.jpg)
+
 **Rare Box**
 
 • Two-star, 51% chance
@@ -24,9 +26,11 @@ To reinforce combat power, players are suggested to purchase new weapons from xB
 
 • Five-star, 3% chance
 
+![](../../.gitbook/assets/21.jpg)
+
 The following are guidelines for explicating physical property of weapons based on their level rank.
 
-One-star weapons are assigned an element and an element or power attribute. The attribute stat will be fabricated at random from 4 to 200 with an average of 102, which comprises of  25.5% of additional power at the level of 102, with a minimum of 1% and maximum of 50%.
+One-star weapons are assigned an element and an element or power attribute. The attribute stat will be fabricated at random from 4 to 200 with an average of 102, which comprises of 25.5% of additional power at the level of 102, with a minimum of 1% and maximum of 50%.
 
 Two-star weapons are assigned an element and an element or power attribute. The attribute stat will be fabricated at random from 180 to 300 with an average of 240, which comprises of 60% of additional power at the level of 240, with a minimum of 45% and maximum of 75%.
 
