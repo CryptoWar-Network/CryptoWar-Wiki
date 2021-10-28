@@ -36,7 +36,7 @@
 * [Rewards](gameplay/rewards.md)
 * [Character Levels & required experience per level](gameplay/character-levels-and-required-experience-per-level.md)
 
-## Marketplace <a id="market"></a>
+## Marketplace <a href="market" id="market"></a>
 
 * [Marketplace](market/marketplace.md)
 * [Trading](market/trading.md)
@@ -49,7 +49,7 @@
 
 ## Information
 
-* [DISCLAIMER AND  RIGHTS](information/disclaimer-and-rights.md)
+* [DISCLAIMER AND RIGHTS](information/disclaimer-and-rights.md)
 * [Help & FAQ](information/faq.md)
 * [Terms of Use](information/terms-of-use.md)
 * [Privacy Policy](information/privacy-policy.md)
@@ -58,7 +58,7 @@
 
 * [HomePage](https://cryptowar.network)
 
----
+***
 
 * [Play CryptoWar](https://play.cryptowar.network)
-
+* [System Upgrade](system-upgrade.md)
