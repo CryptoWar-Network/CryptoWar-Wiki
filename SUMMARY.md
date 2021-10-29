@@ -19,6 +19,7 @@
   * [Obtaining xBlade](xblade/what-is-xblade/obtaining-xblade.md)
   * [Staking](xblade/what-is-xblade/staking.md)
   * [Oracle](xblade/what-is-xblade/oracle.md)
+  * [In-Game xBlade](xblade/what-is-xblade/in-game-xblade.md)
 
 ## GAMEPLAY
 
