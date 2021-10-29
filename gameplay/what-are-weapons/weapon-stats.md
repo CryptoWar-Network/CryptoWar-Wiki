@@ -42,9 +42,9 @@ Each attribute has a corresponding numerical value recognized by the weapon rari
 | ------------- | ------------ | ------------ |
 | 1-star        | 4            | 200          |
 | 2-star        | 180          | 300          |
-| 3-star        | 280          | 400          |
-| 4-star        | 200          | 400          |
-| 5-star        | 268          | 400          |
+| 3-star        | 200          | 400          |
+| 4-star        | 268          | 400          |
+| 5-star        | 280          | 400          |
 
 Attribute values along with character stats are fully utilized to indicate that total attribute values combined with character power is employed to determine target power ranges in each combat. Aside from that, total attribute values, attribute elements and character power as well are used to measure the rolls each players might possess when engaging in a combat.
 
