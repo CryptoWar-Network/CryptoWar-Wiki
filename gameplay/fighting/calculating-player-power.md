@@ -19,7 +19,7 @@ $$
 unalignedPower = (((attributeTotal * 0.0025) + 1) * charPower) +bonusPower
 $$
 
-After calculating unaligned power, we do a ±10% multiplier to estimate the range of enemy power values.
+After calculating unaligned power, we do a ±20% multiplier to estimate the range of enemy power values.
 
 {% hint style="info" %}
 Let's take another calculating sample using the following values:
@@ -30,9 +30,9 @@ Let's take another calculating sample using the following values:
 
 Unaligned Power is up to 4500.
 
-4500 \* 0.9 rounded to the nearest whole number is 4050 which is Minimum Enemy Power.
+4500 \* 0.8 rounded to the nearest whole number is 3600 which is Minimum Enemy Power.
 
-4500 \* 1.1 rounded to the nearest whole number is 4950 which is Maximum Enemy Power.
+4500 \* 1.2 rounded to the nearest whole number is 5400 which is Maximum Enemy Power.
 {% endhint %}
 
 ## Aligned Character Power
