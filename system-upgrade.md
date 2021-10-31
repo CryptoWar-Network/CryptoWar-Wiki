@@ -4,7 +4,9 @@ description: System upgrade 5AM UTC 28/10/2021
 
 # System Upgrade
 
-In order to make Cryptowar more balance and have long term growth for community, we make some important system changes, mostly about stamina point recovery time and tax per fight. In more details you can look up at the link below :&#x20;
+In order to make Cryptowar more balance and have long term growth for community, we make some important system changes, mostly about stamina point recovery time and tax per fight. In more details you can look up at the link below.&#x20;
+
+All the fight tax will be used to buy back xBlade and adding into liquidity pool as you can check here: [https://bscscan.com/address/0x8ba9f0841cfa75d7e2c7a316b048b04c98c95ca4#internaltx](https://bscscan.com/address/0x8ba9f0841cfa75d7e2c7a316b048b04c98c95ca4#internaltx)&#x20;
 
 
 
