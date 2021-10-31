@@ -107,7 +107,7 @@ The following are instructions about character elements to get the upper hand of
 
 The players’ final power value is totalized by measuring Trait Bonus and multiplying it by Aligned Power.
 
-A ±10% is then applied to the final value to determine the player's combat roll.
+A ±20% is then applied to the final value to determine the player's combat roll.
 
 {% hint style="info" %}
 The following variables are assumed based on the Aligned Power calculated above.
