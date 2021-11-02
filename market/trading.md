@@ -22,13 +22,12 @@ Please ensure that players’ receiving wallet has an extra character slot and t
 
 ![image](https://user-images.githubusercontent.com/90205972/136993577-fb30e73c-ac5c-4c66-b9e8-fe607bb76b51.png)
 
-1. Go to “Function 12- safeTransferFrom” and input the following data:
-
-[![](https://i.imgur.com/JtM1RcX.png)](https://imgur.com/JtM1RcX)
+1. Go to “Function 11- safeTransferFrom” and input the following data:
 
 * “from (address)” means the owner’s address
 * “to (address)” refers to the receiver’s address
 * “tokenID (uint256)” is the character ID
+*
 
 1. Tab on "Write". The verification will be sent directly to your account by MetaMask to confirm your transaction.
 2. Pay the gas fee and wait for your transaction to complete.
@@ -55,9 +54,7 @@ Players are expected to follow the same instructions as they have done for the c
 
 ![image](https://user-images.githubusercontent.com/90205972/136999644-d6fe3f97-fb3b-4b20-bef9-353f3427c17d.png)
 
-1. Go to “Function 11- safeTransferFrom” and input the following data:
-
-![image](https://user-images.githubusercontent.com/43546617/127622676-72634467-cb7a-4138-81a2-d949b9f477c9.png)
+1. Go to “Function 17- safeTransferFrom” and input the following data:
 
 * “from (address)” means the owner’s address
 * “to (address)” refers to the receiver’s address
