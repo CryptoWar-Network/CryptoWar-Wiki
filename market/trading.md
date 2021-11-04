@@ -26,7 +26,7 @@ Please ensure that players’ receiving wallet has an extra character slot and t
 
 * “from (address)” means the owner’s address
 * “to (address)” refers to the receiver’s address
-* “tokenID (uint256)” is the character ID
+* “tokenID (uint256)” is the Character ID
 *
 
 1. Tab on "Write". The verification will be sent directly to your account by MetaMask to confirm your transaction.
@@ -58,7 +58,7 @@ Players are expected to follow the same instructions as they have done for the c
 
 * “from (address)” means the owner’s address
 * “to (address)” refers to the receiver’s address
-* “tokenID (uint256)” is the character ID
+* “tokenID (uint256)” is the Weapon ID
 
 1. Click on "Write". You will be prompted by MetaMask to confirm your transaction.
 2. Pay the gas fee and wait for your transaction to complete.
