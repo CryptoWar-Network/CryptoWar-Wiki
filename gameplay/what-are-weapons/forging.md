@@ -14,7 +14,7 @@ To reinforce combat power, players are suggested to purchase new weapons from xB
 
 • Five-star, 1% chance
 
-![](../../.gitbook/assets/20.jpg)
+![](<../../.gitbook/assets/20 (1).jpg>)
 
 **Rare Box**
 

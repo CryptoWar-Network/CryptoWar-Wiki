@@ -37,6 +37,11 @@
   * [Weapon Durability](gameplay/what-are-weapons/weapon-durability.md)
 * [Rewards](gameplay/rewards.md)
 * [Character Levels & required experience per level](gameplay/character-levels-and-required-experience-per-level.md)
+* [PVP - coming soon](gameplay/pvp-coming-soon/README.md)
+  * [Challenge Mode as Defender](gameplay/pvp-coming-soon/challenge-mode-as-defender.md)
+  * [Challenge Mode as Attacker](gameplay/pvp-coming-soon/challenge-mode-as-attacker.md)
+  * [Career Mode as Defender](gameplay/pvp-coming-soon/career-mode-as-defender.md)
+  * [Career Mode as Attacker](gameplay/pvp-coming-soon/career-mode-as-attacker.md)
 
 ## Marketplace <a href="market" id="market"></a>
 

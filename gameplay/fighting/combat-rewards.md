@@ -10,7 +10,7 @@ The fees imposed on stamina consumption are on the par with the estimated increa
 
 Combat experience is also multiplied equivalently based on the value of stamina players pick out.
 
-![Stamina Point](../../.gitbook/assets/15.jpg)
+![Stamina Point](<../../.gitbook/assets/15 (1).jpg>)
 
 ## xWeapon Payout
 
@@ -22,7 +22,7 @@ $$
 
 Gas Offset is shown in the earnings calculator as follows:
 
-![](../../.gitbook/assets/9.jpg)
+![](<../../.gitbook/assets/9 (1).jpg>)
 
 These numbers are appropriately modified by the Oracle which covers the currency value of xWeapon
 
