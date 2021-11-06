@@ -2,12 +2,6 @@
 
 After joining , each player obtains their first character at level 1. Player must procure XP through battles to advance to next level of their character. Higher-level characters have an upper hand of winning the battles, resulting in cash bounty and getting more value of their respective character.
 
-## Level Milestones
-
-Level milestones are specific points in the game which each character accumulates to enrich its power which ultimately skyrocketing their xBlade payout.
-
-At the moment, milestones peeps at every ten levels, begins with 11 then 21,31,41, etc.
-
 ## Calculating Experience
 
 To determine the eligibility of claim, gamers have to keep a copy of subsequent at the following link at
