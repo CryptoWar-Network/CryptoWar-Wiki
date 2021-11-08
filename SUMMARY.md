@@ -9,6 +9,7 @@
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions/README.md)
     * [Infrastructure](getting-started/common-issues-and-solutions/infrastructure.md)
 * [Tokenomics](tokenomics.md)
+* [Backers & Partners](backers-and-partners.md)
 * [Roadmap](roadmap.md)
 * [Other Links](other-links.md)
 
@@ -68,4 +69,5 @@
 ***
 
 * [Play CryptoWar](https://play.cryptowar.network)
+* [Social & Chat](social-and-chat.md)
 * [System Upgrade](system-upgrade.md)
