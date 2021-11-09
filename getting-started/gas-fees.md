@@ -21,3 +21,7 @@ Gas costs for transactions are subject to volatility depending on network traffi
 ## Recommended BNB
 
 New players are highly recommended to hold a certain amount of BNB in to pay for gas fees according to the implementation of Early Withdraw Tax. It is estimated that players pay an average of 0.142 BNB per week on each fight which means that the minimum amount of BNB needed to maintain their wallet is around 0.16 in order to pay for additional fees such as platform fees, reforging weapons, staking xBlade, claiming experience ect.
+
+## Buyback System
+
+Whenever total gas fee get to 0.2 BNB, 1 Buyback order will be auto released by system so the fight after that will pay 0.4$ in BNB more than normal fight. Total gas fee will refresh and start counting again after Buyback order.
