@@ -13,3 +13,22 @@ All the fight tax will be used to buy back xBlade and adding into liquidity pool
 {% embed url="https://docs.google.com/spreadsheets/d/112pr5RU45xhxlaqEq4HRn4rxf5Oym2IUJISQciduIO8/edit#gid=0" %}
 In detail
 {% endembed %}
+
+
+
+## Stamina & Reward
+
+We have made some changes about stamina & reward per fight. From now when you spend more stamina on 1 fight you will earn better reward as example below :
+
+40 stamina points / 1 fight earn A xBlade&#x20;
+
+80 stamina points / 1 fight earn A\*1.5 xBlade&#x20;
+
+120 stamina points / 1 fight earn A\*2 xBlade
+
+160 stamina points / 1 fight earn A\*2.5 xBlade&#x20;
+
+200 stamina points / 1 fight earn A\*3 xBlade&#x20;
+
+This update will be officially applied at 23:59:59  UTC 11.11.2021
+

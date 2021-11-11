@@ -12,22 +12,6 @@ Combat experience is also multiplied equivalently based on the value of stamina 
 
 ![Stamina Point](<../../.gitbook/assets/15 (1).jpg>)
 
-## Reward and Stamina:
-
-You can choose how many stamina points to spend on 1 fight : 40/80/120/160/200
-
-Higher stamina point earns better reward as formula below :
-
-40 stamina points / 1 fight earn A xBlade + B EXP
-
-80 stamina points / 1 fight earn A\*1.5 xBlade + B\*1.5 EXP
-
-120 stamina points / 1 fight earn A\*2 xBlade + B\*2 EXP
-
-160 stamina points / 1 fight earn A\*2.5 xBlade + B\*2.5 EXP
-
-200 stamina points / 1 fight earn A\*3 xBlade + B\*3 EXP
-
 
 
 
