@@ -14,7 +14,7 @@ CWC stands for CryptoWar Character, which directly corresponds to NFTs present i
 
 If you want your CWC to be visible to your MetaMask wallet, you may add the token through its contract address found below:
 
-> 0xc6f252c2cdd4087e30608a35c022ce490b58179b
+> 0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B
 
 {% hint style="info" %}
 Set the decimal to "0" if prompted.
