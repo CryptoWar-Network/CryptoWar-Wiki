@@ -1,14 +1,14 @@
 ---
-description: 'RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN xBlade'
+description: RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN xBlade
 ---
 
 # CryptoWar
 
-> This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network/)
+> This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network)
 
 #### A DEFI Game Platform and gaming experience On Binance Smart Chain
 
-CryptoWar is a Play to Earn NFT RPG in which players participate in the process of acquiring legendary Blades and powerful Heroes to wield them through the marketplace. Being forked and improved by [https://XBN.finance](https://XBN.finance) on the Binance Smart Chain platform, CryptoWar enables the players to be engaged in battles to earn xBlade tokens by using their assets minted in the ERC-271 standard to facilitate transactions on the proprietary marketplace
+CryptoWar is a Play to Earn NFT RPG in which players participate in the process of acquiring legendary Blades and powerful Heroes to wield them through the marketplace. Being forked and improved by [https://XBN.finance](https://xbn.finance) on the Binance Smart Chain platform, CryptoWar enables the players to be engaged in battles to earn xBlade tokens by using their assets minted in the ERC-721 standard to facilitate transactions on the proprietary marketplace
 
 With other DeFi products, CryptoWar will definitely be a dreamland for gamers and blockchain adopters.
 
@@ -23,7 +23,7 @@ The peer-to-peer marketplace for BSC-based NFTs collectibles and in-game items
 ### NFT farming
 
 * High APR xBlade farming
-* NFT booster farming \( Farming with higher APR with rare NFTs\)
+* NFT booster farming ( Farming with higher APR with rare NFTs)
 * Redeem NFT for real xBlade
 
 ## Vision
@@ -48,4 +48,3 @@ The following are examples of current options for players to play the game:
 * Minting characters and weapons and selling them for xBlade on the marketplace.
 * Trading NFTs with other players for BEP-20 tokens.
 * Exchanging xBlade on a DEX for currency that can be traded on an exchange such as Binance.
-
