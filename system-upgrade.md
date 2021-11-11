@@ -30,5 +30,5 @@ We have made some changes about stamina & reward per fight. From now when you sp
 
 200 stamina points / 1 fight earn A\*3 xBlade&#x20;
 
-This update will be officially applied at 23:00:00  UTC 11.11.2021
+This update will be officially applied at 16:00:00  UTC 11.11.2021
 
