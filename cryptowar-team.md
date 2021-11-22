@@ -12,11 +12,11 @@ We engaged into crypto space back in early 2013 when Bitcoin was only a few $ an
 
 In mid of 2021, realizing the implications that NFTs can revolutionize gaming into a field where players can play and make a living from their investments and efforts, we developed our first game, CryptoWar xBlade, that aims to be our core product for GameFi space. We emerge ourselves into Metaverse developments and are working day and night to create new features into CryptoWar so that Cryptowar can be an intersection of gaming, virtual social, and finance.
 
-|                                |   |
-| :----------------------------: | - |
-| ![](.gitbook/assets/james.png) |   |
-|                                |   |
-|                                |   |
-|                                |   |
+|                                               |                                                                                                                                                       |
+| :-------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](.gitbook/assets/ReadyPlayerMe-Avatar.png) | <p><strong>James Le / Co-CEO</strong></p><p>+20 years in high tech industry</p><p>+6 years in Crypto industry</p><p>+3 years in building </p>         |
+|          ![](.gitbook/assets/tri.png)         | <p><strong>Tri Ton / Co-CEO</strong></p><p>+15 years in Finance</p><p>+6 years in Crypto Industry</p><p></p>                                          |
+|          ![](.gitbook/assets/tam.png)         | <p><strong>Tam Nguyen / CTO </strong></p><p>+7 years in Product Development</p><p>+5 years in Smart Contract Development </p><p><strong></strong></p> |
+|                                               |                                                                                                                                                       |
 
 #### Work hard. Have Fund. Make History!
