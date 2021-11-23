@@ -70,5 +70,4 @@
 ***
 
 * [Play CryptoWar](https://play.cryptowar.network)
-* [Social & Chat](social-and-chat.md)
 * [System Upgrade](system-upgrade.md)

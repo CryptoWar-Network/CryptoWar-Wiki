@@ -15,4 +15,5 @@
 * Twitter
   * XBN x Cryptowar : [https://twitter.com/elasticbitcoin](https://twitter.com/elasticbitcoin)
   * Cryptowar: [https://twitter.com/xbladecryptowar](https://twitter.com/xbladecryptowar)
+* Discord: [https://discord.gg/zS2khZ4F7K](https://discord.gg/zS2khZ4F7K)
 
