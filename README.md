@@ -6,7 +6,7 @@ description: RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN xBlade
 
 > This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network)
 
-#### A DEFI Game Platform and gaming experience On Binance Smart Chain
+#### A DeFi Game Platform and gaming experience on Binance Smart Chain
 
 CryptoWar is a Play to Earn NFT RPG in which players participate in the process of acquiring legendary Blades and powerful Heroes to wield them through the marketplace. Being forked and improved by [https://XBN.finance](https://xbn.finance) on the Binance Smart Chain platform, CryptoWar enables the players to be engaged in battles to earn xBlade tokens by using their assets minted in the ERC-721 standard to facilitate transactions on the proprietary marketplace
 
