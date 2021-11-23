@@ -12,7 +12,7 @@
 * [CryptoWar Team](cryptowar-team.md)
 * [Backers & Partners](backers-and-partners.md)
 * [Roadmap](roadmap.md)
-* [Other Links](other-links.md)
+* [Social Links](other-links.md)
 
 ## xBlade
 
