@@ -19,6 +19,6 @@ In mid of 2021, realizing the implications that NFTs can revolutionize gaming in
 |          ![](.gitbook/assets/tam.png)         | <p><strong>Tam Nguyen / CTO </strong></p><p>+7 years in Product Development</p><p>+5 years in Smart Contract Development </p><p><strong></strong></p> |
 |                                               |                                                                                                                                                       |
 
-![](<.gitbook/assets/Untitled design (2).png>)
+![](<.gitbook/assets/Team Image.png>)
 
 #### Work hard. Have Fund. Make History!
