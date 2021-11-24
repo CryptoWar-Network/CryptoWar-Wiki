@@ -1,6 +1,6 @@
 # In-Game xBlade
 
-![Time is money](<../../.gitbook/assets/image (2).png>)
+![Time is money](<../../.gitbook/assets/image (2) (1).png>)
 
 When you win a fight, you will get in game xBlade and you can use that xBlade to mint new heroes.&#x20;
 
