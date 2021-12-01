@@ -8,7 +8,7 @@ Players should be aware that there are safety risks for players to make themselv
 
 ## Trading Characters
 
-The character contract, which can be explored on the link below, is used to trade characters. It is worth noting that character contract is completely different from weapon contract. Further information on the character contract can be found here: [**CryptoWar Character Trading Contract**](https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract)** **
+The character contract, which can be explored on the link below, is used to trade characters. It is worth noting that character contract is completely different from weapon contract. Further information on the character contract can be found here: [**CryptoWar Character Trading Contract**](https://bscscan.com/address/0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B#writeProxyContract) ****&#x20;
 
 0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B&#x20;
 

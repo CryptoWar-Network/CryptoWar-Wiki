@@ -22,6 +22,7 @@
   * [Staking](xblade/what-is-xblade/staking.md)
   * [Oracle](xblade/what-is-xblade/oracle.md)
   * [In-Game xBlade](xblade/what-is-xblade/in-game-xblade.md)
+  * [Sales Tax](xblade/what-is-xblade/sales-tax.md)
 
 ## GAMEPLAY
 
@@ -45,7 +46,7 @@
   * [Career Mode as Defender](gameplay/pvp-coming-soon/career-mode-as-defender.md)
   * [Career Mode as Attacker](gameplay/pvp-coming-soon/career-mode-as-attacker.md)
 
-## Marketplace <a href="market" id="market"></a>
+## Marketplace <a href="#market" id="market"></a>
 
 * [Marketplace](market/marketplace.md)
 * [Trading](market/trading.md)
