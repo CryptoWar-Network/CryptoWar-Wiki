@@ -1,27 +1,36 @@
+---
+description: >-
+  Roadmap will be updated during the process of implementation to best represent
+  team's direction to new changes.
+---
+
 # Roadmap
 
+### Phase 1 - Developing Basic PvP CryptoWar Game
 
+Estimated implementation time: 10 months, June, 2022 to May, 2024
 
-#### Phase 1 - Launching
+* Launch P2E Gameplay mode: heroes battling monsters
+* Launch PvP Gameplay mode: heroes battling other heroes (in a 1v1 or 3v3 match)
+* Launch Guild System: make friends & form alliance among CryptoWar battles
+* Launch Quest system based on CryptoWar's game story lore of the 4 elements
+* Launch Staking/Lending Hero Feature: gamer can choose to "lend" a Hero for others to level-up
 
-* Graphic Designs Characters And Marketplace
-* Launch Social + Website
-* IDO on Unicrypt
-* Public launch on PancakeSwap
-* Public launch NFT Marketplace
+### Phase 2 - Perfecting a PvP&#x20;
 
-#### Phase 2 - Acceleration Phase
+Estimated implementation time: 2 years, June, 2022 to May, 2024
 
-* Play-to-Earn NFT Game
-* Coingecko, CMC listing
-* CEX Listing
-* Public launch NFT booster farming
-* Release more Hero & Weapon NFT
+* CEX Listing on Gate.io
+* Developing new core gameplay mechanics
+* Expanding CryptoWar Lore & Story
+* Launch a Tournament system
+* Developing Creator Platform: encouraging creators to earn income through contributing NFT artwork, lore-rich Quest and more
 
-#### Phase 3 - Mars Phase
+### Phase 3 - Franchising CryptoWar Phase
 
-* Crafting & Upgrade Items
-* PvP Mode Beta
-* CryptoWar Dapp Mobile Game
+Estimated implementation time: 3 years, June, 2024 to May, 2027
+
+* Expanding to new games
+* Improving Creator Platform
+* Connecting CryptoWar games into a Metaverse Project
 * Gaming Ecosystem Expansion
-
