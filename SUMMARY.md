@@ -9,7 +9,7 @@
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions/README.md)
     * [Infrastructure](getting-started/common-issues-and-solutions/infrastructure.md)
 * [Tokenomics](tokenomics.md)
-* [Roadmap](roadmap.md)
+* [Lộ trình phát triển](roadmap.md)
 * [Other Links](other-links.md)
 
 ## xBlade
@@ -36,7 +36,7 @@
 * [Rewards](gameplay/rewards.md)
 * [Character Levels & required experience per level](gameplay/character-levels-and-required-experience-per-level.md)
 
-## Marketplace <a id="market"></a>
+## Marketplace <a href="#market" id="market"></a>
 
 * [Marketplace](market/marketplace.md)
 * [Trading](market/trading.md)
@@ -58,7 +58,6 @@
 
 * [HomePage](https://cryptowar.network)
 
----
+***
 
 * [Play CryptoWar](https://play.cryptowar.network)
-
