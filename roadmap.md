@@ -16,7 +16,6 @@ CryptoWar hướng tới trở thành một nhà sản xuất không gian Metave
 * Hoàn thiện chế độ PvP: anh hùng tỉ thí anh hùng (1v1 và 3v3)
 * Hoàn thiện hệ thống xây dựng Bang hội
 * Hoàn thiện hệ thống Nhiệm vụ & Cốt truyện thế giới CryptoWar
-* Hoàn thiện hệ thống Đấu giải
 * Hoàn thiện hệ thống "Giao mượn" anh hùng cho người chơi khác
 
 ## Giai đoạn 2 - Xây dựng hình thức game mới
@@ -26,6 +25,7 @@ Dự tính thời gian thực hiện: từ tháng 6, 2022 tới tháng 5, 2024
 * Xuất hiện xBlade trên sàn CEX Gate.io
 * Phát triển hệ thống gameplay mới tiềm năng
 * Mở rộng hệ thống cốt truyện
+* Hoàn thiện hệ thống Đấu giải
 * Phát triển hệ thống giúp người chơi thiết kế các dạng Nhiệm vụ, tạo vật phẩm NFT và trao bán&#x20;
 
 ## Giai đoạn 3 - Xây dựng Hệ thống Metaverse CryptoWar
