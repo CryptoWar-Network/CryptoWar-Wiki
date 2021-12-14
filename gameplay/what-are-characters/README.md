@@ -2,9 +2,9 @@
 
 [![](https://i.imgur.com/aiCzAty.png)](https://imgur.com/aiCzAty)
 
-CryptoWar characters are the most important NFTs as they are the essential pillar for success of every battle. Players must possess at least one character in their account and each account can hold a maximum of 4 characters.
+CryptoWar characters are the most important NFTs as they are the essential pillar for success of every battle. Players must possess at least one character in their account and each account can hold a maximum of 8 characters.
 
-Click on the button in the Plaza tab to pay for the fee to mint character. All xBalde spent on minting characters is sent directly to the contract so as to handle fight payouts. Once players finished this process, they receive a character at level 1 with a random element.
+Click on the button in the Plaza tab to pay for the fee to mint character. All xBlade spent on minting characters is sent directly to the contract so as to handle fight payouts. Once players finished this process, they receive a character at level 1 with a random element.
 
 Currently there is no method for changing the element of a character.
 
