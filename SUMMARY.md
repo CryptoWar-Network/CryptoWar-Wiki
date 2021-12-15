@@ -13,6 +13,8 @@
 * [Backers & Partners](backers-and-partners.md)
 * [Roadmap](roadmap.md)
 * [Social Links](other-links.md)
+* [Game Concept](game-concept/README.md)
+  * [Game Story](game-concept/game-story.md)
 
 ## xBlade
 
