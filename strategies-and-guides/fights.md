@@ -1,44 +1,27 @@
-# Fights
+# Chiến Đấu
 
-## How much stamina to spend?
+## Nên dùng bao nhiêu điểm năng lượng ?
 
-Spending a larger amount of stamina per fight would result in the same dollar value return when considering gas, but may result in a smaller average payout over a long period of time if the player loses multiple fights.
+Mặc dù tiêu tốn nhiều sức chịu đựng hơn có nghĩa là bạn có thể thắng trận đấu nhanh hơn, nhưng phần thưởng trả về vẫn giống nhau khi tính vào phí xăng và khoản thanh toán trung bình trở nên nhỏ hơn trong thời gian dài nếu người chơi thua trận.
 
-Higher stamina spending amplifies any losses the player may get, but in return saves time and gas especially if the player is operating with multiple accounts and/or a budget in gas BNB.
+Mặc dù tiêu tốn nhiều sức chịu đựng hơn có nghĩa là bạn có thể thắng trận đấu nhanh hơn, nhưng phần thưởng trả về vẫn giống nhau khi tính vào phí xăng và khoản thanh toán trung bình trở nên nhỏ hơn trong thời gian dài nếu người chơi thua trận.
 
-Choose according to your time and gas.
+![](../.gitbook/assets/25.jpg)
 
-## Choosing Monsters
 
-It is recommended to choose a monster with an element that your character has an advantage against.
 
-The formula that calculates the randomized enemies you encounter is based off of your selected character and weapon. This means that theoretically you are always given a range of monsters that are all possible to defeat.
+## Lựa Chọn Quái Vật
 
-Because the calculation doesn't take into account elements, you can secure a high win rate by choosing weapons that match your element and choosing monsters that you have an advantage against.
+Phạm vi kẻ thù mà bạn có thể chiến đấu là ngẫu nhiên nhưng vẫn theo một công thức không được tiết lộ dựa trên nhân vật và vũ khí của bạn. Do đó, bạn có thể đánh bại toàn bộ hoặc không có gì cả vì các yếu tố tài khoản không có trong công thức này. Do đó, bạn có thể tăng đáng kể tỷ lệ chiến thắng của mình bằng cách chọn một con quái vật có yếu tố mà nhân vật và vũ khí của bạn có lợi thế hơn. Không nên chọn những người có lợi thế hơn các yếu tố của bạn vì có nhiều khả năng bạn sẽ bị lỗ.
 
-{% hint style="info" %}
-If your stamina is about to overflow, and you have no monsters where you have elemental advantage against, you may choose to fight enemies of other elements.
+![](../.gitbook/assets/26.jpg)
 
-Fighting a similar or off-element monster incurs no bonus but incurs no penalties against.
 
-As much as possible, try to avoid fighting into elemental disadvantage.
-{% endhint %}
 
-## Hourly Refresh
+## Làm Mới Mỗi Giờ
 
-Sometimes you get sent a randomized set of monsters where you have no elemental advantage. If you have the stamina to spare, you may opt to wait for the next refresh to receive a new set of monsters to attack
+Đôi khi bạn có thể gặp xui xẻo và nhận được một lô đầy quái vật mà bạn không có lợi thế về mặt nguyên tố để chống lại. Nếu bạn vẫn còn sức chịu đựng, bạn nên đợi một đợt ngẫu nhiên mới, diễn ra hàng giờ lúc UTC + 0. Để tránh lỗi EVM, tất cả người chơi sẽ không thể bắt đầu trận chiến trong 30 giây cuối mỗi giờ. Trong khoảng thời gian 30 giây này, người chơi nên đợi hàng giờ mới bắt đầu và không bắt đầu bất kỳ cuộc chiến nào vì việc bỏ sót quái vật có thể gây ra lỗi giao dịch.
 
-Every hour at UTC +0, the monsters refresh. CryptoWar prevents combat in the final 30 seconds of each hour to prevent EVM errors, though it is recommended to wait for the full refresh if it is about to come to prevent any transaction errors due to missing monsters.
+## Sức Mạnh Cao Hơn và Thấp Hơn
 
-## High Power and Low Power
-
-Monster's power ranges from ±10% of the calculated value, and as such have a wide variance especially if your character levels get higher.
-
-The choice to target a high-powered enemy against a low-powered enemy boils down to choosing payout over win rate.
-
-Choosing high-powered enemies have a higher chance of loss but have a higher experience and xBlade payout as well.
-
-Choosing low-powered enemies results in a higher win rate with a lower experience gain and xBlade payout.
-
-For new players, it is recommended to choose lower-powered enemies to guarantee a reward and experience progression.
-
+Sức mạnh của quái vật dao động ± 20% giá trị dự đoán. Vì lý do đó, có rất nhiều sự thay đổi, đặc biệt là khi cấp độ nhân vật của người chơi tăng lên. Lựa chọn nhắm mục tiêu vào kẻ thù có sức mạnh cao chống lại kẻ thù có sức mạnh thấp phụ thuộc vào việc lựa chọn tỷ lệ thanh toán trên chiến thắng. Chiến đấu với kẻ thù mạnh mẽ có thể có nguy cơ thất bại trò chơi nhưng tăng cơ hội nhận được nhiều kinh nghiệm hơn cũng như thanh toán xBlade và ngược lại. Người chơi mới được khuyến khích chọn những kẻ thù có sức mạnh thấp hơn để duy trì điểm thưởng xBlade và điểm kinh nghiệm của họ.

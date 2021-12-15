@@ -1,7 +1,7 @@
 # Table of contents
 
 * [CryptoWar](README.md)
-* [Getting Started](getting-started/README.md)
+* [Khởi Đầu](getting-started/README.md)
   * [Cài Đặt MetaMask Wallet](getting-started/metamask-wallet-setup.md)
   * [Mua xBlade](getting-started/purchasing-xblade.md)
   * [Phí Gas](getting-started/gas-fees.md)
@@ -10,7 +10,7 @@
     * [Infrastructure](getting-started/common-issues-and-solutions/infrastructure.md)
 * [Tokenomics](tokenomics.md)
 * [Lộ trình phát triển](roadmap.md)
-* [Other Links](other-links.md)
+* [Mạng Xã Hội](other-links.md)
 
 ## xBlade
 
@@ -50,15 +50,15 @@
 
 ## Strategies and Guides
 
-* [Characters](strategies-and-guides/characters.md)
-* [Weapons](strategies-and-guides/weapons.md)
-* [Fights](strategies-and-guides/fights.md)
+* [Nhân Vật](strategies-and-guides/characters.md)
+* [Vũ Khí](strategies-and-guides/weapons.md)
+* [Chiến Đấu](strategies-and-guides/fights.md)
 
 ## Information
 
 * [DISCLAIMER AND  RIGHTS](information/disclaimer-and-rights.md)
 * [Help & FAQ](information/faq.md)
-* [Terms of Use](information/terms-of-use.md)
+* [Điều Khoản Sử Dụng](information/terms-of-use.md)
 * [Privacy Policy](information/privacy-policy.md)
 
 ## Links

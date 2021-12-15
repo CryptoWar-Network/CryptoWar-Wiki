@@ -1,30 +1,27 @@
-# Characters
+# Nhân Vật
 
-## Your First Character/s
+## Nhân Vật Đầu Tiên
 
-To start the money making journey, you may mint your first hero and receive a free 1-star weapon to go with it. You can mint four characters but it is not likely they are the same element and since you want your heros to be able to use a strong good weapon, one of the best option is purchasing them on market place or you can keep minting, selling other hero that is not associated with the element you need \( for example you have a Fire sword and want to have 4 Fire hero \)
+Người chơi có thể tiến hành các chiến lược hướng đến lợi nhuận của mình bằng cách đúc anh hùng đầu tiên của họ và có được vũ khí 1 sao tương thích với anh hùng của mình mà không mất phí. Người chơi có thể sử dụng bốn ký tự cùng một lúc. Có thể như vậy, chúng còn rất xa vời để sở hữu các yếu tố tương tự. Có rất nhiều chiến thuật để tìm kiếm một vũ khí mạnh mẽ cho các anh hùng của bạn, chẳng hạn như mua chúng trên thị trường, tiếp tục đúc hoặc bán những thứ không tương ứng chặt chẽ với yếu tố mong muốn của bạn. (Ví dụ: một thanh kiếm Lửa nên kết hợp hoàn hảo với 4 anh hùng Lửa)
 
-A better option assuming you have sufficient capital is purchasing leveled characters as experience is a resource that costs time to obtain.
+Giả sử rằng người chơi có đủ tiền để mua các nhân vật đã cấp độ vì họ có thể phụ thuộc vào kinh nghiệm chơi, điều này tốn thời gian.
 
 {% hint style="info" %}
-Purchasing characters can be a good way to get a head start, but don't disregard the weapon.
-
-Suggestions on weapon purchases can be found in their respective section in the Strategies and Guides group.
+Mua nhân vật cũng có thể là một cách tốt để có được một mở đầu tăng giá tốt nhưng đừng bỏ qua vũ khí Bạn có thể tìm thêm thông tin về quy trình mua vũ khí trong nhóm Chiến lược và Hướng dẫn.
 {% endhint %}
 
-## Mono Element Composition
+## Đội Hình 1 Nguyên Tố
 
-If you obtain a good 4-star or 5-star sword of any particular element, it might be beneficial to try and obtain four characters of the same element so they can all share and use that one good sword. Minting a character is the cheapest way to get one, however the current state of the game incentivizes a mono-element team as having four characters of the same element can allow you to leverage just a single amazing sword.
+Nếu bạn có được một thanh kiếm 4 sao hoặc 5 sao tốt của bất kỳ nguyên tố cụ thể nào, bạn có thể cố gắng kiếm được bốn nhân vật của cùng một nguyên tố để tất cả họ có thể chia sẻ và sử dụng một thanh kiếm tốt đó. Đúc kết một nhân vật là cách rẻ nhất để có được một nhân vật, tuy nhiên trạng thái hiện tại của trò chơi khuyến khích một đội đơn nguyên tố vì có bốn nhân vật cùng nguyên tố có thể cho phép bạn tận dụng chỉ một thanh kiếm tuyệt vời.
 
-## When to claim experience ?
+## Khi nào nên nhận EXP ?
 
-Level milestones are the most important aspect in managing character experience.
+Nhân vật có cấp độ càng cao phần thưởng nhận được càng lớn nhưng đồng thời thời gian hồi điểm năng lượng cũng sẽ tăng lên, người chơi nên cân nhắc trước khi nhận EXP và lên cấp cho nhân vật của mình.
 
-Be sure to take note of when your characters are about to hit the next milestone, and if a character has crossed that threshold refrain from fighting with them before claiming their experience.
+Hãy tham khảo thêm tại mục này để biết khi nào đủ EXP cho việc lên cấp và nhận về để tránh lãng phí Gas nhé.
 
-It is also recommended to batch experience claims to minimize gas fees spent on claiming, as each transaction incurs a fee.
+![](../.gitbook/assets/6.jpg)
 
-More information on the experience table, and calculations can be found here:
-
-{% page-ref page="../gameplay/what-are-characters/experience-and-levels.md" %}
-
+{% content-ref url="../gameplay/what-are-characters/experience-and-levels.md" %}
+[experience-and-levels.md](../gameplay/what-are-characters/experience-and-levels.md)
+{% endcontent-ref %}

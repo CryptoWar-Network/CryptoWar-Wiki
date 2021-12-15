@@ -1,14 +1,13 @@
 # Help & FAQ
 
-CryptoWar is a web-based role playing game that emulates traditional games . Players will battle monsters or complete in-game raids to earn xBlade tokens. To help with battles, players can craft weapons to build an advantage over their opponents or boost their power. These items can then be traded in an open marketplace.
+CryptoWar là một trò chơi nhập vai dựa trên web mô phỏng các trò chơi truyền thống. Người chơi sẽ chiến đấu với quái vật hoặc hoàn thành các cuộc đột kích trong trò chơi để kiếm xBlade tokens. Để trợ giúp trong các trận chiến, người chơi có thể chế tạo vũ khí để tạo lợi thế trước đối thủ hoặc tăng cường sức mạnh của họ. Những mặt hàng này sau đó có thể được giao dịch trong một thị trường mở.
 
-The gameplay itself is straightforward. There are four main components – fire, earth, air and water – allocated to each character, weapon, attribute and enemy. Each component will have its strengths and weaknesses, which players must then utilize and build strategies to beat their opponents.
+Các trò chơi chính nó là đơn giản. Có bốn thành phần chính - lửa, đất, không khí và nước - được phân bổ cho từng nhân vật, vũ khí, thuộc tính và kẻ thù. Mỗi thành phần sẽ có điểm mạnh và điểm yếu, người chơi sau đó phải tận dụng và xây dựng chiến lược để đánh bại đối thủ của mình.
 
 * Native crypto token: xBlade
 * Blockchain: Binance Smart Chain
-* Initial investment required: Users will need to purchase around  0.2 BNB to play and pay for transaction fees in-game
+* Yêu cầu đầu tư ban đầu: Người dùng sẽ cần mua khoảng 0,2 BNB để chơi và thanh toán phí giao dịch trong trò chơi
 
-xBlade is needed to make all transactions in the CryptoWar dApp. You can purchase xBlade at any number of decentralized exchanges, like Pancakeswap . Every transaction on BSC also requires the BNB token to process a trade. [Gas fees](https://www.bsc.news/post/cryptonomics-how-to-avoid-ethereum-gas-fees-can-binance-smart-chain-replace-eth) are required to make any transaction while playing. A base amount of xBlade will be required to begin.
+xBlade là cần thiết để thực hiện tất cả các giao dịch trong dApp CryptoWar. Bạn có thể mua xBlade tại bất kỳ số sàn giao dịch phi tập trung nào, như Pancakeswap. Mọi giao dịch trên BSC cũng yêu cầu mã thông báo BNB để xử lý giao dịch. Phí gas được yêu cầu để thực hiện bất kỳ giao dịch nào trong khi chơi. Cần phải có một lượng xBlade cơ bản để bắt đầu.
 
-We recommend users keep a decent amount of BNB in their wallet to play. 0.16 BNB is the recommended amount to sustain a player for one week of play.
-
+Chúng tôi khuyên người dùng nên giữ một lượng BNB kha khá trong ví của họ để chơi. 0,16 BNB là số tiền được khuyến nghị để duy trì một người chơi trong một tuần chơi.

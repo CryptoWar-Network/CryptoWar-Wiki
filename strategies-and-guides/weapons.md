@@ -1,56 +1,49 @@
-# Weapons
+# Vũ Khí
 
-## Choosing a Weapon
+## Lựa Chọn Vũ Khí
 
-The higher the rarity of your weapon, the higher the xBlade payout. Due to the formula adjusting based on your chosen weapon and character, win rate should not fluctuate even if you use a higher rarity weapon and face higher powered monsters.
+Tiền thưởng xBlade tỷ lệ thuận với độ hiếm vũ khí của người chơi. Giả sử rằng người chơi chọn vũ khí có độ hiếm cao và chiến đấu với quái vật có sức mạnh cao hơn, tỷ lệ chiến thắng sẽ không thay đổi do điều chỉnh công thức dựa trên vũ khí và nhân vật được lựa chọn kỹ càng của người chơi. Bên cạnh đó, người chơi được khuyến khích tìm vũ khí 4 sao hoặc 5 sao tuyệt hảo để bắt đầu có được xBlade cũng như thành lập một đội xung quanh vũ khí đó. Người chơi có thể mua nhân vật trước sau đó chọn vũ khí tương thích với thành phần đội của họ. Trong trường hợp người chơi không thể mua hoặc tìm kiếm vũ khí 4 hoặc 5 sao, họ có thể chọn vũ khí có chỉ số số cao nhất để đạt được khoản thanh toán tối đa là xBlade.
 
-It is advisable to find a good 4-star or 5-star weapon to begin earning xBlade, depending on your budget, and build a team around that weapon. You may also choose to purchase characters first and find a weapon that fits the team element.
+Một điều đáng lưu ý là người chơi nên cân nhắc ngân sách của mình trước khi thực hiện tất cả các giao dịch nêu trên.
 
-If you cannot buy or mint a 4-5 star weapon, choose a weapon with as high numerical stats as possible for maximum xBlade payout.
+## Hệ Nguyên Tố của Vũ Khí
 
-## Weapon Element
+Do Phần thưởng đặc điểm được xác định trên cơ sở so sánh yếu tố nhân vật với yếu tố kẻ thù đã chọn, người chơi được khuyến nghị sử dụng vũ khí tương ứng với yếu tố anh hùng của nó, mang lại cho người chơi thêm tiền thưởng tương đương với việc đánh bại quái vật mà họ đang đạt được. một mặt trên của nó.
 
-Because of the Trait Bonus in the combat formula, it is always recommended to use a weapon whose element matches the hero
+## Thuộc Tính Vũ Khí
 
-Using a weapon whose element matches the hero provides a bonus equivalent to choosing a monster where you have advantage against.
+Việc đánh giá sức mạnh vũ khí có thể được thực hiện phụ thuộc vào thuộc tính của nó khi yếu tố vũ khí ngang hàng với đặc tính của nó. Có vẻ như việc tìm nạp một vũ khí với các yếu tố và thuộc tính có giá trị số cao, tương ứng với đặc tính của nó, đã tạo ra một viễn cảnh tươi sáng cho người chơi. Tuy nhiên, những vũ khí như vậy là những vật phẩm cao cấp và có lẽ người chơi có thể phải trả một xu khá lớn để mua nó.
 
-## Weapon Attributes
+Có hai điểm chính cần nắm ở đây:
 
-When the element of the weapon matches the character, it comes down to weapon's attributes to decide if it is a good weapon.
+Người chơi được yêu cầu thực hiện một số nhượng bộ về việc lựa chọn vũ khí ưu tiên khi kích hoạt ngân sách của họ.
 
-The ideal scenario is to get a weapon whose elements and attributes all match the character, and all attributes having high numerical values. Such weapons are valued very highly, and can get quite expensive on the marketplace.
+Người chơi nên chọn vũ khí có chỉ số số cao bất kể kết hợp nguyên tố, ngoài việc nỗ lực để chọn vũ khí có nguyên tố tương ứng với nhân vật của nó.
 
-When operating on a budget, some concessions have to be made regarding weapon choice.
-
-Other than matching the weapon element to the character, it is recommended to choose a weapon with high numerical stats, regardless of elemental matching.
-
-A high numerical stat total results in higher xBlade payout per fight, and the win rate impact of having unmatched stats can be mitigated if the player makes optimal choices in combat.
+Chỉ số tổng số cao hơn tương quan với việc trả xBlade cao hơn sau mỗi trận chiến. Việc sử dụng tốt nhất các loại vũ khí trong mỗi trận chiến có thể làm giảm tác động của việc có các chỉ số chưa từng có đối với tỷ lệ thắng.
 
 {% hint style="info" %}
-Different rarities of weapons have different minimum and maximum attribute value totals. The minimum and maximum total attributes for weapons above 3-star are listed below:
+Sự khác biệt về độ hiếm của vũ khí phản ánh sự khác biệt về tổng giá trị của các thuộc tính. Tổng số thuộc tính tối thiểu và tối đa của vũ khí từ 3 sao trở lên được liệt kê dưới đây:
 
-* 3-star : 280 - 400
-* 4-star : 400 - 800
-* 5-star : 804 - 1200
+* 3 sao : 280 - 400
+* 4 sao : 400 - 800
+* 5 sao : 804 - 1200
 {% endhint %}
 
-If a character is selected when choosing a weapon, users may find that deciding based on percentage is a better option if they wish to consider win rate.
-
-The percentage value of the weapon takes into account the character element, so choosing a high total percentage will lead to a weapon that has a high xBlade payout and a high win rate.
+Khi người chơi tạo ra nhân vật đầu tiên của họ và có được vũ khí 1 sao tương thích với nhân vật của nó mà không mất phí, họ rất nên cân nhắc giá trị phần trăm của vũ khí nếu muốn tăng tỷ lệ chiến thắng trong trận chiến. Tổng phần trăm càng cao thì mỗi người chơi thu được càng nhiều tiền xBlade và tỷ lệ thắng càng cao.
 
 {% hint style="info" %}
-Similar to the numerical values, percentages also have different minimums and maximums. The values for total percentages of 3-star weapons and above are listed below:
+Tương tự như các giá trị số, tỷ lệ phần trăm cũng có các giá trị tối thiểu và tối đa khác nhau. Các giá trị cho tổng tỷ lệ phần trăm của vũ khí 3 sao trở lên được liệt kê dưới đây:
 
-* 3-star : 70% - 107%
-* 4-star : 100% - 214%
-* 5-star : 201% - 321%
+* 3 sao : 70% - 107%
+* 4 sao : 100% - 214%
+* 5 sao : 201% - 321%
 {% endhint %}
 
-## Weapon Choice Conclusions
+## Nên Lựa Chọn Vũ Khí Nào
 
-Based on the above information, we can make several key decisions in choosing our weapon.
+Dựa trên những thông tin trên, chúng ta có thể đưa ra một số quyết định chính trong việc lựa chọn vũ khí của mình.
 
-* Always use a weapon that matches the character's element.
-* Choose a weapon with as high numerical stats as possible for maximum xBlade payout.
-* Try and match a weapon's attribute element with the character's element for an increase in win rate.
-
+* Luôn sử dụng vũ khí phù hợp với yếu tố của nhân vật.
+* Chọn vũ khí có chỉ số số càng cao càng tốt để nhận được khoản thưởng xBlade tối đa.
+* Thử và kết hợp phần tử thuộc tính của vũ khí với phần tử của nhân vật để tăng tỷ lệ thắng.

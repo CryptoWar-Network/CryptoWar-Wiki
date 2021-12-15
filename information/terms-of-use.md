@@ -1,105 +1,97 @@
-# Terms of Use
+# Điều Khoản Sử Dụng
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity \(“you"\) and CryptoWar Team \(“we", “us", or “our"\) concerning your access to and use of the www.cryptowar.network website and the CryptoWar Team app as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto \(collectively, the “Site" and the “App"\). CryptoWar Team is a distributed application that is currently running on the Ethereum Network, Loom Network and BINANCE SMART CHAIN \(the "Blockchains"\), using specially-developed smart contracts \(each, a “Smart Contract”\) to enable users to own, transfer, battle, and breed genetically unique digital creatures. It also enables users to own and transfer other digital assets like plots of land and items. These assets can then be visualized on a website that the user can interact with the Site. The Smart Contracts and the Site are collectively referred to in these Terms as the “App”. Using the App, users can view their assets and use the Smart Contracts to acquire, trade, battle, and breed creatures with other App users.
-
-‌
-
-WE ARE ONLY WILLING TO MAKE THE APP, THE SMART CONTRACTS, AND THE SITE AVAILABLE TO YOU IF YOU ACCEPT ALL OF THESE TERMS. BY USING THE APP, THE SMART CONTRACTS, THE SITE, OR ANY PART OF THEM, OR BY CLICKING “I ACCEPT” BELOW OR INDICATING YOUR ACCEPTANCE IN AN ADJOINING BOX, YOU ARE CONFIRMING THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY ALL OF THESE TERMS OF USE. IF YOU DO NOT AGREE AND/OR ACCEPT ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE, THE APP AND THE SMART CONTRACTS AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+Các Điều khoản Sử dụng này tạo thành một thỏa thuận ràng buộc pháp lý được thực hiện giữa bạn, cho dù cá nhân hay đại diện cho một tổ chức (“bạn”) và Nhóm CryptoWar (“chúng tôi”, “chúng tôi” hoặc “của chúng tôi”) liên quan đến việc bạn truy cập và sử dụng trang web www.cryptowar.network và ứng dụng CryptoWar Team cũng như bất kỳ hình thức truyền thông, kênh truyền thông, trang web di động hoặc ứng dụng di động nào khác có liên quan, được liên kết hoặc được kết nối với đó (gọi chung là “Trang web” và “Ứng dụng”). CryptoWar Team là một ứng dụng phân tán hiện đang chạy trên Mạng Ethereum, Mạng Loom và CHUỖI THÔNG MINH BINANCE ("Blockchains"), sử dụng các hợp đồng thông minh được phát triển đặc biệt (mỗi một "Hợp đồng Thông minh") để cho phép người dùng sở hữu, chuyển giao , chiến đấu và lai tạo các sinh vật kỹ thuật số độc đáo về mặt di truyền. Nó cũng cho phép người dùng sở hữu và chuyển các tài sản kỹ thuật số khác như mảnh đất và vật phẩm. Sau đó, những nội dung này có thể được hiển thị trên một trang web mà người dùng có thể tương tác với Trang web. Các Hợp đồng Thông minh và Trang web được gọi chung trong các Điều khoản này là “Ứng dụng”. Sử dụng Ứng dụng, người dùng có thể xem tài sản của họ và sử dụng Hợp đồng thông minh để mua, giao dịch, chiến đấu và lai tạo sinh vật với những người dùng Ứng dụng khác.
 
 ‌
 
-Supplemental terms and conditions or documents that may be posted on the Site, the App, and the Smart Contracts from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you of any changes by updating the “Last Updated" date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site, the App, and the Smart Contracts after the date such revised Terms of Use are posted.
+CHÚNG TÔI CHỈ SẼ ĐẶT RA ỨNG DỤNG, CÁC HỢP ĐỒNG THÔNG MINH VÀ TRANG WEB CÓ SN CHO BẠN NẾU BẠN CHẤP NHẬN TẤT CẢ CÁC ĐIỀU KHOẢN NÀY. BẰNG CÁCH SỬ DỤNG ỨNG DỤNG, HỢP ĐỒNG THÔNG MINH, TRANG WEB HOẶC BẤT KỲ PHẦN NÀO CỦA CHÚNG HOẶC BẰNG CÁCH NHẤP VÀO “TÔI CHẤP NHẬN” DƯỚI ĐÂY HOẶC CHỈ ĐỊNH SỰ CHẤP NHẬN CỦA BẠN TRONG HỘP THAM GIA, BẠN XÁC NHẬN RẰNG BẠN ĐÃ ĐỌC, HIỂU VÀ ĐỒNG Ý SẮP XẾP BẰNG TẤT CẢ CÁC ĐIỀU KHOẢN SỬ DỤNG NÀY. NẾU BẠN KHÔNG ĐỒNG Ý VÀ / HOẶC CHẤP NHẬN TẤT CẢ CÁC ĐIỀU KHOẢN SỬ DỤNG NÀY, THÌ BẠN RÕ RÀNG BỊ CẤM SỬ DỤNG TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH VÀ BẠN PHẢI NGỪNG SỬ DỤNG NGAY LẬP TỨC. ‌
+
+Các điều khoản và điều kiện hoặc tài liệu bổ sung có thể được đăng trên Trang web, Ứng dụng và Hợp đồng thông minh theo thời gian được đưa vào đây một cách rõ ràng bằng cách tham chiếu. Chúng tôi bảo lưu quyền, theo quyết định riêng của mình, thực hiện các thay đổi hoặc điều chỉnh đối với các Điều khoản Sử dụng này vào bất kỳ lúc nào và vì bất kỳ lý do gì. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách cập nhật ngày “Cập nhật lần cuối” của Điều khoản sử dụng này và bạn từ bỏ mọi quyền nhận thông báo cụ thể về từng thay đổi như vậy. Bạn có trách nhiệm xem xét định kỳ các Điều khoản sử dụng này để luôn được thông báo về cập nhật. Bạn sẽ tuân theo và sẽ được coi là đã được thông báo và đã chấp nhận, các thay đổi trong bất kỳ Điều khoản Sử dụng sửa đổi nào do bạn tiếp tục sử dụng Trang web, Ứng dụng và Hợp đồng thông minh sau ngày sửa đổi đó Điều khoản sử dụng được đăng.
 
 ‌
 
-The information on the Site, the App and the Smart Contracts are not intended for distribution to or used by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site and/or the App from other locations do so on their own initiative and are solely responsible for compliance of local laws, if and to the extent local laws are applicable.
+Thông tin trên Trang web, Ứng dụng và Hợp đồng thông minh không nhằm mục đích phân phối hoặc sử dụng cho bất kỳ cá nhân hoặc tổ chức nào ở bất kỳ khu vực tài phán hoặc quốc gia nào mà việc phân phối hoặc sử dụng đó sẽ trái với luật pháp hoặc quy định hoặc sẽ khiến chúng tôi phải đăng ký yêu cầu trong phạm vi quyền hạn hoặc quốc gia đó. Theo đó, những người chọn truy cập Trang web và / hoặc Ứng dụng từ các địa điểm khác làm như vậy theo sáng kiến ​​của riêng họ và hoàn toàn chịu trách nhiệm về việc tuân thủ luật pháp địa phương, nếu và trong phạm vi luật pháp địa phương được áp dụng.
 
 ‌
 
-The Site is intended for users who are at least 18 years old. People under the age of 18 are not permitted to use or register for the Site, the App, and the Smart Contracts.
+Trang web dành cho người dùng từ 18 tuổi trở lên. Những người dưới 18 tuổi không được phép sử dụng hoặc đăng ký Trang web, Ứng dụng và Hợp đồng thông minh. ‌
+
+### 1. QUYỀN SỞ HỮU TRÍ TUỆ
 
 ‌
 
-### 1. INTELLECTUAL PROPERTY RIGHTS
+Trừ khi được chỉ định khác, Trang web và Ứng dụng và Hợp đồng thông minh là tài sản độc quyền của chúng tôi và tất cả mã nguồn, cơ sở dữ liệu, chức năng, phần mềm, thiết kế trang web, âm thanh, video, văn bản, ảnh và đồ họa trên Trang web và Ứng dụng (gọi chung là “Nội dung”) và nhãn hiệu, nhãn hiệu dịch vụ và biểu trưng có trong đó (“Nhãn hiệu”) do chúng tôi sở hữu, kiểm soát hoặc cấp phép cho chúng tôi và được bảo vệ bởi luật bản quyền và nhãn hiệu cũng như nhiều quyền sở hữu trí tuệ khác và luật cạnh tranh không lành mạnh của Quần đảo Cayman, cơ quan tài phán nước ngoài và các công ước quốc tế. Trừ khi được quy định rõ ràng trong các Điều khoản sử dụng này, không một phần nào của Trang web, Ứng dụng cũng như Hợp đồng thông minh và không có Nội dung hoặc Nhãn hiệu nào có thể được sao chép, tái tạo, tổng hợp, tái xuất bản, tải lên, đăng, hiển thị công khai, mã hóa, dịch, truyền, phân phối, bán, cấp phép hoặc khai thác cho bất kỳ mục đích thương mại nào mà không có sự cho phép trước bằng văn bản của chúng tôi.
+
+Với điều kiện bạn đủ điều kiện sử dụng Trang web, Ứng dụng và Hợp đồng thông minh, bạn được cấp một giấy phép hạn chế để truy cập và sử dụng Trang web hoặc tải xuống hoặc in bản sao của bất kỳ phần nào của Nội dung mà bạn chỉ có quyền truy cập hợp lệ để sử dụng cá nhân, phi thương mại của bạn. Chúng tôi bảo lưu tất cả các quyền không được cấp rõ ràng cho bạn trong và đối với Trang web, Ứng dụng, Nội dung và Nhãn hiệu.
 
 ‌
 
-Unless otherwise indicated, the Site and the App and the Smart Contracts are our proprietary property and all source code, database, functionality, software, website design, audio, video, text, photographs, and graphics on the Site and the Apps \(collectively, the “Content"\) and trademarks, service marks and logos contained therein \(the “Marks"\) are owned, controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the Cayman Islands, foreign jurisdiction and international conventions. Except as expressly provided in these Terms of Use, no part of the Site, the App as well as the Smart Contract and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
+Với điều kiện bạn sở hữu tài sản ERC271 Cryptowar, bạn được cấp giấy phép có giới hạn để tạo tác phẩm nghệ thuật và hàng hóa có thể được sử dụng cho mục đích thương mại nếu bạn tuân theo các điều khoản được đặt ra ở đây: ‌
+
+1. Bất kỳ ai tạo fanart về Cryptowars đều cần phải sở hữu Cryptowar mà họ đang tạo ra từ người hâm mộ hoặc nhận được sự cho phép từ chủ sở hữu Cryptowars đó.
+2. Tác phẩm nghệ thuật của người hâm mộ không được sử dụng tài sản Cryptowar chính thức, nhưng việc tạo ra tác phẩm nghệ thuật độc đáo bằng cách sử dụng tài sản Cryptowar làm nguồn cảm hứng thì có thể chấp nhận được.
 
 ‌
 
-Provided that you are eligible to use the Site, the App and the Smart Contracts, you are granted a limited license to access and use the Site or to download or print a copy of any portion of the Content to which you have properly gained access solely to your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Site, the App, the Content, and the Marks.
+2- Tác phẩm nghệ thuật phải ghi rõ ràng “CryptoWar Team Fanart”, liên kết đến[https://www.cryptowar.network/](https://www.axieinfinity.com), và liên kết trực tiếp đến Cryptowar đang được sử dụng để lấy cảm hứng.
 
 ‌
 
-Provided that you own an ERC721 Cryptowar asset, you are granted a limited license to create fan-art and merchandise which can be used commercial given that you follow the terms set herein:
+1. Cryptowar NFT có thể được sử dụng để tạo ra doanh thu tối đa là $ 10.000 trước khi thỏa thuận cấp phép chính thức được ký kết. Doanh thu có thể đến từ fanart (mã hóa hoặc vật lý) hoặc hàng hóa (áo thun, cốc, áo hoodie, v.v.).
 
 ‌
 
-1. Anyone creating fanart of Cryptowars needs to either own the Cryptowar they are creat1ing fan art from or receive permission from that Cryptowars owner.
-2. Fan artwork must not use official Cryptowar assets, but creating unique art using Cryptowar assets as inspiration is acceptable.
+Việc tạo fanart gốc mà không kiếm tiền được chấp nhận mà không cần bất kỳ giấy phép hoặc quyền sở hữu nào.
 
 ‌
 
-2- The artwork must clearly state “CryptoWar Team Fanart”, link to[ https://www.cryptowar.network/](https://www.axieinfinity.com/), and link directly to the Cryptowar that is being used for inspiration.
+### 2. ĐẠI DIỆN NGƯỜI DÙNG
 
 ‌
 
-1. An Cryptowar NFT can be used to generate a maximum of $10,000 in revenue before an official license agreement has to be signed. The revenue can come from either fanart \(tokenized or physical\) or merchandise \(t-shirts, mugs, hoodies, etc\).
+Bằng cách sử dụng Trang web, Ứng dụng và Hợp đồng thông minh, bạn tuyên bố và đảm bảo rằng: (1) tất cả thông tin đăng ký bạn gửi sẽ đúng, chính xác, cập nhật và đầy đủ; (2) bạn sẽ duy trì tính chính xác của thông tin đó và cập nhật kịp thời thông tin đăng ký đó khi cần thiết; (3) bạn có đủ năng lực pháp lý và bạn đồng ý tuân thủ các Điều khoản Sử dụng này; (4) bạn không phải là trẻ vị thành niên trong khu vực tài phán mà bạn cư trú; (5) bạn sẽ không truy cập Trang web, Ứng dụng và Hợp đồng thông minh thông qua các phương tiện tự động và không phải của con người, cho dù thông qua bot, tập lệnh hay cách khác. Trừ khi được đề cập rõ ràng ở đây;
 
 ‌
 
-Creating original fanart without monetizing it is acceptable without any license or ownership.
+* Quản lý học bổng
+* xây dựng các công cụ và bot công khai tạo điều kiện minh bạch và phân tích.
+* Phối giống, NGOẠI TRỪ khi có sự kiện phối giống xảy ra. Đội ngũ CryptoWar sẽ thông báo những sự kiện này trước ít nhất 1 tuần trên Discord và Twitter. Tương tác trực tiếp với các hợp đồng thông minh chăn nuôi trong các sự kiện chăn nuôi bị nghiêm cấm.
 
 ‌
 
-### 2. USER REPRESENTATIONS
+(6) bạn sẽ không sử dụng Trang web, Ứng dụng và Hợp đồng thông minh cho bất kỳ mục đích bất hợp pháp và trái phép nào; và (7) việc bạn sử dụng Trang web, Ứng dụng và Hợp đồng thông minh sẽ không vi phạm bất kỳ luật hoặc quy định hiện hành nào. Nếu bạn cung cấp bất kỳ thông tin nào không đúng sự thật, không chính xác, không cập nhật hoặc không đầy đủ, chúng tôi có quyền đình chỉ hoặc chấm dứt tài khoản của bạn và từ chối bất kỳ và tất cả việc sử dụng Trang web, Ứng dụng và Hợp đồng thông minh hiện tại hoặc trong tương lai (hoặc bất kỳ phần của chúng).
 
 ‌
 
-By using the Site, the App and the Smart Contracts, you represent and warrant that: \(1\) all registration information you submit will be true, accurate, current, and complete; \(2\) you will maintain the accuracy of such information and promptly update such registration information as necessary; \(3\) you have the legal capacity and you agree to comply with these Terms of Use; \(4\) you are not a minor in the jurisdiction in which you reside; \(5\) you will not access the Site, the App and the Smart Contracts through automated and non-human means, whether through a bot, script or otherwise. Except as expressly mentioned herein;
+(8) bạn chỉ có thể chơi trên một tài khoản trong bất kỳ khoảng thời gian 24 giờ nào. (9) bạn, với tư cách là chủ sở hữu Cryptowar, chịu trách nhiệm về hành động của bất kỳ "học giả" nào (người chơi do bạn thuê) chơi thay mặt bạn và hành động của họ có thể gây ra hậu quả cho bất kỳ tài khoản được kết nối nào mà bạn sở hữu. (10) bạn sẽ không thao túng hệ thống năng lượng, chẳng hạn như tặng Cryptowars để sử dụng nhiều năng lượng hơn (Điều này diễn ra theo phương pháp đa hạch toán). (11) bạn chưa bị đưa vào bất kỳ lệnh cấm vận thương mại hoặc danh sách trừng phạt kinh tế nào (chẳng hạn như danh sách trừng phạt của hội đồng an ninh các quốc gia thống nhất), danh sách các công dân được chỉ định đặc biệt do ofac duy trì (văn phòng kiểm soát tài sản nước ngoài của bộ ngân khố chúng tôi ), hoặc những người bị từ chối hoặc danh sách tổ chức của chúng tôi bộ phận thương mại. CryptoWar Team bảo lưu quyền lựa chọn thị trường và khu vực pháp lý để tiến hành kinh doanh và có thể hạn chế hoặc từ chối, tùy theo quyết định của mình, việc cung cấp các dịch vụ của CryptoWar Team ở một số quốc gia hoặc khu vực nhất định.
 
 ‌
 
-* Scholarship management
-* building public tools and bots that facilitate transparency and analysis.
-* Breeding, EXCEPT when there is a breeding event happening. CryptoWar Team will announce these events at least 1 week in advance on Discord and Twitter. Interacting with the breeding smart contracts directly during breeding events is expressly prohibited.
+### 3. ĐĂNG KÝ NGƯỜI DÙNG
 
 ‌
 
-\(6\) you will not use the Site, the App, and the Smart Contracts for any illegal and unauthorized purpose; and \(7\) your use of the Site, the App, and the Smart Contracts will not violate any applicable law or regulation. If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site, the App, and the Smart Contracts \(or any portion thereof\).
+Bạn có thể được yêu cầu đăng ký với Trang web, Ứng dụng và Hợp đồng thông minh. Bạn đồng ý giữ bí mật mật khẩu của bạn và sẽ chịu trách nhiệm cho tất cả việc sử dụng tài khoản và mật khẩu của bạn. Chúng tôi bảo lưu quyền xóa, xác nhận lại hoặc thay đổi tên người dùng bạn chọn nếu theo quyết định riêng của chúng tôi, rằng tên người dùng đó không phù hợp, tục tĩu hoặc có thể bị phản đối.
 
 ‌
 
-\(8\) you can only play on on one account in any 24-hour period. \(9\) you, as an Cryptowar owner, are responsible for the actions of any "scholars" \(players hired by you\) that play on your behalf, and that their actions can have consequences for any connected accounts that you own. \(10\) you will not manipulate the energy system, such as gifting Cryptowars to make use of more energy \(This goes under multi-accounting\). \(11\) you have not been included in any trade embargoes or economic sanctions list \(such as united nations security council sanctions list\), the list of specially designated nationals maintained by ofac \(the office of foreign assets control of the u.s. department of the treasury\), or the denied persons or entity list of the u.s. department of commerce. CryptoWar Team reserves the right to choose markets and jurisdictions to conduct business, and may restrict or refuse, in its discretion, the provision of CryptoWar Team services in certain countries or regions.
+### 4. CÁC HOẠT ĐỘNG CẤM
 
 ‌
 
-### 3. USER REGISTRATION
+Bạn không được phép truy cập hoặc sử dụng Trang web, Ứng dụng và Hợp đồng thông minh cho bất kỳ mục đích nào khác ngoài mục đích mà chúng tôi cung cấp Trang web, Ứng dụng và Hợp đồng thông minh. Trang web, Ứng dụng và Hợp đồng thông minh không được sử dụng liên quan đến bất kỳ nỗ lực thương mại nào trừ khi được đồng ý trong hợp đồng pháp lý ràng buộc với Nhóm CryptoWar.
 
 ‌
 
-You may be required to register with the Site, the App, and the Smart Contracts. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
-
-‌
-
-### 4. PROHIBITED ACTIVITIES
-
-‌
-
-You may not access or use the Site, the App, and the Smart Contracts for any purpose other than that for which we make the Site, the App, and the Smart Contracts available. The Site, the App, and the Smart Contracts may not be used in connection with any commercial endeavors except if agreed to in a binding legal contract with CryptoWar Team.
-
-‌
-
-* Systematically retrieve data or other content from the Site, the App, and the Smart Contracts to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-* Make any unauthorized use of the Site, the App and the Smart Contracts, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-* Use a buying agent or purchasing agent to make purchases on the Site, the App, and the Smart Contracts.
-* Use the Site, the App and the Smart Contracts to advertise or offer to sell goods and services.
-* Circumvent, disable, or otherwise interfere with security-related features of the Site, the App and the Smart Contracts, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site, the App and the Smart Contracts and/or the Content contained therein.
+* Lấy dữ liệu hoặc nội dung khác một cách có hệ thống từ Trang web, Ứng dụng và Hợp đồng thông minh để tạo hoặc biên dịch, trực tiếp hoặc gián tiếp, một bộ sưu tập, biên dịch, cơ sở dữ liệu hoặc thư mục mà không có sự cho phép bằng văn bản của chúng tôi.
+* Thực hiện bất kỳ hành vi sử dụng trái phép nào đối với Trang web, Ứng dụng và Hợp đồng thông minh, bao gồm việc thu thập tên người dùng và / hoặc địa chỉ email của người dùng bằng phương tiện điện tử hoặc các phương tiện khác nhằm mục đích gửi email không mong muốn hoặc tạo tài khoản người dùng bằng các phương tiện tự động hoặc giả mạo.
+* Sử dụng đại lý mua hàng hoặc đại lý mua hàng để mua hàng trên Trang web, Ứng dụng và Hợp đồng thông minh.
+* Sử dụng Trang web, Ứng dụng và Hợp đồng thông minh để quảng cáo hoặc chào bán hàng hóa và dịch vụ.
+* Phá vỡ, vô hiệu hóa hoặc can thiệp vào các tính năng liên quan đến bảo mật của Trang web, Ứng dụng và Hợp đồng thông minh, bao gồm các tính năng ngăn chặn hoặc hạn chế việc sử dụng hoặc sao chép bất kỳ Nội dung nào hoặc thực thi các giới hạn đối với việc sử dụng Trang web, Ứng dụng và Hợp đồng thông minh và / hoặc Nội dung có trong đó.
 * Engage in unauthorized framing of or linking to the Site, the App, and the Smart Contracts.
 * Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
 * Make improper use of our support services or submit false reports of abuse or misconduct.
-* Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools, except as mentioned in 2.5\)
+* Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools, except as mentioned in 2.5)
 * Interfere with, disrupt, or create an undue burden on the Site, the App, and the Smart Contracts or the networks or services connected to the Site.
 * Attempt to impersonate another user or person or use the username of another user.
 * Sell or otherwise transfer your profile.
@@ -110,8 +102,8 @@ You may not access or use the Site, the App, and the Smart Contracts for any pur
 * Harass, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site, the App, and the Smart Contracts to you.
 * Delete the copyright or other proprietary rights notice from any Content.
 * Copy or adapt the Site’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-* Upload or transmit \(or attempt to upload or to transmit\) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming \(continuous posting of repetitive text\), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site, the App and the Smart Contracts.
-* Upload or transmit \(or attempt to upload or to transmit\) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats \(“gifs”\), 1×1 pixels, web bugs, cookies, or other similar devices \(sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”\).
+* Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site, the App and the Smart Contracts.
+* Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
 * Except as may be the result of standard search engines or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, the App and the Smart Contracts, or using or launching any unauthorized script or other software.
 * Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site, the App, and the Smart Contracts.
 * Use the Site, the App, and the Smart Contracts in a manner inconsistent with any applicable laws or regulations.
@@ -126,15 +118,15 @@ If you elect to purchase, trade, or mint Cryptowars NFTs, then we will release a
 
 ‌
 
-Ethereum requires the payment of a transaction fee \(a “Gas Fee”\) for every transaction that occurs on the Ethereum network. The Gas Fee funds the network of computers that run the decentralized Ethereum network. This means that you will need to pay a Gas Fee for each transaction that occurs via the App.
+Ethereum requires the payment of a transaction fee (a “Gas Fee”) for every transaction that occurs on the Ethereum network. The Gas Fee funds the network of computers that run the decentralized Ethereum network. This means that you will need to pay a Gas Fee for each transaction that occurs via the App.
 
 ‌
 
-In addition to the Gas Fee, each time you utilize a Smart Contract to conduct a transaction with another user via the App, you authorize us to collect a commission of 4.25% of the total value of that transaction \(each, a “Commission”\). You acknowledge and agree that the Commission will be transferred directly to us through the BINANCE SMART CHAIN as a part of the transaction.
+In addition to the Gas Fee, each time you utilize a Smart Contract to conduct a transaction with another user via the App, you authorize us to collect a commission of 4.25% of the total value of that transaction (each, a “Commission”). You acknowledge and agree that the Commission will be transferred directly to us through the BINANCE SMART CHAIN as a part of the transaction.
 
 ‌
 
-As between us, you will be solely responsible to pay any and all sales, use, value-added and other taxes, duties, and assessments \(except taxes on our net income\) now or hereafter claimed or imposed by any governmental authority \(collectively, “Taxes”\) associated with your use of the App \(including, without limitation, any Taxes that may become payable as the result of your ownership, transfer, or breeding of any of your NFTs\). Except for income taxes levied on CryptoWar Team, you: \(i\) will pay or reimburse us for all national, federal, state, local, or other taxes and assessments of any jurisdiction, including value-added taxes and taxes as required by international tax treaties, customs or other import or export taxes, and amounts levied in lieu thereof based on charges set, services performed or payments made hereunder, as are now or hereafter may be imposed under the authority of any national, state, local or any other taxing jurisdiction; and \(ii\) shall not be entitled to deduct the amount of any such taxes, duties or assessments from payments made to us pursuant to these Terms.
+As between us, you will be solely responsible to pay any and all sales, use, value-added and other taxes, duties, and assessments (except taxes on our net income) now or hereafter claimed or imposed by any governmental authority (collectively, “Taxes”) associated with your use of the App (including, without limitation, any Taxes that may become payable as the result of your ownership, transfer, or breeding of any of your NFTs). Except for income taxes levied on CryptoWar Team, you: (i) will pay or reimburse us for all national, federal, state, local, or other taxes and assessments of any jurisdiction, including value-added taxes and taxes as required by international tax treaties, customs or other import or export taxes, and amounts levied in lieu thereof based on charges set, services performed or payments made hereunder, as are now or hereafter may be imposed under the authority of any national, state, local or any other taxing jurisdiction; and (ii) shall not be entitled to deduct the amount of any such taxes, duties or assessments from payments made to us pursuant to these Terms.
 
 ‌
 
@@ -142,7 +134,7 @@ As between us, you will be solely responsible to pay any and all sales, use, val
 
 ‌
 
-You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information regarding the Site, the App and the Smart Contracts \(“Submissions"\) provided by you to us are non-confidential and should become our sole property. We should own exclusive rights, including all intellectual property rights, and should be entitled to the unrestricted use and dissemination of these Submissions to any lawful purpose, commercial, or otherwise, without acknowledgment or compensation for you. You hereby waive any moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there should be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
+You acknowledge and agree that any questions, comments, suggestions, ideas, feedback or other information regarding the Site, the App and the Smart Contracts (“Submissions") provided by you to us are non-confidential and should become our sole property. We should own exclusive rights, including all intellectual property rights, and should be entitled to the unrestricted use and dissemination of these Submissions to any lawful purpose, commercial, or otherwise, without acknowledgment or compensation for you. You hereby waive any moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there should be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
 
 ‌
 
@@ -150,7 +142,7 @@ You acknowledge and agree that any questions, comments, suggestions, ideas, feed
 
 ‌
 
-The Site and/or the App \(or you may be sent via the Site and/or the App\) links to other websites \(“Third-Party Websites"\) as well as articles, photograph, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties \(“Third-Party Content"\). Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for any Third-Party Websites accessed through the Site and/or the App, or any Third-Party Content posted on, available through, or installed from the Site and/or the App, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content. Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by us. If you decide to leave the Site and/or the App and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk and you should be aware of these Terms of Use no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Site and/or the App or relating to any applications you use or install from the Site and/or the App. Any purchase you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. You agree and acknowledge that we do not endorse the products and services offered on Third-Party Websites and you should hold us harmless from any harm caused by your purchase of such products and services. Additionally, you should hold us harmless from any losses sustained by you or harm caused to you relating to resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
+The Site and/or the App (or you may be sent via the Site and/or the App) links to other websites (“Third-Party Websites") as well as articles, photograph, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties (“Third-Party Content"). Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for any Third-Party Websites accessed through the Site and/or the App, or any Third-Party Content posted on, available through, or installed from the Site and/or the App, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content. Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by us. If you decide to leave the Site and/or the App and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk and you should be aware of these Terms of Use no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Site and/or the App or relating to any applications you use or install from the Site and/or the App. Any purchase you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. You agree and acknowledge that we do not endorse the products and services offered on Third-Party Websites and you should hold us harmless from any harm caused by your purchase of such products and services. Additionally, you should hold us harmless from any losses sustained by you or harm caused to you relating to resulting in any way from any Third-Party Content or any contact with Third-Party Websites.
 
 ‌
 
@@ -166,7 +158,7 @@ We allow advertisers to display their advertisements and other information in ce
 
 ‌
 
-These Terms of Use remain in full force and effect while you use the Site, the App and the Smart Contracts. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE, THE APP AND THE SMART CONTRACT \(INCLUDING BLOCKING CERTAIN IP ADDRESSES\) TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE, THE APP AND THE SMART CONTRACT OR DELETE YOUR ACCOUNT WITHOUT WARNING, IN OUR SOLE DISCRETION.
+These Terms of Use remain in full force and effect while you use the Site, the App and the Smart Contracts. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE, THE APP AND THE SMART CONTRACT (INCLUDING BLOCKING CERTAIN IP ADDRESSES) TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE, THE APP AND THE SMART CONTRACT OR DELETE YOUR ACCOUNT WITHOUT WARNING, IN OUR SOLE DISCRETION.
 
 ‌
 
@@ -190,7 +182,7 @@ This Terms of Use and your use of the Site, the App, and the Smart Contracts are
 
 ‌
 
-To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms of Use \(each a “Dispute" and collectively, the “Disputes"\) brought by either you or us \(individually, a “Party" and collectively, the “Parties"\), the Parties agree to first attempt to negotiate any Dispute \(except those Disputes expressly provided below\) informally for at least thirty \(30\) days before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
+To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms of Use (each a “Dispute" and collectively, the “Disputes") brought by either you or us (individually, a “Party" and collectively, the “Parties"), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least thirty (30) days before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
 
 ‌
 
@@ -198,7 +190,7 @@ To expedite resolution and control the cost of any dispute, controversy, or clai
 
 ‌
 
-If a Party is unable to resolve a Dispute through informal negotiations, the Disputes \(except those Disputes expressly excluded below\) will be finally and exclusively resolved by binding arbitration. YOU UNDERSTAND THAT WITHOUT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The arbitration shall be commenced and conducted under the Commercial Arbitration Rules of the American Arbitration Association \(“AAA"\) and, where appropriate, the AAA's Supplementary Procedures for Consumer-Related Disputes \(“AAA Consumer Rules"\), both of which are available at the AAA website www.adr.org. Your arbitration fees and your share of arbitration compensation shall be governed by the AAA Consumer Rules and, where appropriate, limited by the AAA Consumer Rules. If such costs are determined by the arbitrator to be excessive, we will pay all the arbitration fees and expenses. Except where otherwise required by the applicable AA rules or applicable law, the arbitration can take place in the Cayman Islands. Except as otherwise provided herein, the Parties may litigate in court to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgement on the award entered by the arbitrator.
+If a Party is unable to resolve a Dispute through informal negotiations, the Disputes (except those Disputes expressly excluded below) will be finally and exclusively resolved by binding arbitration. YOU UNDERSTAND THAT WITHOUT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The arbitration shall be commenced and conducted under the Commercial Arbitration Rules of the American Arbitration Association (“AAA") and, where appropriate, the AAA's Supplementary Procedures for Consumer-Related Disputes (“AAA Consumer Rules"), both of which are available at the AAA website www.adr.org. Your arbitration fees and your share of arbitration compensation shall be governed by the AAA Consumer Rules and, where appropriate, limited by the AAA Consumer Rules. If such costs are determined by the arbitrator to be excessive, we will pay all the arbitration fees and expenses. Except where otherwise required by the applicable AA rules or applicable law, the arbitration can take place in the Cayman Islands. Except as otherwise provided herein, the Parties may litigate in court to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgement on the award entered by the arbitrator.
 
 ‌
 
@@ -206,7 +198,7 @@ If for any reason, a Dispute proceeds in court rather than arbitration, the Disp
 
 ‌
 
-In no event shall any Dispute brought by either Party related in any way to the Site, the App and the Smart Contracts be commenced more than one \(1\) year after the cause of the action arose. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed or jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+In no event shall any Dispute brought by either Party related in any way to the Site, the App and the Smart Contracts be commenced more than one (1) year after the cause of the action arose. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed or jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
 
 ‌
 
@@ -214,7 +206,7 @@ In no event shall any Dispute brought by either Party related in any way to the 
 
 ‌
 
-The Parties agree that the following Disputes are not subject to the above provision concerning informal negotiations and binding arbitration: \(a\) any Dispute seeking to enforce or protect, or concerning the validity of, and of the intellectual property rights of a Party, \(b\) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and \(c\) any claim for injunctive relief. If this provision is found to be illegal and unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed or jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+The Parties agree that the following Disputes are not subject to the above provision concerning informal negotiations and binding arbitration: (a) any Dispute seeking to enforce or protect, or concerning the validity of, and of the intellectual property rights of a Party, (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal and unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed or jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
 
 ‌
 
@@ -222,7 +214,7 @@ The Parties agree that the following Disputes are not subject to the above provi
 
 ‌
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR ACCESS TO AND USE OF THE SITE, THE APP AND THE SMART CONTRACTS ARE AT YOUR SOLE RISK, AND THAT THE SITE, THE APP AND THE SMART CONTRACTS ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS MAKE NO EXPRESS WARRANTIES AND HEREBY DISCLAIM ALL IMPLIED WARRANTIES REGARDING THE SITE, THE APP AND THE SMART CONTRACTS AND ANY PART OF IT \(INCLUDING, WITHOUT LIMITATION, THE SITE, ANY SMART CONTRACT, OR ANY EXTERNAL WEBSITES\), INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, CORRECTNESS, ACCURACY, OR RELIABILITY. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: \(I\) YOUR ACCESS TO OR USE OF THE SITE, THE APP AND THE SMART CONTRACTS WILL MEET YOUR REQUIREMENTS, \(II\) YOUR ACCESS TO OR USE OF THE SITE, THE APP AND THE SMART CONTRACTS WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, \(III\) USAGE DATA PROVIDED THROUGH THE SITE, THE APP AND THE SMART CONTRACTS WILL BE ACCURATE, \(III\) THE SITE, THE APP AND THE SMART CONTRACTS OR ANY CONTENT, SERVICES, OR FEATURES MADE AVAILABLE ON OR THROUGH THE SITE, THE APP AND THE SMART CONTRACTS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR \(IV\) THAT ANY DATA THAT YOU DISCLOSE WHEN YOU USE THE SITE, THE APP AND THE SMART CONTRACTS WILL BE SECURE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR ACCESS TO AND USE OF THE SITE, THE APP AND THE SMART CONTRACTS ARE AT YOUR SOLE RISK, AND THAT THE SITE, THE APP AND THE SMART CONTRACTS ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS MAKE NO EXPRESS WARRANTIES AND HEREBY DISCLAIM ALL IMPLIED WARRANTIES REGARDING THE SITE, THE APP AND THE SMART CONTRACTS AND ANY PART OF IT (INCLUDING, WITHOUT LIMITATION, THE SITE, ANY SMART CONTRACT, OR ANY EXTERNAL WEBSITES), INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, CORRECTNESS, ACCURACY, OR RELIABILITY. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: (I) YOUR ACCESS TO OR USE OF THE SITE, THE APP AND THE SMART CONTRACTS WILL MEET YOUR REQUIREMENTS, (II) YOUR ACCESS TO OR USE OF THE SITE, THE APP AND THE SMART CONTRACTS WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, (III) USAGE DATA PROVIDED THROUGH THE SITE, THE APP AND THE SMART CONTRACTS WILL BE ACCURATE, (III) THE SITE, THE APP AND THE SMART CONTRACTS OR ANY CONTENT, SERVICES, OR FEATURES MADE AVAILABLE ON OR THROUGH THE SITE, THE APP AND THE SMART CONTRACTS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR (IV) THAT ANY DATA THAT YOU DISCLOSE WHEN YOU USE THE SITE, THE APP AND THE SMART CONTRACTS WILL BE SECURE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
 
 ‌
 
@@ -230,11 +222,11 @@ YOU ACCEPT THE INHERENT SECURITY RISKS OF PROVIDING INFORMATION AND DEALING ONLI
 
 ‌
 
-WE WILL NOT BE RESPONSIBLE OR LIABLE TO YOU FOR ANY LOSSES YOU INCUR AS THE RESULT OF YOUR USE OF THE ETHEREUM NETWORK, , THE METAMASK ELECTRONIC WALLET, AND RONIN ELECTRONIC WALLET, INCLUDING BUT NOT LIMITED TO ANY LOSSES, DAMAGES OR CLAIMS ARISING FROM: \(A\) USER ERROR, SUCH AS FORGOTTEN PASSWORDS OR INCORRECTLY CONSTRUED SMART CONTRACTS OR OTHER TRANSACTIONS; \(B\) SERVER FAILURE OR DATA LOSS; \(C\) CORRUPTED WALLET FILES; \(D\) UNAUTHORIZED ACCESS OR ACTIVITIES BY THIRD PARTIES, INCLUDING BUT NOT LIMITED TO THE USE OF VIRUSES, PHISHING, BRUTE FORCING OR OTHER MEANS OF ATTACK AGAINST THE APP, ETHEREUM NETWORK, OR THE METAMASK ELECTRONIC WALLET.
+WE WILL NOT BE RESPONSIBLE OR LIABLE TO YOU FOR ANY LOSSES YOU INCUR AS THE RESULT OF YOUR USE OF THE ETHEREUM NETWORK, , THE METAMASK ELECTRONIC WALLET, AND RONIN ELECTRONIC WALLET, INCLUDING BUT NOT LIMITED TO ANY LOSSES, DAMAGES OR CLAIMS ARISING FROM: (A) USER ERROR, SUCH AS FORGOTTEN PASSWORDS OR INCORRECTLY CONSTRUED SMART CONTRACTS OR OTHER TRANSACTIONS; (B) SERVER FAILURE OR DATA LOSS; (C) CORRUPTED WALLET FILES; (D) UNAUTHORIZED ACCESS OR ACTIVITIES BY THIRD PARTIES, INCLUDING BUT NOT LIMITED TO THE USE OF VIRUSES, PHISHING, BRUTE FORCING OR OTHER MEANS OF ATTACK AGAINST THE APP, ETHEREUM NETWORK, OR THE METAMASK ELECTRONIC WALLET.
 
 ‌
 
-NFTs ARE INTANGIBLE DIGITAL ASSETS THAT EXIST ONLY BY VIRTUE OF THE OWNERSHIP RECORD MAINTAINED ON THE BINANCE SMART CHAIN. ALL SMART CONTRACTS ARE CONDUCTED AND OCCUR ON THE DECENTRALIZED LEDGER WITHIN THE BINANCE SMART CHAIN. CryptoWar Team HAS NO CONTROL OVER AND MAKES NO GUARANTEES OR PROMISES WITH RESPECT TO SMART CONTRACTS. CryptoWar Team IS NOT RESPONSIBLE FOR LOSSES DUE TO BLOCKCHAINS OR ANY OTHER FEATURES OF THE ETHEREUM NETWORK, BINANCE SMART CHAIN, THE METAMASK ELECTRONIC WALLET, OR RONIN ELECTRONIC WALLET. INCLUDING BUT NOT LIMITED TO LATE REPORT BY DEVELOPERS OR REPRESENTATIVES \(OR NO REPORT AT ALL\) OF ANY ISSUES WITH THE BLOCKCHAIN SUPPORTING THE ETHEREUM NETWORK, BINANCE SMART CHAIN, INCLUDING FORKS, TECHNICAL NODE ISSUES, OR ANY OTHER ISSUES HAVING FUND LOSSES AS A RESULT.
+NFTs ARE INTANGIBLE DIGITAL ASSETS THAT EXIST ONLY BY VIRTUE OF THE OWNERSHIP RECORD MAINTAINED ON THE BINANCE SMART CHAIN. ALL SMART CONTRACTS ARE CONDUCTED AND OCCUR ON THE DECENTRALIZED LEDGER WITHIN THE BINANCE SMART CHAIN. CryptoWar Team HAS NO CONTROL OVER AND MAKES NO GUARANTEES OR PROMISES WITH RESPECT TO SMART CONTRACTS. CryptoWar Team IS NOT RESPONSIBLE FOR LOSSES DUE TO BLOCKCHAINS OR ANY OTHER FEATURES OF THE ETHEREUM NETWORK, BINANCE SMART CHAIN, THE METAMASK ELECTRONIC WALLET, OR RONIN ELECTRONIC WALLET. INCLUDING BUT NOT LIMITED TO LATE REPORT BY DEVELOPERS OR REPRESENTATIVES (OR NO REPORT AT ALL) OF ANY ISSUES WITH THE BLOCKCHAIN SUPPORTING THE ETHEREUM NETWORK, BINANCE SMART CHAIN, INCLUDING FORKS, TECHNICAL NODE ISSUES, OR ANY OTHER ISSUES HAVING FUND LOSSES AS A RESULT.
 
 ‌
 
@@ -242,11 +234,11 @@ NFTs ARE INTANGIBLE DIGITAL ASSETS THAT EXIST ONLY BY VIRTUE OF THE OWNERSHIP RE
 
 ‌
 
-YOU UNDERSTAND AND AGREE THAT WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES WHICH YOU MAY INCUR, HOWSOEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, ANY LOSS OF PROFITS \(WHETHER INCURRED DIRECTLY OR INDIRECTLY\), LOSS OF GOODWILL OR BUSINESS REPUTATION, LOSS OF DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR ANY OTHER INTANGIBLE LOSS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+YOU UNDERSTAND AND AGREE THAT WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES WHICH YOU MAY INCUR, HOWSOEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, ANY LOSS OF PROFITS (WHETHER INCURRED DIRECTLY OR INDIRECTLY), LOSS OF GOODWILL OR BUSINESS REPUTATION, LOSS OF DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR ANY OTHER INTANGIBLE LOSS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
 ‌
 
-YOU AGREE AND ACKNOWLEDGE THAT OUR TOTAL, AGGREGATE LIABILITY TO YOU FOR ANY AND ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR ACCESS TO OR USE OF \(OR YOUR INABILITY TO ACCESS OR USE\) ANY PORTION OF THE SITE, THE APP AND THE SMART CONTRACTS, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, IS LIMITED TO THE GREATER OF \(A\) THE AMOUNTS YOU ACTUALLY PAID US UNDER THESE TERMS IN THE TWELVE \(12\) MONTH PERIOD PRECEDING THE DATE THE CLAIM AROSE, OR \(B\) ONE HUNDRED \(100\) US DOLLAR.
+YOU AGREE AND ACKNOWLEDGE THAT OUR TOTAL, AGGREGATE LIABILITY TO YOU FOR ANY AND ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR ACCESS TO OR USE OF (OR YOUR INABILITY TO ACCESS OR USE) ANY PORTION OF THE SITE, THE APP AND THE SMART CONTRACTS, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, IS LIMITED TO THE GREATER OF (A) THE AMOUNTS YOU ACTUALLY PAID US UNDER THESE TERMS IN THE TWELVE (12) MONTH PERIOD PRECEDING THE DATE THE CLAIM AROSE, OR (B) ONE HUNDRED (100) US DOLLAR.
 
 ‌
 
@@ -298,7 +290,7 @@ G. Upgrades by CryptoWar Team to the game may have unintended, adverse effects o
 
 ‌
 
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by third party due to or arising out of: \(1\) use of the Site, \(2\) breach of these Terms of Use, \(3\) any breach of your representations and warranties set forth in these Terms of Use, \(4\) your violation of the rights of a third party, including but not limited to intellectual property rights, or \(5\) any overt harmful act toward any other use of the Site, the App and the Smart Contracts with whom you connected via the Site, the App and the Smart Contracts. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action or proceeding which is subject to this indemnification upon becoming aware of it.
+You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by third party due to or arising out of: (1) use of the Site, (2) breach of these Terms of Use, (3) any breach of your representations and warranties set forth in these Terms of Use, (4) your violation of the rights of a third party, including but not limited to intellectual property rights, or (5) any overt harmful act toward any other use of the Site, the App and the Smart Contracts with whom you connected via the Site, the App and the Smart Contracts. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action or proceeding which is subject to this indemnification upon becoming aware of it.
 
 ‌
 
@@ -319,4 +311,3 @@ These Terms of Use and any policies or operating rules posted by us on the Site,
 ‌
 
 LAST UPDATED: 8.09.2021
-
