@@ -26,7 +26,7 @@ To prevent EVM errors, all players will be unable to start a fight in the final 
 
 ## High Power and Low Power
 
-Monsters' power experiences a fluctuation of ±10% of the predicted value. For that reason, there is a lot of variation, especially as players’ character levels rise.
+Monsters' power experiences a fluctuation of ±20% of the predicted value. For that reason, there is a lot of variation, especially as players’ character levels rise.
 
 The choice to target a high-powered enemy against a low-powered enemy boils down to choosing payout over win rate.
 
