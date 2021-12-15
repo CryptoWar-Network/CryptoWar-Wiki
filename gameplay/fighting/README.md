@@ -1,18 +1,21 @@
-# Combat / Fighting
+# Chiến Đấu
 
-Combat serves as the primary source of gaining Xblades through the use of your character and weapon NFTs. Fighting consists of the player selecting a character and a weapon, and selecting an enemy from a randomized set based on your calculated power.
+Chiến đấu đóng vai trò là nguồn chính để đạt được Xblade thông qua việc sử dụng NFT của nhân vật và vũ khí của bạn. Chiến đấu bao gồm việc người chơi chọn nhân vật và vũ khí, đồng thời chọn kẻ thù từ một nhóm ngẫu nhiên dựa trên sức mạnh tính toán của bạn.
 
-The overview of the combat formulas can be found here:
+Tổng quan về các công thức chiến đấu có thể được tìm thấy tại đây:
 
-{% page-ref page="combat-formula.md" %}
+{% content-ref url="combat-formula.md" %}
+[combat-formula.md](combat-formula.md)
+{% endcontent-ref %}
 
-After the player has selected their enemy, the contract calculates on-chain the randomized player and enemy rolls and determines a victory if the player's roll is equal to or higher than the enemy's roll.
+Sau khi người chơi đã chọn kẻ thù của họ, hợp đồng sẽ tính toán trên chuỗi người chơi ngẫu nhiên và kẻ thù cuộn và xác định chiến thắng nếu lượt của người chơi bằng hoặc cao hơn lượt của kẻ thù.
 
-A victorious fight results in a experience payout to your character, and a Xblades payout to your in-game wallet.
+Một trận chiến thắng lợi dẫn đến phần thưởng kinh nghiệm cho nhân vật của bạn và phần thưởng Xblades vào ví trong trò chơi của bạn.
 
-A defeat results in a loss of the gas fees paid.
+Một trận thua dẫn đến mất tiền gas đã trả, hiện tại khi thua trận bạn vẫn nhận được 1 lượng xBlade nhỏ ( giá trị khoảng 0,8-1 $ ) để bù đắp cho chi phí gas.
 
-Calculations to determine the experience and Xweapon payouts can be found here:
+Các tính toán để xác định trải nghiệm và khoản thanh toán xBlade có thể được tìm thấy tại đây:
 
-{% page-ref page="combat-rewards.md" %}
-
+{% content-ref url="combat-rewards.md" %}
+[combat-rewards.md](combat-rewards.md)
+{% endcontent-ref %}

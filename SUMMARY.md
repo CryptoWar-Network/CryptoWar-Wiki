@@ -2,10 +2,10 @@
 
 * [CryptoWar](README.md)
 * [Getting Started](getting-started/README.md)
-  * [MetaMask Wallet Setup](getting-started/metamask-wallet-setup.md)
-  * [Purchasing xBlade](getting-started/purchasing-xblade.md)
-  * [Gas Fees](getting-started/gas-fees.md)
-  * [Multiple Accounts](getting-started/multiple-accounts.md)
+  * [Cài Đặt MetaMask Wallet](getting-started/metamask-wallet-setup.md)
+  * [Mua xBlade](getting-started/purchasing-xblade.md)
+  * [Phí Gas](getting-started/gas-fees.md)
+  * [Hỗ Trợ Nhiều Tài Khoản](getting-started/multiple-accounts.md)
   * [Common Issues and Solutions](getting-started/common-issues-and-solutions/README.md)
     * [Infrastructure](getting-started/common-issues-and-solutions/infrastructure.md)
 * [Tokenomics](tokenomics.md)
@@ -14,32 +14,39 @@
 
 ## xBlade
 
-* [What is xBlade?](xblade/what-is-xblade/README.md)
-  * [Spending xBlade](xblade/what-is-xblade/spending-xblade.md)
+* [xBlade là gì ?](xblade/what-is-xblade/README.md)
+  * [Chi Tiêu xBlade](xblade/what-is-xblade/spending-xblade.md)
   * [Obtaining xBlade](xblade/what-is-xblade/obtaining-xblade.md)
   * [Staking](xblade/what-is-xblade/staking.md)
   * [Oracle](xblade/what-is-xblade/oracle.md)
+  * [In-game xBlade](xblade/what-is-xblade/in-game-xblade.md)
+  * [Thuế Bán xBlade](xblade/what-is-xblade/thue-ban-xblade.md)
 
 ## GAMEPLAY
 
-* [Elements](gameplay/elements.md)
-* [Characters](gameplay/what-are-characters/README.md)
-  * [Character Levels](gameplay/what-are-characters/experience-and-levels.md)
-* [Combat / Fighting](gameplay/fighting/README.md)
-  * [Combat Formula](gameplay/fighting/combat-formula.md)
-  * [Calculating Power](gameplay/fighting/calculating-player-power.md)
-  * [Combat Rewards](gameplay/fighting/combat-rewards.md)
-* [Weapons](gameplay/what-are-weapons/README.md)
-  * [Reforging](gameplay/what-are-weapons/reforging.md)
+* [Các Nguyên Tố](gameplay/elements.md)
+* [HERO](gameplay/what-are-characters/README.md)
+  * [Cấp độ của Hero](gameplay/what-are-characters/experience-and-levels.md)
+* [Chiến Đấu](gameplay/fighting/README.md)
+  * [Công Thức Chiến Đấu](gameplay/fighting/combat-formula.md)
+  * [Tính Toán Sức Mạnh](gameplay/fighting/calculating-player-power.md)
+  * [Phần Thưởng](gameplay/fighting/combat-rewards.md)
+* [Vũ Khí](gameplay/what-are-weapons/README.md)
+  * [Nâng cấp](gameplay/what-are-weapons/reforging.md)
   * [Forging](gameplay/what-are-weapons/forging.md)
   * [Weapon Attributes](gameplay/what-are-weapons/weapon-stats.md)
-* [Rewards](gameplay/rewards.md)
-* [Character Levels & required experience per level](gameplay/character-levels-and-required-experience-per-level.md)
+* [Phần Thưởng](gameplay/rewards.md)
+* [Cấp độ của Hero & EXP yêu cầu cho mỗi cấp](gameplay/character-levels-and-required-experience-per-level.md)
+* [PVP - Sắp có](gameplay/pvp-sap-co/README.md)
+  * [Challenge Mode - Phòng Thủ](gameplay/pvp-sap-co/challenge-mode-phong-thu.md)
+  * [Challenge Mode - Tấn Công](gameplay/pvp-sap-co/challenge-mode-tan-cong.md)
+  * [Career Mode - Phòng Thủ](gameplay/pvp-sap-co/career-mode-phong-thu.md)
+  * [Career Mode - Tấn Công](gameplay/pvp-sap-co/career-mode-tan-cong.md)
 
 ## Marketplace <a href="#market" id="market"></a>
 
 * [Marketplace](market/marketplace.md)
-* [Trading](market/trading.md)
+* [Giao dịch](market/trading.md)
 
 ## Strategies and Guides
 

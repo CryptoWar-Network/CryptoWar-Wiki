@@ -1,148 +1,136 @@
-# Calculating Power
+# Tính Toán Sức Mạnh
 
-## Unaligned Character Power
+## Sức Mạnh của Hero
 
-Unaligned Character Power is the variable used to determine the range of enemy power rolls.
+Sức mạnh của Hero được thiết kế là biến được sử dụng để xác định phạm vi cuộn sức mạnh của đối phương.
 
-The required variables to calculate this are the following:
+Các yếu tố bắt buộc để tính toán điều này là:
 
-| **Variable** | . | **Description** |
-| :--- | :--- | :--- |
-| **Character Power** | . | **Character Power** is the listed power displayed on the upper left hand side of the screen above the stamina bar when a character is selected. |
-| **Weapon Attribute Base** | . | **Weapon Attribute Base** is the sum of all the weapon's attribute values without taking into consideration elemental matching. |
-| **Weapon Bonus Power** | . | **Weapon Bonus Power** is the listed bonus power value if the weapon has been reforged. |
+| Yếu tố                            | . | **Mô tả**                                                                                                                                            |
+| --------------------------------- | - | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sức Mạnh của Hero**             | . | Sức mạnh của Hero là sức mạnh được liệt kê được hiển thị ở phía trên bên trái của màn hình phía trên thanh sức chịu đựng khi một nhân vật được chọn. |
+| **Cơ sở thuộc tính vũ khí**       | . | Cơ sở thuộc tính vũ khí là tổng của tất cả các giá trị thuộc tính của vũ khí mà không tính đến sự kết hợp nguyên tố.                                 |
+| **Sức mạnh cộng thêm của vũ khí** | . | Sức mạnh cộng thêm của vũ khí là giá trị sức mạnh cộng thêm được liệt kê nếu vũ khí đã được nâng cấp.                                                |
 
-The current formula to calculate for unaligned power is
+Công thức hiện tại để tính công suất không đổi là
 
 $$
 unalignedPower = (((attributeTotal * 0.0025) + 1)
  * charPower) +bonusPower
 $$
 
-After we calculate for unaligned power, we apply a ±10% to determine the range of values that the enemy power values might be.
+Sau khi chúng tôi tính toán cho công suất không liên kết, chúng tôi áp dụng ± 20% để xác định phạm vi giá trị mà giá trị công suất của đối phương có thể là.
 
 {% hint style="info" %}
-Let's do a sample calculation assuming the following values below:
+Hãy làm một phép tính mẫu giả sử các giá trị sau:
 
-* Character Power - 1000 \(a level one character\)
-* Attribute Total - 800 \(a max attribute 4-star weapon\)
-* Bonus Power - 1500 \(a 100/100 LB, 0/25 4B, 0/10 5B weapon\)
+* Sức mạnh Hero- 1000 (nhân vật cấp một)
+* Tổng thuộc tính - 800 (vũ khí 4 sao thuộc tính tối đa)
+* Sức mạnh cộng thêm - 1500 (vũ khí 100/100 LB, 0/25 4B, 0/10 5B)
+* Sức mạnh không điều chỉnh lên đến 4500.
+* 4500 \* 0,8 được làm tròn đến số nguyên gần nhất là 3600, là Sức mạnh kẻ thù tối thiểu.
+* 4500 \* 1.2 được làm tròn đến số nguyên gần nhất là 5400, là Sức mạnh kẻ thù tối đa.
 
-Unaligned Power comes out at 4500.
 
-Minimum Enemy Power is 4500 \* 0.9 rounded down to 4050.
-
-Maximum Enemy Power is 4500 \* 1.1 rounded down to 4950.
 {% endhint %}
 
-## Aligned Character Power
+## Sức mạnh Hero được căn chỉnh
 
-Aligned Character Power is the variable used in determining the player's combat roll in conjunction with Trait Bonus.
+Cùng với Lơi thế thuộc tính, Sức mạnh Nhân vật Căn chỉnh được sử dụng để xác định điểm chiến đấu của người chơi.
 
-The required variables to calculate this are similar to Unaligned Character Power above but instead of
+Các biến cần thiết cho kết quả tính toán của Sức mạnh ký tự được căn chỉnh tương tự như các biến của Sức mạnh ký tự không được căn chỉnh được đề cập ở trên. Điểm khác biệt là trò chơi sử dụng Sức mạnh nhân vật được căn chỉnh thay vì Sức mạnh nhân vật không được căn chỉnh để thực hiện phép tính.
 
-| **Weapon Attribute Base** | . | **Weapon Attribute Base** is the sum of all the weapon's attribute values without taking into consideration elemental matching. |
-| :--- | :--- | :--- |
+|                             |   |                                                                                            |
+| --------------------------- | - | ------------------------------------------------------------------------------------------ |
+| **Cơ sở thuộc tính vũ khí** |   | Cơ sở thuộc tính vũ khí là tổng của tất cả các giá trị thuộc tính của vũ khí không bao gồm |
 
+Sử dụng sức mạnh Hero được căn chỉnh
 
-Aligned Character Power uses
+| Thuộc tính vũ khí được nhâ**n** | . | Nhân thuộc tính vũ khí là tổng của tất cả các giá trị thuộc tính của vũ khí sau khi áp dụng hệ số nhân cho từng thuộc tính dựa trên kết hợp nguyên tố. |
+| ------------------------------- | - | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
-| **Weapon Attribute Multiplied** | . | **Weapon Attribute Multiplied** is the sum of all the weapon's attribute values after applying a multiplier to each attribute based on elemental matching. |
-| :--- | :--- | :--- |
+Thay vì công thức chỉ đơn giản là tổng hợp tất cả các thuộc tính của vũ khí, thay vào đó chúng tôi đánh giá từng thuộc tính riêng biệt và áp dụng các phép tính sau để xác định giá trị của chúng
 
-
-Instead of the formula simply summing up all the weapon's attributes, we instead evaluate each attribute separately and apply the following calculations to determine their value
-
-```text
+```
 if attributeElement != charElement (attributeValue * 0.0025)
 if attributeElement == PWR (attributeValue * 0.002575)
 if attributeElement == charElement (attributeValue * 0.002675)
 ```
 
-Once each attribute has been evaluated, they get totaled and used in the same formula as unaligned power to get the aligned power.
+Sau khi mỗi thuộc tính đã được đánh giá, chúng sẽ được tính tổng và được sử dụng theo cùng một công thức với quyền lực không căn chỉnh để có được sức mạnh được căn chỉnh.
 
 $$
 alignedPower = ((evaluatedAttributeTotal + 1) * charPower) + bonusPower
 $$
 
 {% hint style="info" %}
-Let's do another sample calculation assuming the following values below:
+Hãy thực hiện một phép tính mẫu khác giả sử các giá trị sau:&#x20;
 
-* Character Power - 1000 \(a level one character\)
-* Character Element - Fire
-* Attribute One - STR 400
-* Attribute Two - CHA 400
-* Bonus Power - 1500 \(a 100/100 LB, 0/25 4B, 0/10 5B weapon\)
+Sức mạnh nhân vật - 1000 (nhân vật cấp một)
 
-Aligned Power comes out to 4570.
+&#x20;Yếu tố nhân vật - Lửa
+
+&#x20;Thuộc tính 1 - STR 400
+
+&#x20;Thuộc tính 2 - CHA 400
+
+&#x20;Sức mạnh cộng thêm - 1500 (vũ khí 100/100 LB, 0/25 4B, 0/10 5B)
+
+&#x20;Sức mạnh được căn chỉnh lên đến 4570.
 {% endhint %}
 
-Aligned Power is used as is when calculating experience gain, or multiplied with Trait Bonus when calculating the player's combat roll.
+Sức mạnh Căn chỉnh được sử dụng như khi tính toán kinh nghiệm nhận được hoặc nhân với Tiền thưởng Đặc điểm khi tính toán lượt chiến đấu của người chơi.
 
-## Trait Bonus
+## Điểm cộng chỉ số thuộc tính
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/dea8b4851ebe0138463f3c8c7c89170b2b9c37ce/.gitbook/assets/trait-bonus.png)
+![](../../.gitbook/assets/13.jpg)
 
-Trait Bonus is a variable multiplied to Aligned Power and used to determine the player's combat roll.
+![](../../.gitbook/assets/12.jpg)
 
-The formula to determine Trait Bonus is outlined below.
+Chỉ số thuộc tính là một biến số được nhân với Sức mạnh Căn chỉnh và được sử dụng để xác định lượt chiến đấu của người chơi.
 
-```text
+Theo công thức sau:&#x20;
+
+```
 TraitBonus = 1
 if charElement == weaponElement (TraitBonus += 0.075)
 if charElement > enemyElement (TraitBonus += 0.075)
 if charElement < enemyElement (TraitBonus -= 0.075)
 ```
 
-The elemental advantage in regards to character against enemy is as follows:
+Lợi thế nguyên tố liên quan đến tính cách chống lại kẻ thù như sau:
 
-* Fire beats Earth
-* Earth beats Air
-* Air beats Water
-* Water beats Fire
+* Lửa thắng Đất
+* Đất  thắng Sấm Sét
+* Sấm Sét thắng Nước
+* Nước thắng Lửa
 
-Trait Bonus gets evaluated and then multiplied with Aligned Power to get the players final power value.
+Lợi thế nguyên tố được đánh giá và sau đó nhân với Sức mạnh Căn chỉnh để nhận được giá trị sức mạnh cuối cùng của người chơi.
 
-A ±10% is then applied to the final value to determine the player's combat roll.
-
-{% hint style="info" %}
-Taking the Aligned Power calculated above, let's assume the following variables:
-
-* Character Element - Fire
-* Weapon Element - Water
-* Enemy Element - Earth
-
-Trait Bonus comes out to 1.075.
-
-Final Power Value after applying Trait Bonus to the Aligned Power above is 4912.
-
-Minimum Player Roll is 4912 \* 0.9 rounded down to 4420.
-
-Maximum Player Roll is 4912 \* 1.1 rounded down to 5403.
-{% endhint %}
-
-## Enemy Power
-
-Enemy Power is a simple ±10% calculation applied to the listed enemy power of whatever enemy the player chose.
-
-The numerical value listed on the combat screen button is used to determine experience and Xweapon payouts.
-
-The calculated value with the ±10% applied is used to determine the enemy's rolls in combat
+Sau đó,  ± 20% được áp dụng cho giá trị cuối cùng để xác định sức mạnh chiến đấu của người chơi.
 
 {% hint style="info" %}
-Taking the previous values into account, let's finalize the sample combat simulation
+Lấy Công suất được căn chỉnh được tính toán ở trên, hãy giả sử các biến sau:
 
-* Minimum Enemy Power = 4050
-* Maximum Enemy Power = 4950
+&#x20;Yếu tố nhân vật - Lửa
 
-Let's assume the player chose an enemy with a listed power value of 4700.
+&#x20;Nguyên tố vũ khí - Nước
 
-* Enemy Power = 4700
+&#x20;Nguyên tố kẻ thù - Đất
 
-Minimum Enemy Roll is 4700 \* 0.9 rounded down to 4230.
+&#x20;Chỉ số thuộc tính lên tới 1.075.
 
-Maximum Enemy Roll is 4700 \* 1.1 rounded down to 5170.
+&#x20;Giá trị Sức mạnh cuối cùng sau khi áp dụng lợi thế nguyên tố cho Sức mạnh Căn chỉnh ở trên là 4912.&#x20;
 
-From this information, we know that the player can roll between 4420 - 5403 and the enemy can roll between 4230 - 5170.
+Sức mạnh người chơi tối thiểu là 4912 \* 0,8 làm tròn xuống 4420.&#x20;
+
+Sức mạnh người chơi tối đa là 4912 \* 1.2 được làm tròn xuống thành 5403.
 {% endhint %}
 
+## Sức mạnh đối thủ
+
+Sức mạnh của kẻ thù là một phép tính ± 20% đơn giản được áp dụng cho sức mạnh kẻ thù được liệt kê của bất kỳ kẻ thù nào mà người chơi đã chọn.
+
+Giá trị số được liệt kê trên nút màn hình chiến đấu được sử dụng để xác định kinh nghiệm và các khoản thanh toán xBlade.
+
+Giá trị được tính toán với ± 20% được áp dụng được sử dụng để xác định các cuộn của kẻ thù trong chiến đấu

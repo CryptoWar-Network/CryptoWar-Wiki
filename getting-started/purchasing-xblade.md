@@ -1,29 +1,28 @@
-# Purchasing xBlade
+# Mua xBlade
 
-After finishing the “Metamask Wallet Setup” process and receiving a certain amount of BNB, you proceed to next step of purchasing xBlade using BNB in your wallet
+Sau khi kết thúc quy trình “Thiết lập ví Metamask” và nhận được một lượng BNB nhất định, bạn tiến hành bước tiếp theo là mua xBlade bằng BNB trong ví của mình
 
-**To purchase xBlade, players need to use a decentralized exchange such as Pancakeswap to complete the transaction**
+Để mua xBlade, người chơi cần sử dụng sàn giao dịch phi tập trung như Pancakeswap để hoàn tất giao dịch
 
-The following is a set of detailed instructions for players to purchase xBlade:
+Sau đây là bộ hướng dẫn chi tiết để người chơi mua xBlade:
 
-1. Go to Pancakeswap
-2. Click on “Connect” button on the top navigation bar
+1. Truy cập Pancakeswap
+2. Ấn vào “Connect” tại thanh điều hướng trên cùng
 
-![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-3edit.jpg?w=369&ssl=1)
+![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-3edit.jpg?w=369\&ssl=1)
 
-1. Click on “Metamask” to connect your wallet to Pancakeswap
+1. Nhấp vào “Metamask” để kết nối ví của bạn với Pancakeswap
 
-![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-4edit.jpg?w=368&ssl=1)
+![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-4edit.jpg?w=368\&ssl=1)
 
-1. Tab on the “Connect” button to proceed to the next step 
+1. Ấn vào “Connect” để sang bước tiếp theo
 
-![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-6edit.jpg?w=340&ssl=1)
+![image](https://i1.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-6edit.jpg?w=340\&ssl=1)
 
-1. Put the desired amount of BNB on the “Swap” field to swap for xBlade that you want 
+1. Đặt số lượng BNB mong muốn vào trường "Hoán đổi" để hoán đổi lấy xBlade mà bạn muốn&#x20;
 
-![image](https://i2.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-9edit.jpg?w=369&ssl=1)
+![image](https://i2.wp.com/www.followchain.org/wp-content/uploads/2021/06/connect-metamask-pancakeswap-9edit.jpg?w=369\&ssl=1)
 
-1. Check your values before clicking on “Enter an amount” button
+1. Kiểm tra các giá trị của bạn trước khi nhấp vào nút “Enter an amount”
 
-Once your transaction has been completed, you will see your xBlade balance in your wallet asset, which has been connected to your wallet beforehand. Now you can use your xBlade to build your characters and forge your weapons.
-
+Khi giao dịch của bạn đã hoàn tất, bạn sẽ thấy số dư xBlade của mình trong tài sản ví của bạn, tài sản này đã được kết nối với ví của bạn trước đó. Giờ đây, bạn có thể sử dụng xBlade của mình để xây dựng nhân vật và rèn vũ khí.

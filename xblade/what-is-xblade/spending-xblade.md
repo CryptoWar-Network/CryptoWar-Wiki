@@ -1,18 +1,17 @@
-# Spending xBlade
+# Chi Tiêu xBlade
 
-## Spending xBlade
+## Chi tiêu xBlade
 
-To create and increase assets in wallet, players need to use xBlade to complete the in-game transactions. The more frequent players make in-game transactions the higher the value of xBlade is.
+Để tạo và tăng tài sản trong ví, người chơi cần sử dụng xBlade để hoàn thành các giao dịch trong trò chơi. Người chơi càng thường xuyên thực hiện các giao dịch trong trò chơi thì giá trị của xBlade càng cao.
 
-## How can players use xBlade?
+## Người chơi sử dụng xBlade như thế nào?
 
-At the moment, xBlade can be used to recruit up to 4 main characters, minting weapons and reforging weapons as well.
+Hiện tại, xBlade có thể được sử dụng để chiêu mộ tối đa 4 nhân vật chính, đúc vũ khí và tân trang lại vũ khí.
 
-### Minting weapons
+### Chế tạo Vũ Khí
 
-With certain amount of xBlade in wallet, players are able to build their own characters and forge weapons to go into battles with monsters in order to earn more xBlade. The amount of xBlade collected from combats depends on the strength level of monsters. Players are encouraged to purchase more xBlade to mint rare weapons as a means to get weapons with higher stats, which give them a chance to hold more xBlade in their wallet. The more xBlade players earn, the higher up their level goes and the more power they have on their weapons
+Với số lượng xBlade nhất định trong ví, người chơi có thể xây dựng nhân vật của riêng mình và rèn vũ khí để tham gia các trận chiến với quái vật nhằm kiếm thêm xBlade. Số lượng xBlade thu được từ các trận chiến phụ thuộc vào cấp độ sức mạnh của quái vật. Người chơi được khuyến khích mua thêm xBlade để đúc vũ khí hiếm như một phương tiện để có được vũ khí có chỉ số cao hơn, giúp họ có cơ hội giữ nhiều xBlade hơn trong ví của mình. Người chơi càng kiếm được nhiều xBlade, cấp độ của họ càng cao và càng có nhiều sức mạnh trên vũ khí của mình.
 
-### Reforging weapons
+### Gia cố vũ khí
 
-To burn weaker weapons and add stats to weapons, players need to proceed to “reforging” process, which consumes a great amount of xBlade to upgrade and boost the attack power of their weapons. Reforging weapons process ups the odds of winning in battles and makes it easier for players to sell their weapons on the marketplace
-
+Để đốt vũ khí yếu hơn và thêm chỉ số cho vũ khí, người chơi cần phải tiến hành quá trình “reforging”, quá trình này tiêu tốn một lượng lớn xBlade để nâng cấp và tăng sức tấn công cho vũ khí của họ. Quá trình gia cố vũ khí nâng cao tỷ lệ chiến thắng trong các trận chiến và giúp người chơi bán vũ khí của họ trên thị trường dễ dàng hơn

@@ -1,52 +1,35 @@
-# Character Levels
+# Cấp độ của Hero
 
-Each character starts out at level one, in order to level up, character must acquire experience through won combats.
+Mỗi Hero bắt đầu từ cấp một, để lên cấp, nhân vật phải có kinh nghiệm thông qua các trận chiến thắng.
 
-Character levels determine the amount of power they have during combat calculations, and in turn determines the xBlade n payout if victories.
+Các cấp độ của Hero xác định lượng sức mạnh mà họ có trong quá trình tính toán chiến đấu, và lần lượt xác định phần thưởng xBlade  nếu chiến thắng.
 
-## Level Milestones
+## Cách tính điểm EXP
 
-Level milestones are specific points where the character receives a large boost in power, and in turn increases their xBlade payout.
+Để tính xem đã đủ điểm EXP để lên cấp cho Hero chưa, bạn có thể tạo một bản sao của bảng tính sau và kiểm tra: [CryptoWar Experience Calculator](https://docs.google.com/spreadsheets/d/1auVAnRlsoxwKQTFX3\_ZZluteJ8DxeZIQio\_jLK21ijs/edit?usp=sharing) .
 
-Currently milestones occur every ten levels, starting from 11 then 21, 31, 41, etc.
-
-## Calculating Experience
-
-To calculate whether or not it is time to claim, you can make a copy of the following spreadsheet:
-
-Link to the spreadsheet here: [**CryptoWar Experience Calculator**](https://docs.google.com/spreadsheets/d/1auVAnRlsoxwKQTFX3_ZZluteJ8DxeZIQio_jLK21ijs/edit?usp=sharing)
-
-An overview of the experience table can be found below:
+Tổng quan về bảng trải nghiệm có thể được tìm thấy bên dưới:
 
 ![CWE](https://i.imgur.com/UjYu1Mu.png)
 
-## When to claim Experience ?
+## Khi nào nên nhận điểm EXP ?
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/f392473443d3dd3c5be8a4021f5df9b0cf226d6b/.gitbook/assets/claim-exp.png)
+![](../../.gitbook/assets/3.jpg)
 
-Experience won through battles is stored in the Rewards bar, similar to xBlade
+Kinh nghiệm giành được qua các trận chiến được lưu trữ trong thanh Phần thưởng, tương tự như xBlade
 
-As claiming experience costs a gas fee for the transaction, it is recommended to only claim your experience for a character if it will push them to the next milestone if the character in question is under level 41.
+Người chơi nên tính toán điểm kinh nghiệm đủ để lên cấp và nhận về để nâng cấp độ cho Hero của mình. Cấp độ Hero càng cao, phần thưởng nhận được càng lớn.
 
-Past level 41, it becomes beneficial to claim their experience every level thereafter as the boost in power will result in more xBlades gained through fight payouts.
+## Sức mạnh theo cấp độ Hero
 
-{% hint style="info" %}
-Often times due to varying win rates, character levels may become desynced.
-
-It is always a good idea to claim experience before fighting with a character if that experience pushes them to the next milestone.
-
-If other characters will not yet hit their respective milestones, it might be beneficial to stop fighting with that character and let others catch up assuming their stamina isn't full.
-{% endhint %}
-
-## Power Per Level
-
-To calculate the amount of power a character gets at a certain level, we refer to the formula below:
+Để tính toán lượng sức mạnh mà một nhân vật nhận được ở một cấp độ nhất định, chúng ta tham khảo công thức dưới đây:
 
 $$
 charPower = 1000 + ((charLevel - 1) * 10) * (Math.Floor((charLevel - 1) / 10) + 1
 $$
 
-More information on how character power is used to determine combat calculations and payouts can be found here:
+Bạn có thể tìm thêm thông tin về cách sử dụng sức mạnh nhân vật để xác định các phép tính chiến đấu và thanh toán tại đây:
 
-{% page-ref page="../fighting/" %}
-
+{% content-ref url="../fighting/" %}
+[fighting](../fighting/)
+{% endcontent-ref %}

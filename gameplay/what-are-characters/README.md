@@ -1,46 +1,40 @@
-# Characters
+# HERO
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/3b019ad181617871935f37f99d835907c5a0307a/.gitbook/assets/characters.png)
+![](../../.gitbook/assets/2.jpg)
 
-Characters are one of the main NFTs the player can possess in CryptoWar.
-
-Each account can hold a maximum of four characters at any given time.
-
-The price to mint characters is displayed on the button in the Plaza tab. All Xweapon spent on minting characters gets sent to the contract that handles fight payouts.
-
-Each character starts at level one, and comes with a random element upon minting.
-
-Currently there is no way to change the element of a character.
+Hero là một trong những NFT chính mà người chơi có thể sở hữu trong CryptoWar. Mỗi tài khoản có thể chứa tối đa tám Heroes tại bất kỳ thời điểm nào. Giá cho Hero khi đúc được hiển thị trên nút trong mục Plaza. Tất cả xBlade chi cho việc đúc nhân vật sẽ được gửi đến hợp đồng xử lý các khoản thanh toán chiến đấu. Mỗi Hero bắt đầu ở cấp một và đi kèm với một yếu tố ngẫu nhiên khi đúc. Hiện tại không có cách nào để thay đổi nguyên tố của một Hero.
 
 ## CWC
 
-CWC stands for CryptoWar Character, and are the character NFTs present on your wallet.
+CWC là viết tắt của CryptoWar Character, và là ký tự NFT có trên ví của bạn.
 
-If you wish to have CWC visible on your MetaMask wallet, you may add the token through it's contract address found below:
+Nếu bạn muốn CWC hiển thị trên ví MetaMask của mình, bạn có thể thêm mã thông báo thông qua địa chỉ hợp đồng được tìm thấy bên dưới:
 
-> 0xc6f252c2cdd4087e30608a35c022ce490b58179b
+> 0xC38470BFE1b08c3baFDaf699eBa2fCA1fd2B040B
 
 {% hint style="info" %}
 Set the decimal to "0" if prompted.
 {% endhint %}
 
-## Character Elements
+## Hệ Nguyên Tố của Hero
 
-Each character comes as one of four different elements \(Fire, Earth, Air, Water\).
+Mỗi Hero có thể sở hữu một trong bốn nguyên tố khác nhau (Lửa, Đất, Sấm Sét, Nước).
 
-Character elements are used to determine advantage calculations and multipliers in combat.
+Nguyên tố của Hero được sử dụng để xác định các phép tính lợi thế và hệ số nhân trong chiến đấu.
 
-More information on how character elements are used can be found here:
+Có thể tìm thấy thêm thông tin về cách các nguyên tố Hero được sử dụng ở đây:
 
-{% page-ref page="../fighting/" %}
+{% content-ref url="../fighting/" %}
+[fighting](../fighting/)
+{% endcontent-ref %}
 
-## Stamina
+## Điểm năng nượng
 
-Each character has their own individual stamina pool, with a maximum count of 200.
+Mỗi nhân vật có tổng thể lực riêng của họ, với số lượng tối đa là 200.
 
-Stamina regenerates at a rate of one point every five minutes.
+Điểm năng lượng sẽ được hồi lại theo một thời gian nhất định tương ứng với cấp độ của Hero.
 
-Stamina is spent when the player engages in combat, at a rate of 40/80/120/160/200 stamina per fight depending on the player's selected stamina cost per fight.
+Điểm năng lượng được sử dụng khi người chơi tham gia chiến đấu, với tỷ lệ 40/80/120/160/200 sức chịu đựng mỗi trận đấu tùy thuộc vào chi phí sức chịu đựng đã chọn của người chơi mỗi trận đấu.
 
-This means that in 24 hours, each character can get 288 stamina which equates to 7.2 fights.
+Số điểm năng nượng sử dụng trên mỗi trận chiến càng cao phần thưởng nhận được khi chiến thắng càng lớn.
 

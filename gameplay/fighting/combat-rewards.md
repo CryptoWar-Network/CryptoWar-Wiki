@@ -1,34 +1,27 @@
-# Combat Rewards
+# Phần Thưởng
 
-## Stamina per Fight
+## Điểm năng lượng mỗi trận đấu
 
-Players may decide how much stamina they wish to spend on a single fight, and can spend up to 200 stamina in one go.
+Người chơi có thể quyết định mức thể lực mà họ muốn chi cho một trận chiến và có thể tiêu tốn tới 200 thể lực trong một lần.
 
-Gas offset is paid once per transaction, so if the user decides to spend 200 stamina they would receive 5x the evaluated baseline rewards, but gas offset only once.
+Phần bù gas được thanh toán một lần cho mỗi giao dịch, vì vậy nếu người dùng quyết định chi tiêu 200 sức chịu đựng, họ sẽ nhận được gấp 5 lần phần thưởng cơ bản đã đánh giá, nhưng phần bù gas chỉ một lần.
 
-The expected dollar value gains are equivalent for all tiers of stamina spending when accounting for gas, however earnings across an average period of time may differ if the player loses multiple high stamina fights.
+Mức tăng giá trị đô la dự kiến ​​là tương đương cho tất cả các mức chi tiêu sức chịu đựng khi tính tiền xăng, tuy nhiên, thu nhập trong một khoảng thời gian trung bình có thể khác nhau nếu người chơi thua nhiều trận đấu có sức chịu đựng cao.
 
-Experience gained in fights are also multiplied proportionally depending on whatever stamina value the player chooses to spend.
+Kinh nghiệm nhận được trong các trận chiến cũng được nhân lên tương ứng tùy thuộc vào bất kỳ giá trị sức chịu đựng nào mà người chơi chọn bỏ ra.
 
-## Xweapon Payout
+## Thanh toán xBlade
 
-The formula to determine Xweapon payout is as follows:
+Công thức để xác định khoản thanh toán của xBlade như sau:
 
-$$
-payout = gasOffset + (baseline * √(enemyPower/1000))
-$$
+> payout = gasOffset + (baseline \* √(enemyPower/1000))
 
-Gas Offset is shown in the earnings calculator as follows:
+Chênh lệch gas được hiển thị trong máy tính thu nhập như sau:
 
-![Taken August 1, 2021](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/b02415e38e51f02bfc34f83a6993148521d23352/.gitbook/assets/payout-calc-offset.png)
+![](../../.gitbook/assets/9.jpg)
 
-Baseline is also shown in the earnings calculator as follows:
-
-![Taken August 1, 2021](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/b02415e38e51f02bfc34f83a6993148521d23352/.gitbook/assets/payout-calc-baseline.png)
-
-These numbers are dynamically adjusted by the Oracle, taking into account Xweapon dollar value.
+Những con số này được Oracle điều chỉnh động, có tính đến giá trị đô la của xBlade.
 
 {% hint style="info" %}
-Note that the "power" variable indicated in the formula is the listed power value of whatever enemy the player chooses to fight.
+Lưu ý rằng biến "sức mạnh" được chỉ ra trong công thức là giá trị sức mạnh được liệt kê của bất kỳ kẻ thù nào mà người chơi chọn để chiến đấu.
 {% endhint %}
-

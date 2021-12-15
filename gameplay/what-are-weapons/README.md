@@ -1,62 +1,59 @@
-# Weapons
+# Vũ Khí
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapons.png)
+![](../../.gitbook/assets/16.jpg)
 
-Weapons are one of the main NFTs the player can obtain, trade and earn money in the game
+Không cần phải nói rằng vũ khí là một trụ cột thiết yếu của NFT. Để tham gia vào trò chơi, người chơi bắt buộc phải sở hữu vũ khí của riêng mình, có thể được sử dụng đầy đủ cho các giao dịch trong trò chơi như giao dịch, nhận xBlade và kiếm tiền. Điều khác biệt giữa vũ khí với các nhân vật là số lượng vũ khí không giới hạn trong mỗi tài khoản.
 
-Unlike characters, each account can hold an unlimited amount of weapons.
+To keep weapon-minting-price under surveillance, please press on the “Forge” button in the Blacksmith tab for further information.
 
-The price to mint weapons is displayed on the "Forge" button in the Blacksmith tab.
+It is worth noting that each weapon is assigned a random element and a random rarity, which is denoted by the number of stars shown on the weapon. The number of attributes along with the values rolled by these attributes is calibrated by the rarity of the weapon. Each weapon can be fully harnessed by all four of players’ characters and is not bound to a particular character. For that reason, forming a strong squad owning similar element appears to be an effective strategy to optimize the strength of the weapon.
 
-Each weapon comes with a random element and a random rarity denoted by the amount of stars it possesses. The rarity of the weapon determines the amount of attributes it has and the values that these attributes may roll.
+For the time being, there is no method to adjust any of the weapon’s values.
 
-The usage of a weapon is not tied to a character, so one weapon may be used by all four of your characters. This is why it is important to have the team with same element to maximize the weapon.
+## CWW - CryptoWar Weapon
 
-Currently there is no way to change any of the values the weapon may roll.
+CWW là viết tắt của CryptoWar Weapon, và là vũ khí NFT có trên ví của bạn.
 
-## CWW
+Nếu bạn muốn CBW hiển thị trên ví MetaMask của mình, bạn có thể thêm mã thông báo thông qua địa chỉ hợp đồng được tìm thấy bên dưới:
 
-CWW stands for CryptoWar Weapon, and are the weapon NFTs present on your wallet.
-
-If you wish to have CBW visible on your MetaMask wallet, you may add the token through it's contract address found below:
-
-> 0x7e091b0a220356b157131c831258a9c98ac8031a
+> 0x52683412f6Ea2B6302ceA8406EfF928510466c2c
 
 {% hint style="info" %}
 Set the decimal to "0" if prompted.
 {% endhint %}
 
-## Weapon Durability
+## Độ bền của vũ khí
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/4a03113959cb9c067f5ce0457446e71d3bec2684/.gitbook/assets/weapon-stamina.png) After fighting many times, your weapon will need to cool down.
+![](../../.gitbook/assets/17.jpg)
 
-All Weapons have durability to limit how many times a weapon can be used to prevent people from passing a weapon around to take advantages.
+Độ bền là khoảng thời gian mà người chơi có thể bắn kẻ thù bằng vũ khí có nghĩa là mỗi vũ khí sở hữu một độ bền nhất định để cắt giảm lượng thời gian dành cho mỗi vũ khí, đồng thời ngừng tận dụng vũ khí đó bằng cách chuyền nó đi. Đó là lý do mà vũ khí cần được hạ nhiệt sau mỗi trận chiến.
 
-Durability recovers at a rate equal to character stamina, so a single account can use a single weapon for fighting with four characters.
+Do tốc độ hồi phục của nó ngang bằng với sức chịu đựng của nhân vật, độ bền giúp mỗi tài khoản có thể chiến đấu với bốn nhân vật bằng cùng một loại vũ khí. Hơn nữa, độ bền không ảnh hưởng đến tỷ lệ thắng hoặc chức năng của mỗi vũ khí khi chiến đấu.
 
-Durability has no effect on win rate, or the effectiveness of any weapon when used in combat.
+## Chế Tạo Vũ Khí
 
-## Weapon Minting
+Cùng với Nâng Cấp, Chế Tạo vũ khí là mục tiêu chính của trò chơi xBlade. Tất cả các chi phí của xBlade trên việc đúc vũ khí được chuyển trực tiếp đến các khoản thanh toán chiến đấu xử lý theo hợp đồng.
 
-Minting weapons serves as the primary xBlade sink of the game along with Reforging. All xBlade spent on minting weapons gets sent to the contract that handles fight payouts.
+Độ hiếm của vũ khí được xác định ngẫu nhiên khi đúc. Hiện tại tỷ lệ của từng độ hiếm như sau:
 
-The rarity of a weapon is randomly determined upon minting. Currently the rates of each rarity is as follows:
+* 1% cơ hội cho vũ khí 5 sao&#x20;
+* 5% cơ hội cho vũ khí 4 sao&#x20;
+* 15% cơ hội cho vũ khí 3 sao&#x20;
+* 35% cơ hội cho vũ khí 2 sao&#x20;
+* 44% cơ hội cho vũ khí 1 sao
 
-* 1% chance for a 5 star weapon
-* 5% chance for a 4 star weapon
-* 15% chance for a 3 star weapon
-* 35% chance for a 2 star weapon
-* 44% chance for a 1 star weapon
+Hiện tại không có gì đảm bảo rằng một lượng cuộn cụ thể sẽ mang lại độ hiếm cụ thể của vũ khí. Một số sinh ra đã may mắn nhưng càng làm việc càng gặp nhiều may mắn.
 
-There is currently no guarantee that a specific amount of rolls will yield a specific rarity of weapon. Some are born lucky but the more you work, the more chance of fortune you encounter
+## Nguyên tố của Vũ Khí
 
-## Weapon Elements
+![](../../.gitbook/assets/19.jpg)
 
-The element of a weapon is randomly determined upon minting. Weapons share the same elements as characters \(Fire, Earth, Air, Water\).
+Yếu tố của vũ khí được xác định ngẫu nhiên khi đúc. Vũ khí có chung các yếu tố với nhân vật (Lửa, Đất, Sấm Sét, Nước).
 
-The element of the weapon is used for calculating the player roll for combat.
+Nguyên tố của vũ khí được sử dụng để tính toán lượt người chơi tham gia chiến đấu.
 
-More information on element matching can be found here:
+Có thể tìm thấy thêm thông tin về đối sánh phần tử tại đây:
 
-{% page-ref page="../fighting/" %}
-
+{% content-ref url="../fighting/" %}
+[fighting](../fighting/)
+{% endcontent-ref %}

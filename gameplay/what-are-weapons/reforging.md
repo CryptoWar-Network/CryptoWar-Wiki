@@ -1,70 +1,71 @@
-# Reforging
+# Nâng cấp
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge.png)
+![](<../../.gitbook/assets/3 (1).jpg>)
 
-Reforging weapons is the process of spending xBlade tokens to burn one weapon into another. The target weapon receives bonus power, and the burned weapon disappears.
+Nâng cấp vũ khí là quá trình sử dụng các mã thông báo xBlade để đốt một vũ khí này thành một vũ khí khác. Vũ khí mục tiêu nhận được sức mạnh cộng thêm, và vũ khí bị đốt cháy biến mất.
 
-Alongside weapon forging, reforging serves as one of the two xBlade sinks in the game. Reforging also gives value to the massive amounts of one to three-star weapons that a player may receive when trying to forge for four or five stars.
+Cùng với việc rèn vũ khí, việc tái trang bị đóng vai trò là một trong hai điểm xBlade sử dụng trong trò chơi. Việc cường hóa cũng mang lại giá trị cho số lượng lớn vũ khí từ một đến ba sao mà người chơi có thể nhận được khi cố gắng rèn cho bốn hoặc năm sao.
 
 ## LB, 4B, and 5B
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge-lb-4b-5b.png)
+![](../../.gitbook/assets/22.jpg)
 
-A reforged weapon displays new information when hovered over. This is the LB, 4B, 5B, and Bonus Power.
+Một vũ khí được tinh chỉnh lại hiển thị thông tin mới khi di chuột qua. Đây là LB, 4B, 5B và Bonus Power.
 
-LB stands for _Low Star Burn_ and is the total value of one to three-star weapons burnt.
+LB là viết tắt của Low Star Burn và là tổng giá trị của vũ khí từ một đến ba sao bị cháy.
 
-4B stands for _Four Star Burn_ and is the total value of four-star weapons burnt.
+4B là viết tắt của Four Star Burn và là tổng giá trị của vũ khí bốn sao bị đốt cháy.
 
-5B stands for _Five Star Burn_ and is the total value of five star weapons burnt.
+5B là viết tắt của Five Star Burn và là tổng giá trị của vũ khí năm sao bị cháy.
 
-## Bonus Power
+## Sức mạnh cộng thêm
 
-![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/reforge-bonus-power.png)
+![](../../.gitbook/assets/23.jpg)
 
-Bonus Power is a new stat gained when reforging that is used alongside weapon attributes to determine player power for combat rolls.
+Sức mạnh cộng thêm là một chỉ số mới có được khi nâng cấp, được sử dụng cùng với các thuộc tính vũ khí để xác định sức mạnh của người chơi cho các lượt chiến đấu.
 
-More information on how Bonus Power is used can be found here:
+Bạn có thể tìm thêm thông tin về cách sử dụng tại đây:
 
-{% page-ref page="../fighting/" %}
+{% content-ref url="../fighting/" %}
+[fighting](../fighting/)
+{% endcontent-ref %}
 
-## Burn Value
+## Giá trị đốt vũ khí
 
-The rarity of the burnt weapon determines which burn pool the value goes to, and for the case of LB determines the amount of burn points to add.
+Độ hiếm của vũ khí bị cháy sẽ xác định giá trị của nhóm đốt nào và đối với trường hợp LB xác định số điểm đốt để thêm vào.
 
-LB, 4B, and 5B have a maximum limit independent of one another, and each point increase in each respective pool contributes to the weapon's total Bonus Power.
+LB, 4B và 5B có giới hạn tối đa độc lập với nhau và mỗi lần tăng điểm trong mỗi nhóm tương ứng sẽ đóng góp vào tổng Sức mạnh tiền thưởng của vũ khí.
 
-Refer to the following table for maximum amount of burn points and the bonus power per point received.
+Tham khảo bảng sau để biết số điểm ghi tối đa và sức mạnh thưởng cho mỗi điểm nhận được.
 
-| Burnt Weapon Rarity | Pool | Maximum Pool Value | Bonus Power Per Point | Maximum Bonus Power |
-| :--- | :--- | :--- | :--- | :--- |
-| 1-star, 2-star, 3-star | LB | 100 | 15 | 1500 |
-| 4-star | 4B | 25 | 30 | 750 |
-| 5-star | 5B | 10 | 60 | 600 |
+| Số sao của vũ khí đốt  | Pool | Chỉ số cộng thêm tối đa | Sức mạnh cộng thêm mỗi điểm chỉ số | Maximum Bonus Power |
+| ---------------------- | ---- | ----------------------- | ---------------------------------- | ------------------- |
+| 1-star, 2-star, 3-star | LB   | 100                     | 15                                 | 1500                |
+| 4-star                 | 4B   | 25                      | 30                                 | 750                 |
+| 5-star                 | 5B   | 10                      | 60                                 | 600                 |
 
-This means that a fully reforged weapon can have a maximum of 2850 bonus power.
+Điều này có nghĩa là một vũ khí được tân trang lại hoàn toàn có thể có tối đa 2850 điểm sức mạnh cộng thêm.
 
-## Burn Conditions
+## Điều kiện đốt
 
-Depending on the rarity of the weapon and the current value of the pool, the amount increased per burn may change.
+Tùy thuộc vào độ hiếm của vũ khí và giá trị hiện tại của hồ bơi, số lượng tăng lên mỗi lần đốt có thể thay đổi.
 
-Refer to the following to determine how much the pool will increase when the respective weapon rarity is burnt.
+Hãy tham khảo phần sau để xác định số tiền chung sẽ tăng lên khi độ hiếm của vũ khí tương ứng bị cháy.
 
-* 1-star weapon burns increases LB by one
-* 2-star weapon burns increases LB by two.
-* 3-star weapon burns increases LB by three.
-* 4-star weapon burns always increases 4B by one.
-* 5-star weapon burns always increases 5B by one.
+* Đốt vũ khí 1 sao tăng LB lên một&#x20;
+* Đốt vũ khí 2 sao tăng LB lên hai.&#x20;
+* Đốt vũ khí 3 sao tăng LB lên ba.&#x20;
+* Đốt vũ khí 4 sao luôn tăng thêm một 4B.&#x20;
+* Đốt vũ khí 5 sao luôn tăng thêm một 5B.
 
-## Carryover Value
+## Giá Trị Mang Theo
 
-When using an already reforged weapon as a burn weapon, half of the burn weapon's LB, 4B, and 5B gets carried over to the new weapon.
+Khi sử dụng vũ khí đã được tân trang lại làm vũ khí đốt, một nửa LB, 4B và 5B của vũ khí đốt sẽ được chuyển sang vũ khí mới.
 
-In the case of decimals due to dividing an odd numbered LB, 4B, and 5B, the number is rounded down to zero.
+Trong trường hợp số thập phân do chia LB, 4B và 5B được đánh số lẻ, số đó được làm tròn xuống 0.
 
 {% hint style="info" %}
-A weapon with 50 LB will transfer 25 LB when used as a burn weapon.
+Một vũ khí có 50 LB sẽ chuyển 25 LB khi được sử dụng làm vũ khí đốt.
 
-A weapon with 55 LB will transfer 27 LB when used as a burn weapon.
+Vũ khí có 55 LB sẽ chuyển 27 LB khi được sử dụng làm vũ khí đốt.
 {% endhint %}
-

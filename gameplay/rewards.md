@@ -1,8 +1,7 @@
-# Rewards
+# Phần Thưởng
 
-The player receives two types of rewards when they successfully defeat an opponent, xBlade and character experience. The xBlade reward is dependent on the power of the enemy defeated. At the time of the writing of this wiki, the formula is 0.111627 \(awarded as a gas offset\) + .014651 per 1000 power of the enemy defeated. Experience earned is assigned to the character that won the battle.
+Ngay sau khi người chơi tiêu diệt kẻ thù của mình thành công, họ sẽ được thưởng xBlade và kinh nghiệm nhân vật. Phần thưởng xBlade phụ thuộc vào sức mạnh của kẻ thù bị đánh bại. Tại thời điểm wiki này được viết, công thức là 0,111627 (được thưởng như một phần bù khí) + 0,14651 trên 1000 sức mạnh của kẻ thù bị đánh bại. Kinh nghiệm kiếm được sẽ được gán cho nhân vật thắng trận.
 
- The xBlade and experience earned are stored until the player initiates a transaction to move the xBlade to their wallet and to apply the experience to their characters. This feature has been added to reduce the amount of gas the player requires to play the game. 
+&#x20;XBlade và kinh nghiệm kiếm được được lưu trữ cho đến khi người chơi bắt đầu giao dịch để chuyển xBlade vào ví của họ và áp dụng kinh nghiệm cho nhân vật của họ. Tính năng này đã được thêm vào để giảm lượng xăng mà người chơi yêu cầu để chơi trò chơi.
 
-Note: when forging, the game will draw the xBlade from the player’s storage xBlade before drawing xBlade from their wallet.
-
+![](../.gitbook/assets/24.jpg)

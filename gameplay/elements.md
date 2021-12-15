@@ -1,22 +1,15 @@
-# Elements
+# Các Nguyên Tố
 
-There are four different elements present in the game: 
+Có tất cả 4 nguyên tố trong game:&#x20;
 
-• Fire
+• Lửa
 
- • Earth 
+&#x20;• Đất
 
-• Lightning 
+• Sấm Sét
 
-• Water
+• Nước
 
-All characters, weapons, weapon attributes, and enemies are assigned an element. Elements increase or decrease the chances of success when battling. Each element trumps and is trumped by another element, as follows: 
+Tất cả các nhân vật, vũ khí, thuộc tính vũ khí và kẻ thù đều được gán một phần tử. Các yếu tố làm tăng hoặc giảm cơ hội thành công khi chiến đấu. Mỗi phần tử vượt trội và bị lấn át bởi một phần tử khác, như sau:&#x20;
 
-• Fire o Trumps Earth o Trumped by Water
-
- • Earth o Trumps Lightning o Trumped by Fire
-
- • Lightning o Trumps Water o Trumped by Earth
-
- • Water o Trumps Fire o Trumped by Lightning
-
+• ![](<../.gitbook/assets/image (3).png>)

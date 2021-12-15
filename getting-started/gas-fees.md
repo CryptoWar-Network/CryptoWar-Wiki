@@ -1,34 +1,33 @@
-# Gas Fees
+# Phí Gas
 
-CryptoWar operates purely on-chain, and due to this there is a necessity for gas fees to be constantly paid by the players using BNB.
+CryptoWar hoạt động hoàn toàn trên chuỗi và do đó, người chơi sử dụng BNB phải trả phí gas liên tục.
 
-Gas fees are necessary to conduct operations on the Binance Smart Chain, and operating on-chain through the use of [Chainlink's VRF](https://docs.chain.link/docs/chainlink-vrf/) technology ensures that all entropy-based gameplay scenarios such as minting NFTs or combat will always be provably fair.
+Phí gas là cần thiết để tiến hành các hoạt động trên Chuỗi thông minh Binance và hoạt động trên chuỗi thông qua việc sử dụng công nghệ VRF của Chainlink đảm bảo rằng tất cả các kịch bản trò chơi dựa trên entropy như đúc NFT hoặc chiến đấu sẽ luôn công bằng..
 
-Players are always required to hold an amount of BNB in your MetaMask wallet to ensure the capability of conducting transactions and interacting with the CryptoWar smart contracts.
+Người chơi luôn được yêu cầu giữ một lượng BNB trong ví MetaMask của bạn để đảm bảo khả năng thực hiện các giao dịch và tương tác với các hợp đồng thông minh CryptoWar.
 
-The gas fees usually cost around 0.0007 to 0.0010 BNB depending on the transaction, however certain transactions such as claiming experience can be higher depending on the numerical data involved.
+Phí gas thường có giá khoảng 0,0007 đến 0,0010 BNB tùy thuộc vào giao dịch, tuy nhiên một số giao dịch nhất định như yêu cầu trải nghiệm có thể cao hơn tùy thuộc vào dữ liệu số liên quan.
 
-Combat gas fees are listed at 0.0025, however that is just a maximum amount that the player may pay. The true gas costs of fights are around 0.0007 BNB which can be seen in your MetaMask transactions.
+Phí gas chiến đấu được liệt kê ở mức 0,0025, tuy nhiên đó chỉ là số tiền tối đa mà người chơi có thể trả. Chi phí gas thực sự của các cuộc chiến là khoảng 0,0007 BNB, có thể thấy trong các giao dịch MetaMask của bạn.
 
-## Fight Gas Cost
+## Phí Gas Khi Chiến Đấu
 
-Fighting prompts players for a set gas cost that is different from what is actually charged as displayed in the pictures below.
+Chiến đấu nhắc nhở người chơi về chi phí gas đã đặt khác với mức thực tế được tính như được hiển thị trong các hình ảnh bên dưới.
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/sample-fight-gas-fee.png)
 
-The actual gas cost for the transaction is a much lesser 0.0007 BNB on average as displayed in the next picture.
+Chi phí gas thực tế cho giao dịch trung bình thấp hơn nhiều 0,0007 BNB như được hiển thị trong hình tiếp theo.
 
 ![](https://github.com/ElasticBTC-XBT/CryptoWar-Wiki/tree/534c0aa13bb170622866cfb21d20deb8b8953046/.gitbook/assets/actual-fight-gas-fee.png)
 
-Gas costs for transactions are subject to volatility depending on network traffic on the Binance Smart Chain.
+Chi phí gas cho các giao dịch có thể biến động tùy thuộc vào lưu lượng mạng trên Chuỗi thông minh Binance.
 
-## Recommended BNB
+## Đề xuất sử dụng BNB
 
-Due to the implementation of Early Withdraw Tax, it is recommended that new players hold a decent amount of BNB to be used for gas fees.
+Do việc thực hiện Thuế rút tiền sớm, người chơi mới nên giữ một lượng BNB kha khá để sử dụng cho phí gas.
 
-The current recommended amount of BNB is 0.16, give or take a few skill depending on the needs of the player.
+Lượng BNB khuyến nghị hiện tại là 0,16, cho hoặc lấy một vài kỹ năng tùy thuộc vào nhu cầu của người chơi.
 
-This amount will sustain a player for a week's worth of fights, currently costing around 0.142 BNB give or take a few BNB to account for network traffic.
+Số tiền này sẽ duy trì một người chơi trong các trận chiến trị giá một tuần, hiện có giá khoảng 0,142 BNB, hoặc lấy một ít BNB để tính cho lưu lượng mạng.
 
-The remaining BNB will be used for the various transactions a player might perform, such as claiming/staking xBlade, claiming experience, forging, etc.
-
+Số BNB còn lại sẽ được sử dụng cho các giao dịch khác nhau mà người chơi có thể thực hiện, chẳng hạn như yêu cầu / đặt cược xBlade, yêu cầu kinh nghiệm, rèn, v.v.

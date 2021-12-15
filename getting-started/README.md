@@ -1,12 +1,17 @@
 # Getting Started
 
-The requirements to start playing CryptoWar are a Binance Smart Chain compatible wallet such as MetaMask, and BNB to be used for purchasing xBlade and to pay for gas fees.
+Các yêu cầu để bắt đầu chơi CryptoWar là ví tương thích với Binance Smart Chain như MetaMask và BNB để được sử dụng để mua xBlade và thanh toán phí gas.
 
-MetaMask can be installed as a browser extension, or as an application on your mobile devices.
+MetaMask có thể được cài đặt làm tiện ích mở rộng trình duyệt hoặc ứng dụng trên thiết bị di động của bạn.
 
-The instructions to install MetaMask can be found here:
+Bạn có thể xem hướng dẫn cài đặt MetaMask tại đây:
 
-{% page-ref page="metamask-wallet-setup.md" %}
+{% content-ref url="metamask-wallet-setup.md" %}
+[metamask-wallet-setup.md](metamask-wallet-setup.md)
+{% endcontent-ref %}
 
-Once your MetaMask wallet has been setup, instructions to purchase xBlade on a DEX can be found here:
+Khi ví MetaMask của bạn đã được thiết lập, bạn có thể tìm thấy hướng dẫn mua xBlade trên DEX tại đây:
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
