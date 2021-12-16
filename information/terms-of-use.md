@@ -246,63 +246,57 @@ MỘT SỐ ĐIỀU KHOẢN LUẬT PHÁP KHÔNG CHO PHÉP LOẠI TRỪ HOẶC GI�
 
 ‌
 
-### 14. ASSUMPTION OF RISK
+### 14. ĐÁNH GIÁ RỦI RO
 
 ‌
 
-You accept and acknowledge each of the following:
+Bạn chấp nhận và thừa nhận từng điều sau đây:
 
 ‌
 
-A. The prices of blockchain assets are extremely volatile. Fluctuations in the price of other digital assets could materially and adversely affect the value of your NFTs, which may also be subject to significant price volatility. We cannot guarantee that any purchasers of NFTs will not lose money.
+A. Giá của tài sản blockchain cực kỳ biến động. Sự biến động về giá của các tài sản kỹ thuật số khác có thể ảnh hưởng nghiêm trọng và bất lợi đến giá trị của NFTs của bạn, cũng có thể chịu sự biến động giá đáng kể. Chúng tôi không thể đảm bảo rằng bất kỳ người mua NFT nào sẽ không bị mất money.
 
 ‌
 
-B. You are solely responsible for determining what, if any, taxes apply to your Cryptowar-related transactions. CryptoWar Team is not responsible for determining the taxes that apply to your transactions on the App, the Site, or the Smart Contracts.
+B. Bạn hoàn toàn chịu trách nhiệm xác định những gì, nếu có, thuế áp dụng cho các giao dịch liên quan đến Cryptowar của bạn. Nhóm CryptoWar không chịu trách nhiệm xác định các loại thuế áp dụng cho các giao dịch của bạn trên Ứng dụng, Trang web hoặc Hợp đồng thông minh.
 
 ‌
 
-C. The App does not store, send, or receive NFTs. This is because NFTs exist only by virtue of the ownership record maintained on the App’s supporting blockchain on the BINANCE SMART CHAIN. Any transfer of NFTs occurs only on the BINANCE SMART CHAIN.
+C. Ứng dụng không lưu trữ, gửi hoặc nhận NFT. Điều này là do NFT chỉ tồn tại nhờ hồ sơ quyền sở hữu được duy trì trên chuỗi khối hỗ trợ của Ứng dụng trên CHUỖI THÔNG MINH BINANCE. Mọi hoạt động chuyển NFT chỉ xảy ra trên CHUỖI THÔNG MINH BINANCE.
 
 ‌
 
-D. There are risks associated with using an Internet-based currency, including, but not limited to, the risk of hardware, software and Internet connections, the risk of malicious software introduction, and the risk that third parties may obtain unauthorized access to information stored within your wallet. You accept and acknowledge that CryptoWar Team will not be responsible for any communication failures, disruptions, errors, distortions or delays you may experience when using the BINANCE SMART CHAIN, however caused.
+D. Có những rủi ro liên quan đến việc sử dụng tiền tệ dựa trên Internet, bao gồm, nhưng không giới hạn ở, rủi ro về phần cứng, phần mềm và kết nối Internet, rủi ro về việc giới thiệu phần mềm độc hại và rủi ro rằng các bên thứ ba có thể truy cập trái phép vào thông tin được lưu trữ trong ví của bạn. Bạn chấp nhận và thừa nhận rằng Đội ngũ CryptoWar sẽ không chịu trách nhiệm về bất kỳ lỗi giao tiếp, gián đoạn, lỗi, biến dạng hoặc chậm trễ mà bạn có thể gặp phải khi sử dụng CHUỖI THÔNG MINH BINANCE, tuy nhiên do nguyên nhân nào.
+
+E. Việc thiếu sử dụng hoặc không quan tâm đến việc tạo và phát triển hệ sinh thái phân tán có thể tác động tiêu cực đến sự phát triển của hệ sinh thái Cryptowar và do đó, tiện ích hoặc giá trị tiềm năng của NFT.
 
 ‌
 
-E. A lack of use or public interest in the creation and development of distributed ecosystems could negatively impact the development of the Cryptowar ecosystem, and therefore the potential utility or value of NFTs.
+F. Chế độ pháp lý quản lý công nghệ blockchain, tiền điện tử và mã thông báo là không chắc chắn và các quy định hoặc chính sách mới có thể ảnh hưởng xấu đến sự phát triển của hệ sinh thái Cryptowar và do đó, tiện ích hoặc giá trị tiềm năng của NFT. ‌
+
+G. Các nâng cấp của Nhóm CryptoWar đối với trò chơi có thể gây ra các tác động tiêu cực ngoài ý muốn đối với tất cả các tài sản của Nhóm CryptoWar.
 
 ‌
 
-F. The regulatory regime governing blockchain technologies, cryptocurrencies, and tokens is uncertain, and new regulations or policies may materially adversely affect the development of the Cryptowar ecosystem, and therefore the potential utility or value of NFTs.
+### 15. SỰ BỒI THƯỜNG
 
 ‌
 
-G. Upgrades by CryptoWar Team to the game may have unintended, adverse effects on all CryptoWar Team assets.
+Bạn đồng ý bảo vệ, bồi thường và giữ chúng tôi vô hại, bao gồm các công ty con, chi nhánh của chúng tôi và tất cả các cán bộ, đại lý, đối tác và nhân viên tương ứng của chúng tôi, khỏi và chống lại bất kỳ tổn thất, thiệt hại, trách nhiệm pháp lý, khiếu nại hoặc yêu cầu nào, bao gồm cả luật sư hợp lý 'phí và chi phí, do bên thứ ba thực hiện do hoặc phát sinh từ: (1) việc sử dụng Trang web, (2) vi phạm các Điều khoản Sử dụng này, (3) bất kỳ vi phạm nào đối với các tuyên bố và bảo đảm của bạn được quy định trong các Điều khoản này của Sử dụng, (4) bạn vi phạm quyền của bên thứ ba, bao gồm nhưng không giới hạn ở quyền sở hữu trí tuệ, hoặc (5) bất kỳ hành động có hại công khai nào đối với bất kỳ hoạt động sử dụng Trang web, Ứng dụng và Hợp đồng thông minh nào mà bạn đã kết nối thông qua Trang web, Ứng dụng và Hợp đồng thông minh. Bất chấp những điều đã nói ở trên, chúng tôi bảo lưu quyền, với chi phí của bạn, đảm nhận sự bảo vệ và kiểm soát độc quyền đối với bất kỳ vấn đề nào mà bạn được yêu cầu bồi thường cho chúng tôi và bạn đồng ý hợp tác, với chi phí của bạn, để chúng tôi bảo vệ các khiếu nại đó. Chúng tôi sẽ sử dụng những nỗ lực hợp lý để thông báo cho bạn về bất kỳ khiếu nại, hành động hoặc thủ tục nào có liên quan đến khoản bồi thường này khi nhận thức được điều đó.
 
 ‌
 
-### 15. INDEMNIFICATION
+### 16. DỮ LIỆU NGƯỜI DÙNG
 
 ‌
 
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys' fees and expenses, made by third party due to or arising out of: (1) use of the Site, (2) breach of these Terms of Use, (3) any breach of your representations and warranties set forth in these Terms of Use, (4) your violation of the rights of a third party, including but not limited to intellectual property rights, or (5) any overt harmful act toward any other use of the Site, the App and the Smart Contracts with whom you connected via the Site, the App and the Smart Contracts. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action or proceeding which is subject to this indemnification upon becoming aware of it.
+Chúng tôi sẽ duy trì một số dữ liệu nhất định mà bạn truyền đến Trang web, Ứng dụng và Hợp đồng thông minh nhằm mục đích quản lý hiệu suất của Trang web, Ứng dụng và Hợp đồng thông minh, cũng như dữ liệu liên quan đến việc bạn sử dụng Trang web, Ứng dụng và Hợp đồng thông minh. Mặc dù chúng tôi thực hiện sao lưu dữ liệu theo định kỳ thường xuyên, nhưng bạn hoàn toàn chịu trách nhiệm về tất cả dữ liệu mà bạn truyền hoặc việc phát hành đó cho bất kỳ hoạt động nào bạn đã thực hiện bằng cách sử dụng Trang web, Ứng dụng và Hợp đồng thông minh. Bạn đồng ý rằng chúng tôi sẽ không có trách nhiệm pháp lý đối với bạn đối với bất kỳ mất mát hoặc hỏng hóc nào đối với bất kỳ dữ liệu nào như vậy và theo đây bạn từ bỏ mọi quyền hành động chống lại chúng tôi phát sinh từ bất kỳ sự mất mát hoặc hỏng hóc nào đối với dữ liệu đó. ‌
+
+### 17. ĐIỀU KHOẢN KHÁC
 
 ‌
 
-### 16. USER DATA
-
-‌
-
-We will maintain certain data that you transmit to the Site, the App and the Smart Contracts for the purpose of managing the performance of the Site, the App and the Smart Contracts, as well as data relating to your use of the Site, the App and the Smart Contracts. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that release to any activity you have undertaken using the Site, the App and the Smart Contracts. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
-
-‌
-
-### 17. MISCELLANEOUS
-
-‌
-
-These Terms of Use and any policies or operating rules posted by us on the Site, the App and the Smart Contracts, or in respect to the Site, the App and the Smart Contracts constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, and unenforceable, that provision or part of the provision is deemed severable these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
+Các Điều khoản Sử dụng này và bất kỳ chính sách hoặc quy tắc hoạt động nào được chúng tôi đăng trên Trang web, Ứng dụng và Hợp đồng thông minh, hoặc đối với Trang web, Ứng dụng và Hợp đồng thông minh tạo thành toàn bộ thỏa thuận và hiểu biết giữa bạn và chúng tôi. Việc chúng tôi không thực hiện hoặc thực thi bất kỳ quyền hoặc điều khoản nào trong các Điều khoản Sử dụng này sẽ không hoạt động như một sự từ bỏ quyền hoặc điều khoản đó. Các Điều khoản Sử dụng này hoạt động trong phạm vi tối đa được pháp luật cho phép. Chúng tôi có thể chuyển nhượng bất kỳ hoặc tất cả các quyền và nghĩa vụ của chúng tôi cho người khác vào bất kỳ lúc nào. Chúng tôi sẽ không chịu trách nhiệm hoặc nghĩa vụ đối với bất kỳ mất mát, hư hỏng, chậm trễ, hoặc không thực hiện được gây ra bởi bất kỳ nguyên nhân nào nằm ngoài khả năng kiểm soát hợp lý của chúng tôi. Nếu bất kỳ điều khoản nào hoặc một phần của điều khoản trong Điều khoản Sử dụng này được xác định là bất hợp pháp, vô hiệu và không thể thực thi, thì điều khoản đó hoặc một phần của điều khoản đó được coi là có thể cắt đứt các Điều khoản Sử dụng này và không ảnh hưởng đến hiệu lực và khả năng thực thi của bất kỳ điều khoản nào còn lại . Không có mối quan hệ liên doanh, đối tác, việc làm hoặc đại lý nào được tạo ra giữa bạn và chúng tôi do các Điều khoản sử dụng này hoặc việc sử dụng Trang web. Bạn đồng ý rằng các Điều khoản Sử dụng này sẽ không được hiểu là chống lại chúng tôi do đã soạn thảo chúng. Theo đây, bạn từ bỏ bất kỳ và tất cả các biện pháp bảo vệ mà bạn có thể có dựa trên hình thức điện tử của Điều khoản Sử dụng này và việc các bên không có chữ ký để thực hiện Điều khoản Sử dụng này.
 
 ‌
 

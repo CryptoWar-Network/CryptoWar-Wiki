@@ -59,7 +59,7 @@
 * [DISCLAIMER AND  RIGHTS](information/disclaimer-and-rights.md)
 * [Help & FAQ](information/faq.md)
 * [Điều Khoản Sử Dụng](information/terms-of-use.md)
-* [Privacy Policy](information/privacy-policy.md)
+* [Chính sách bảo mật](information/privacy-policy.md)
 
 ## Links
 
