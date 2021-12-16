@@ -166,87 +166,83 @@ Nếu chúng tôi chấm dứt hoặc tạm ngưng tài khoản của bạn vì 
 
 ‌
 
-### 10. GOVERNING LAW
+### 10. LUẬT CHI PHỐI
 
 ‌
 
-This Terms of Use and your use of the Site, the App, and the Smart Contracts are governed by and constructed in accordance with the laws of Cayman IslandsRepublic of Estonia applicable to agreements made and to be entirely performed in the Cayman Island, without regard to its conflicts of law principles.
+Điều khoản sử dụng này và việc bạn sử dụng Trang web, Ứng dụng và Hợp đồng thông minh được điều chỉnh và xây dựng theo luật của Quần đảo Cayman Cộng hòa Estonia áp dụng cho các thỏa thuận được thực hiện và hoàn toàn được thực hiện tại Đảo Cayman, bất kể các xung đột về nguyên tắc luật của nó.
 
 ‌
 
-### 11. DISPUTE RESOLUTION
+### 11. GIẢI QUYẾT TRANH CHẤP
 
 ‌
 
-11.1 Informal negotiations
+11.1 Đàm phán không chính thức
 
 ‌
 
-To expedite resolution and control the cost of any dispute, controversy, or claim related to these Terms of Use (each a “Dispute" and collectively, the “Disputes") brought by either you or us (individually, a “Party" and collectively, the “Parties"), the Parties agree to first attempt to negotiate any Dispute (except those Disputes expressly provided below) informally for at least thirty (30) days before initiating arbitration. Such informal negotiations commence upon written notice from one Party to the other Party.
+Để xúc tiến giải quyết và kiểm soát chi phí của bất kỳ tranh chấp, tranh cãi hoặc khiếu nại nào liên quan đến các Điều khoản sử dụng này (mỗi “Tranh chấp” và gọi chung là “Tranh chấp”) do bạn hoặc chúng tôi (cá nhân, một “Bên” và tập thể , “Các Bên”), các Bên đồng ý trước tiên cố gắng thương lượng bất kỳ Tranh chấp nào (ngoại trừ các Tranh chấp được cung cấp rõ ràng bên dưới) một cách không chính thức trong ít nhất ba mươi (30) ngày trước khi bắt đầu phân xử. Các cuộc đàm phán không chính thức như vậy bắt đầu khi có thông báo bằng văn bản từ một Bên cho Bên kia.
 
 ‌
 
-11.2 Binding Arbitration
+11.2 Ràng buộc Trọng tài
 
 ‌
 
-If a Party is unable to resolve a Dispute through informal negotiations, the Disputes (except those Disputes expressly excluded below) will be finally and exclusively resolved by binding arbitration. YOU UNDERSTAND THAT WITHOUT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The arbitration shall be commenced and conducted under the Commercial Arbitration Rules of the American Arbitration Association (“AAA") and, where appropriate, the AAA's Supplementary Procedures for Consumer-Related Disputes (“AAA Consumer Rules"), both of which are available at the AAA website www.adr.org. Your arbitration fees and your share of arbitration compensation shall be governed by the AAA Consumer Rules and, where appropriate, limited by the AAA Consumer Rules. If such costs are determined by the arbitrator to be excessive, we will pay all the arbitration fees and expenses. Except where otherwise required by the applicable AA rules or applicable law, the arbitration can take place in the Cayman Islands. Except as otherwise provided herein, the Parties may litigate in court to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgement on the award entered by the arbitrator.
+Nếu một Bên không thể giải quyết Tranh chấp thông qua đàm phán không chính thức, các Tranh chấp (ngoại trừ các Tranh chấp đó được loại trừ rõ ràng bên dưới) sẽ được giải quyết cuối cùng và duy nhất bằng trọng tài ràng buộc. BẠN HIỂU RẰNG KHÔNG CÓ ĐIỀU KHOẢN NÀY, BẠN SẼ CÓ QUYỀN THAM GIA TÒA ÁN VÀ CÓ MỘT LẦN DÙNG THỬ. Việc phân xử sẽ được bắt đầu và tiến hành theo Quy tắc Trọng tài Thương mại của Hiệp hội Trọng tài Hoa Kỳ (“AAA”) và, nếu thích hợp, Thủ tục Bổ sung của AAA cho các Tranh chấp Liên quan đến Người tiêu dùng (“Quy tắc Tiêu dùng AAA”), cả hai đều có sẵn tại trang web AAA www.adr.org. Phí trọng tài của bạn và phần bồi thường trọng tài của bạn sẽ được điều chỉnh bởi Quy tắc người tiêu dùng AAA và, nếu thích hợp, bị giới hạn bởi Quy tắc người tiêu dùng AAA. Nếu các chi phí đó được trọng tài xác định là vượt quá, chúng tôi sẽ thanh toán tất cả các khoản phí và chi phí trọng tài. Trừ khi có yêu cầu khác bởi các quy tắc AA hiện hành hoặc luật hiện hành, trọng tài có thể diễn ra ở Quần đảo Cayman. Trừ khi được quy định khác ở đây, các Bên có thể kiện ra tòa án để bắt buộc phân xử, giữ nguyên thủ tục chờ phân xử hoặc xác nhận, sửa đổi, bỏ trống hoặc đưa ra phán quyết về phán quyết do trọng tài đưa ra. ‌
+
+Nếu vì bất kỳ lý do gì, Tranh chấp được xử lý tại tòa án thay vì trọng tài, Tranh chấp sẽ được khởi tố hoặc truy tố tại các tòa án liên bang và tiểu bang đặt tại Quần đảo Cayman và các Bên theo đây đồng ý và từ bỏ mọi biện hộ về việc thiếu thẩm quyền cá nhân, và diễn đàn không tiện lợi liên quan đến địa điểm và quyền tài phán tại các tòa án liên bang và tiểu bang như vậy.
 
 ‌
 
-If for any reason, a Dispute proceeds in court rather than arbitration, the Dispute shall be commenced or prosecuted in the state and federal courts located in the Cayman Islands, and the Parties hereby consent to and waive all defenses of lack of personal jurisdiction, and forum non-conveniens with respect to venue and jurisdiction in such state and federal courts.
+Trong bất kỳ trường hợp nào, bất kỳ Tranh chấp nào do một Bên đưa ra liên quan đến Trang web, Ứng dụng và Hợp đồng thông minh sẽ không được bắt đầu sau hơn một (1) năm kể từ khi phát sinh nguyên nhân của hành động. Nếu quy định này bị phát hiện là bất hợp pháp hoặc không thể thi hành, thì không Bên nào sẽ chọn phân xử bất kỳ Tranh chấp nào nằm trong phần đó của điều khoản này được coi là bất hợp pháp hoặc không thể thi hành và Tranh chấp đó sẽ được quyết định bởi một tòa án có thẩm quyền trong các tòa án được liệt kê hoặc quyền tài phán trên và các Bên đồng ý tuân theo quyền tài phán cá nhân của tòa án đó.
 
 ‌
 
-In no event shall any Dispute brought by either Party related in any way to the Site, the App and the Smart Contracts be commenced more than one (1) year after the cause of the action arose. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed or jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+11.3 Các trường hợp ngoại lệ đối với Đàm phán không chính thức và Trọng tài
 
 ‌
 
-11.3 Exceptions to the Informal Negotiations and Arbitration
+Các Bên đồng ý rằng các Tranh chấp sau đây không phải tuân theo quy định trên liên quan đến đàm phán không chính thức và phân xử ràng buộc: (a) bất kỳ Tranh chấp nào tìm cách thực thi hoặc bảo vệ, hoặc liên quan đến tính hợp lệ và quyền sở hữu trí tuệ của một Bên, (b ) bất kỳ Tranh chấp nào liên quan đến, hoặc phát sinh từ các cáo buộc trộm cắp, vi phạm bản quyền, xâm phạm quyền riêng tư hoặc sử dụng trái phép; và (c) bất kỳ yêu cầu bồi thường theo lệnh nào. Nếu điều khoản này bị phát hiện là bất hợp pháp và không thể thi hành, thì không Bên nào sẽ chọn phân xử bất kỳ Tranh chấp nào nằm trong phần đó của điều khoản này được coi là bất hợp pháp hoặc không thể thi hành và Tranh chấp đó sẽ được quyết định bởi một tòa án có thẩm quyền trong các tòa án được liệt kê hoặc quyền tài phán trên và các Bên đồng ý tuân theo quyền tài phán cá nhân của tòa án đó.
 
 ‌
 
-The Parties agree that the following Disputes are not subject to the above provision concerning informal negotiations and binding arbitration: (a) any Dispute seeking to enforce or protect, or concerning the validity of, and of the intellectual property rights of a Party, (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal and unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed or jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+### 12. TUYÊN BỐ TỪ CHỐI
 
 ‌
 
-### 12. DISCLAIMERS
+BẠN HIỂU RÕ RÀNG VÀ ĐỒNG Ý RẰNG VIỆC BẠN TRUY CẬP VÀ SỬ DỤNG TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH LÀ RỦI RO DUY NHẤT CỦA BẠN VÀ RẰNG TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG" VÀ "HIỆN CÓ" MÀ KHÔNG CÓ BẢO HÀNH BẤT KỲ HÌNH THỨC NÀO, DÙ THỂ HIỆN HAY NGỤ Ý. ĐỐI VỚI PHẠM VI ĐẦY ĐỦ CHO PHÉP CÓ THỂ CHỊU TRÁCH NHIỆM ĐỐI VỚI LUẬT ÁP DỤNG, CHÚNG TÔI, CÁC CÔNG TY CỔ PHẦN, CÁC CÔNG TY LIÊN QUAN VÀ CÁC NHÀ CẤP PHÉP CỦA CHÚNG TÔI KHÔNG THỰC HIỆN BẢO ĐẢM RÕ RÀNG VÀ BẤT CỨ TỪ CHỐI TRÁCH NHIỆM ĐỐI VỚI TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH (KHÔNG BAO GỒM MỘT PHẦN NÀO) TRANG WEB, BẤT KỲ HỢP ĐỒNG THÔNG MINH HOẶC BẤT KỲ TRANG WEB BÊN NGOÀI nào), BAO GỒM CÁC BẢO ĐẢM NGẪU NHIÊN VỀ TÍNH KHẢ NĂNG, PHÙ HỢP VỚI MỤC ĐÍCH CỤ THỂ, KHÔNG VI PHẠM, CHÍNH XÁC, CHÍNH XÁC, HOẶC TIN CẬY. KHÔNG GIỚI HẠN TÍNH THỂ LOẠI CỦA SỰ BẮT ĐẦU, CHÚNG TÔI, CÁC CÔNG TY CỔ PHẦN, CÁC CÔNG TY LIÊN QUAN VÀ CÁC NHÀ CẤP PHÉP CỦA CHÚNG TÔI KHÔNG ĐẠI DIỆN HOẶC ĐẢM BẢO VỚI BẠN RẰNG: (I) VIỆC BẠN TRUY CẬP HOẶC SỬ DỤNG TRANG WEB, ỨNG DỤNG VÀ HỢP ĐỒNG THÔNG MINH SẼ ĐÁP ỨNG YÊU CẦU CỦA BẠN, ( II) VIỆC BẠN TRUY CẬP HOẶC SỬ DỤNG TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH SẼ KHÔNG BỊ GIÁN ĐOẠN, KỊP THỜI, AN TOÀN HOẶC KHÔNG CÓ LỖI, (III) DỮ LIỆU SỬ DỤNG ĐƯỢC CUNG CẤP QUA TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH SẼ CHÍNH XÁC, ( III) TRANG WEB, ỨNG DỤNG VÀ HỢP ĐỒNG THÔNG MINH HOẶC BẤT KỲ NỘI DUNG, DỊCH VỤ HOẶC TÍNH NĂNG NÀO ĐƯỢC THỰC HIỆN TRÊN HOẶC THÔNG QUA TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH KHÔNG CÓ VIRUS HOẶC CÁC THÀNH PHẦN CÓ HẠI KHÁC, HOẶC (IV) BẤT KỲ DỮ LIỆU NÀO BẠN TIẾT LỘ KHI BẠN SỬ DỤNG TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH SẼ ĐƯỢC BẢO MẬT. MỘT SỐ QUYẾT ĐỊNH KHÔNG CHO PHÉP LOẠI TRỪ CÁC BẢO ĐẢM NGỤ Ý TRONG HỢP ĐỒNG VỚI NGƯỜI TIÊU DÙNG, VÌ VẬY MỘT SỐ HOẶC TẤT CẢ CÁC LOẠI TRỪ TRÊN CÓ THỂ KHÔNG ÁP DỤNG CHO BẠN.
 
 ‌
 
-YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR ACCESS TO AND USE OF THE SITE, THE APP AND THE SMART CONTRACTS ARE AT YOUR SOLE RISK, AND THAT THE SITE, THE APP AND THE SMART CONTRACTS ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED. TO THE FULLEST EXTENT PERMISSIBLE PURSUANT TO APPLICABLE LAW, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS MAKE NO EXPRESS WARRANTIES AND HEREBY DISCLAIM ALL IMPLIED WARRANTIES REGARDING THE SITE, THE APP AND THE SMART CONTRACTS AND ANY PART OF IT (INCLUDING, WITHOUT LIMITATION, THE SITE, ANY SMART CONTRACT, OR ANY EXTERNAL WEBSITES), INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, CORRECTNESS, ACCURACY, OR RELIABILITY. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT: (I) YOUR ACCESS TO OR USE OF THE SITE, THE APP AND THE SMART CONTRACTS WILL MEET YOUR REQUIREMENTS, (II) YOUR ACCESS TO OR USE OF THE SITE, THE APP AND THE SMART CONTRACTS WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR, (III) USAGE DATA PROVIDED THROUGH THE SITE, THE APP AND THE SMART CONTRACTS WILL BE ACCURATE, (III) THE SITE, THE APP AND THE SMART CONTRACTS OR ANY CONTENT, SERVICES, OR FEATURES MADE AVAILABLE ON OR THROUGH THE SITE, THE APP AND THE SMART CONTRACTS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, OR (IV) THAT ANY DATA THAT YOU DISCLOSE WHEN YOU USE THE SITE, THE APP AND THE SMART CONTRACTS WILL BE SECURE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES IN CONTRACTS WITH CONSUMERS, SO SOME OR ALL OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+BẠN CHẤP NHẬN RỦI RO VỀ BẢO MẬT HIỆN TẠI CỦA VIỆC CUNG CẤP THÔNG TIN VÀ GIAO DỊCH TRỰC TUYẾN TRÊN INTERNET VÀ ĐỒNG Ý RẰNG CHÚNG TÔI KHÔNG CÓ TRÁCH NHIỆM PHÁP LÝ HOẶC CHỊU TRÁCH NHIỆM VỀ BẤT KỲ BẤT KỲ BẤT KỲ KHOẢN NÀO VỀ BẢO MẬT NÀO BẤT CỨ LÀ DO ĐIỂM ĐÀM PHÁN CỦA CHÚNG TÔI.
 
 ‌
 
-YOU ACCEPT THE INHERENT SECURITY RISKS OF PROVIDING INFORMATION AND DEALING ONLINE OVER THE INTERNET AND AGREE THAT WE HAVE NO LIABILITY OR RESPONSIBILITY FOR ANY BREACH OF SECURITY UNLESS IT IS DUE TO OUR GROSS NEGLIGENCE.
+CHÚNG TÔI SẼ KHÔNG CHỊU TRÁCH NHIỆM HOẶC CHỊU TRÁCH NHIỆM VỚI BẠN VỀ BẤT KỲ MẤT ĐIỂM NÀO MÀ BẠN PHÁT SINH NHƯ KẾT QUẢ CỦA VIỆC BẠN SỬ DỤNG MẠNG ETHEREUM, TƯỜNG ĐIỆN TỬ METAMASK VÀ TƯỜNG ĐIỆN TỬ RONIN, BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐỐI VỚI BẤT CỨ MẤT NẠP, THIỆT HẠI HOẶC KHIẾU NẠI NÀO DO: (A) LỖI CỦA NGƯỜI DÙNG, NHƯ QUÊN MẬT KHẨU HOẶC CÁC HỢP ĐỒNG THÔNG MINH ĐÃ ĐƯỢC CHỌN ĐÚNG HOẶC CÁC GIAO DỊCH KHÁC; (B) MÁY CHỦ THẤT BẠI HOẶC MẤT DỮ LIỆU; (C) LỌC TƯỜNG BỊ LỖI; (D) TRUY CẬP HOẶC HOẠT ĐỘNG KHÔNG ĐƯỢC TỔ CHỨC CỦA BÊN THỨ BA, BAO GỒM NHƯNG KHÔNG GIỚI HẠN ĐỐI VỚI VIỆC SỬ DỤNG VIRUSES, PHISHING, BRUTE FORCING HOẶC CÁC PHƯƠNG TIỆN KHÁC CHỐNG TRỘM ỨNG DỤNG, MẠNG ETHEREUM HOẶC TƯỜNG ĐIỆN TỬ METAMASK.
 
 ‌
 
-WE WILL NOT BE RESPONSIBLE OR LIABLE TO YOU FOR ANY LOSSES YOU INCUR AS THE RESULT OF YOUR USE OF THE ETHEREUM NETWORK, , THE METAMASK ELECTRONIC WALLET, AND RONIN ELECTRONIC WALLET, INCLUDING BUT NOT LIMITED TO ANY LOSSES, DAMAGES OR CLAIMS ARISING FROM: (A) USER ERROR, SUCH AS FORGOTTEN PASSWORDS OR INCORRECTLY CONSTRUED SMART CONTRACTS OR OTHER TRANSACTIONS; (B) SERVER FAILURE OR DATA LOSS; (C) CORRUPTED WALLET FILES; (D) UNAUTHORIZED ACCESS OR ACTIVITIES BY THIRD PARTIES, INCLUDING BUT NOT LIMITED TO THE USE OF VIRUSES, PHISHING, BRUTE FORCING OR OTHER MEANS OF ATTACK AGAINST THE APP, ETHEREUM NETWORK, OR THE METAMASK ELECTRONIC WALLET.
+NFT LÀ TÀI SẢN SỐ CÓ THỂ TRUYỀN HÌNH CHỈ TỒN TẠI BẰNG VIRTUE CỦA BẢN GHI SỞ HỮU ĐƯỢC DUY TRÌ TRÊN CHUỖI THÔNG MINH TIỀN TỆ. TẤT CẢ CÁC HỢP ĐỒNG THÔNG MINH ĐỀU ĐƯỢC KẾT THÚC VÀ THÀNH CÔNG TRÊN BỘ ĐÈN LED PHÂN TÍCH TRONG CHUỖI THÔNG MINH TIỀN TỆ. Đội ngũ CryptoWar KHÔNG CÓ SỰ KIỂM SOÁT VÀ KHÔNG ĐẢM BẢO HOẶC KHUYẾN MÃI LIÊN QUAN ĐẾN CÁC HỢP ĐỒNG THÔNG MINH. Đội ngũ CryptoWar KHÔNG CHỊU TRÁCH NHIỆM VỀ VIỆC MẤT LỖI DO BLOCKCHAINS HOẶC BẤT KỲ TÍNH NĂNG NÀO KHÁC CỦA MẠNG ETHEREUM, CHUỖI THÔNG MINH BINANCE, TƯỜNG ĐIỆN TỬ METAMASK HOẶC TƯỜNG ĐIỆN TỬ RONIN. BAO GỒM NHƯNG KHÔNG GIỚI HẠN BÁO CÁO CUỐI CÙNG CỦA NHÀ PHÁT TRIỂN HOẶC NGƯỜI ĐẠI DIỆN (HOẶC KHÔNG CÓ BÁO CÁO NÀO) VỀ BẤT KỲ VẤN ĐỀ NÀO VỚI BLOCKCHAIN ​​HỖ TRỢ MẠNG ETHEREUM, CHUỖI THÔNG MINH BINANCE, BAO GỒM CÁC KHOẢN TIỀN, CÁC VẤN ĐỀ SỐ KỸ THUẬT HOẶC MẤT CÁC VẤN ĐỀ KHÁC . ‌
+
+### 13. TRÁCH NHIỆM HỮU HẠN
 
 ‌
 
-NFTs ARE INTANGIBLE DIGITAL ASSETS THAT EXIST ONLY BY VIRTUE OF THE OWNERSHIP RECORD MAINTAINED ON THE BINANCE SMART CHAIN. ALL SMART CONTRACTS ARE CONDUCTED AND OCCUR ON THE DECENTRALIZED LEDGER WITHIN THE BINANCE SMART CHAIN. CryptoWar Team HAS NO CONTROL OVER AND MAKES NO GUARANTEES OR PROMISES WITH RESPECT TO SMART CONTRACTS. CryptoWar Team IS NOT RESPONSIBLE FOR LOSSES DUE TO BLOCKCHAINS OR ANY OTHER FEATURES OF THE ETHEREUM NETWORK, BINANCE SMART CHAIN, THE METAMASK ELECTRONIC WALLET, OR RONIN ELECTRONIC WALLET. INCLUDING BUT NOT LIMITED TO LATE REPORT BY DEVELOPERS OR REPRESENTATIVES (OR NO REPORT AT ALL) OF ANY ISSUES WITH THE BLOCKCHAIN SUPPORTING THE ETHEREUM NETWORK, BINANCE SMART CHAIN, INCLUDING FORKS, TECHNICAL NODE ISSUES, OR ANY OTHER ISSUES HAVING FUND LOSSES AS A RESULT.
+BẠN HIỂU VÀ ĐỒNG Ý RẰNG CHÚNG TÔI, CÁC CÔNG TY CỔ PHẦN, LIÊN KẾT VÀ CÁC NHÀ CẤP PHÉP CỦA CHÚNG TÔI SẼ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ VỚI BẠN HOẶC BẤT KỲ BÊN THỨ BA NÀO VỀ BẤT KỲ SỰ CỐ ẤN ĐỘ, BẤT CỨ, ĐẶC BIỆT, HẬU QUẢ HOẶC THIỆT HẠI NÀO MÀ BẠN CÓ THỂ PHÁT HIỆN TRÁCH NHIỆM PHÁP LÝ, BAO GỒM, KHÔNG GIỚI HẠN, BẤT KỲ LỢI NHUẬN NÀO MẤT LỢI NHUẬN (MỖI LỢI NHUẬN ĐƯỢC TĂNG TRỰC TIẾP HOẶC CHỈ ĐỊNH), MẤT HÀNG HOẶC BÁO CÁO KINH DOANH, MẤT DỮ LIỆU, CHI PHÍ THỦ TỤC HÀNG HÓA HOẶC DỊCH VỤ HOẶC MẤT BẤT KỲ KHOẢNG CÁCH NÀO KHÁC ĐƯỢC TƯ VẤN VỀ KHẢ NĂNG CỦA CÁC THIỆT HẠI NHƯ VẬY.
 
 ‌
 
-### 13. LIMITATION OF LIABILITY
+BẠN ĐỒNG Ý VÀ XÁC NHẬN RẰNG TỔNG THỂ, TRÁCH NHIỆM PHÁP LÝ TỐI ƯU CỦA CHÚNG TÔI ĐỐI VỚI BẠN ĐỐI VỚI BẤT KỲ VÀ TẤT CẢ CÁC YÊU CẦU YÊU CẦU PHÁT SINH NGOÀI HOẶC LIÊN QUAN ĐẾN CÁC ĐIỀU KHOẢN NÀY HOẶC VIỆC BẠN TRUY CẬP HOẶC SỬ DỤNG (HOẶC BẤT KỲ KHẢ NĂNG CỦA BẠN ĐỂ TRUY CẬP HOẶC SỬ DỤNG) BẤT KỲ KHU VỰC NÀO CỦA TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH, ĐỀU TRONG HỢP ĐỒNG, KHOẢN, TRÁCH NHIỆM PHÁP LÝ NGHIÊM TÚC HOẶC BẤT KỲ LÝ THUYẾT PHÁP LÝ NÀO KHÁC, ĐƯỢC GIỚI HẠN Ở LỚN HƠN (A) SỐ TIỀN BẠN THỰC SỰ TRẢ CHO CHÚNG TÔI THEO CÁC ĐIỀU KHOẢN NÀY TRONG GIAI ĐOẠN NÀY TRONG GIAI ĐOẠN 2 THÁNG TRƯỚC NGÀY KHỞI KIỆN ĐẾN, HOẶC (B) MỘT TRĂM (100) ĐÔ LA MỸ.
 
 ‌
 
-YOU UNDERSTAND AND AGREE THAT WE, OUR SUBSIDIARIES, AFFILIATES, AND LICENSORS WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES WHICH YOU MAY INCUR, HOWSOEVER CAUSED AND UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, ANY LOSS OF PROFITS (WHETHER INCURRED DIRECTLY OR INDIRECTLY), LOSS OF GOODWILL OR BUSINESS REPUTATION, LOSS OF DATA, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR ANY OTHER INTANGIBLE LOSS, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+BẠN ĐỒNG Ý VÀ XÁC NHẬN RẰNG CHÚNG TÔI ĐÃ THỰC HIỆN TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH CÓ SN CHO BẠN VÀ THAM GIA CÁC ĐIỀU KHOẢN NÀY CÓ LIÊN QUAN ĐẾN KHI TỪ CHỐI BẢO ĐẢM VÀ GIỚI HẠN TRÁCH NHIỆM PHÁP LÝ ĐƯỢC ĐẶT RA TỪ ĐÂY, MÀ PHÉP THUỘC VỀ SỰ HỢP LÝ VÀ CÔNG BẰNG CÁC BÊN VÀ HÌNH THÀNH CĂN CỨ THIẾT YẾU CỦA BARGAIN GIỮA CHÚNG TÔI. CHÚNG TÔI KHÔNG THỂ CUNG CẤP TRANG WEB, ỨNG DỤNG VÀ CÁC HỢP ĐỒNG THÔNG MINH CHO BẠN MÀ KHÔNG CÓ GIỚI HẠN NÀY.
 
 ‌
 
-YOU AGREE AND ACKNOWLEDGE THAT OUR TOTAL, AGGREGATE LIABILITY TO YOU FOR ANY AND ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR YOUR ACCESS TO OR USE OF (OR YOUR INABILITY TO ACCESS OR USE) ANY PORTION OF THE SITE, THE APP AND THE SMART CONTRACTS, WHETHER IN CONTRACT, TORT, STRICT LIABILITY, OR ANY OTHER LEGAL THEORY, IS LIMITED TO THE GREATER OF (A) THE AMOUNTS YOU ACTUALLY PAID US UNDER THESE TERMS IN THE TWELVE (12) MONTH PERIOD PRECEDING THE DATE THE CLAIM AROSE, OR (B) ONE HUNDRED (100) US DOLLAR.
-
-‌
-
-YOU AGREE AND ACKNOWLEDGE THAT WE HAVE MADE THE SITE, THE APP AND THE SMART CONTRACTS AVAILABLE TO YOU AND ENTERED INTO THESE TERMS IN RELIANCE UPON THE WARRANTY DISCLAIMERS AND LIMITATIONS OF LIABILITY SET FORTH HEREIN, WHICH REFLECT A REASONABLE AND FAIR ALLOCATION OF RISK BETWEEN THE PARTIES AND FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN US. WE WOULD NOT BE ABLE TO PROVIDE THE SITE, THE APP AND THE SMART CONTRACTS TO YOU WITHOUT THESE LIMITATIONS.
-
-‌
-
-SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, AND SOME JURISDICTIONS ALSO LIMIT DISCLAIMERS OR LIMITATIONS OF LIABILITY FOR PERSONAL INJURY FROM CONSUMER PRODUCTS, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO PERSONAL INJURY CLAIMS.
+MỘT SỐ ĐIỀU KHOẢN LUẬT PHÁP KHÔNG CHO PHÉP LOẠI TRỪ HOẶC GIỚI HẠN CÁC THIỆT HẠI BẤT CỨ HOẶC HẬU QUẢ, VÀ MỘT SỐ ĐIỀU KHOẢN LUẬT PHÁP CŨNG GIỚI HẠN KHIẾU NẠI HOẶC GIỚI HẠN TRÁCH NHIỆM PHÁP LÝ ĐỐI VỚI THƯƠNG HẠI CÁ NHÂN ĐỐI VỚI SẢN PHẨM CỦA NGƯỜI TIÊU DÙNG, VÌ VẬY CÁC GIỚI HẠN TRÊN CÓ THỂ KHÔNG ĐƯỢC ÁP DỤNG.
 
 ‌
 
