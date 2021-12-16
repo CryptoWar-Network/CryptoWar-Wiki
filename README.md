@@ -6,7 +6,7 @@ description: Đào tạo Anh Hùng, Luyện Vũ Khí, Đánh Quái Vật và Ki�
 
 > Bản wiki này được phát hành tại: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network)
 
-#### Nền tảng trò chơi DEFI và trải nghiệm trên Binance Smart Chain
+#### Nền tảng trò chơi DEFI và trải nghiệm trên Binance Smart Chain, Polygon, Avax, Fantom, KCC
 
 CryptoWar là một game nhập vai Play to Earn NFT, trong đó người chơi tham gia vào quá trình có được Lưỡi kiếm huyền thoại và các Anh hùng mạnh mẽ để sử dụng chúng trên thị trường. Được phân nhánh và cải tiến bởi https://XBN.finance trên nền tảng Chuỗi thông minh Binance, CryptoWar cho phép người chơi tham gia vào các trận chiến để kiếm mã thông báo xBlade bằng cách sử dụng tài sản của họ được đúc theo tiêu chuẩn ERC-721 để tạo điều kiện giao dịch trên thị trường độc quyền
 
