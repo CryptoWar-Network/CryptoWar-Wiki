@@ -10,28 +10,35 @@ CryptoWar hướng tới trở thành một nhà sản xuất không gian Metave
 
 ## Giai đoạn 1 - Xây dựng Game PvP Cơ bản
 
-Ước tính tổng thời gian thực hiện: từ tháng 8, 2021 tới tháng 5, 2022.
+Thời gian thực hiện dự kiến: 10 tháng - tháng 8 năm 2021 đến tháng 5 năm 2022
 
-* Hoàn thiện chế độ P2E: anh hùng chiến đấu với quái vật
-* Hoàn thiện chế độ PvP: anh hùng tỉ thí anh hùng (1v1 và 3v3)
-* Hoàn thiện hệ thống xây dựng Bang hội
-* Hoàn thiện hệ thống Nhiệm vụ & Cốt truyện thế giới CryptoWar
-* Hoàn thiện hệ thống "Giao mượn" anh hùng cho người chơi khác
+* Mốc 1 - P2E: Anh hùng chiến đấu với Quái vật.&#x20;
+* Mốc 2 - PvP: Các anh hùng chiến đấu với các Anh hùng khác.&#x20;
+* Mốc 3 - Thị trường: Anh hùng cho vay / cầm cố.
 
-## Giai đoạn 2 - Xây dựng hình thức game mới
+## Giai đoạn 2 - Phát triển hệ sinh thái trò chơi CryptoWar
 
-Dự tính thời gian thực hiện: từ tháng 6, 2022 tới tháng 5, 2024
+Mốc 1 - Xây dựng hệ thống quan hệ trong trò chơi:&#x20;
 
-* Xuất hiện xBlade trên sàn CEX Gate.io
-* Phát triển hệ thống gameplay mới tiềm năng
-* Mở rộng hệ thống cốt truyện
-* Hoàn thiện hệ thống Đấu giải
-* Phát triển hệ thống giúp người chơi thiết kế các dạng Nhiệm vụ, tạo vật phẩm NFT và trao bán&#x20;
+Hệ thống Clan: Xã hội & lợi ích của Clan.&#x20;
 
-## Giai đoạn 3 - Xây dựng Hệ thống Metaverse CryptoWar
+Hệ thống quan hệ: Đối tác gia đình, đối thủ chiến tranh, v.v.&#x20;
 
-Dự tính thời gian thực hiện: từ tháng 6, 2024 tới tháng 5 2027
+Mốc 2 - Giải đấu: Hệ thống xếp hạng & bảng thành tích.&#x20;
 
-* Mở rộng hệ thống Game CryptoWar với các game mới
-* Tiếp tục cải thiện làm việc với các nhà sáng tạo trên CryptoWar
-* Liên kết và nối các game thành hệ thống Metaverse
+Mốc 3 - Trò chơi Chiến dịch với Lore:&#x20;
+
+Đánh bại các ông chủ lớn.&#x20;
+
+Giải quyết các bí ẩn thế giới của CryptoWar và thu thập các vật phẩm sưu tầm quý hiếm.&#x20;
+
+Mốc 4 - Cá nhân hóa anh hùng NFT.&#x20;
+
+Mốc 5 - Xây dựng Bộ sưu tập NFT với các Anh hùng, Vũ khí và các vật phẩm trong trò chơi độc đáo và nghệ thuật cao.
+
+## Giai đoạn 3 - Đi đến Metaverse
+
+Thời gian thực hiện dự kiến: 3 năm - tháng 5, 2023 đến tháng 4, 2026 2027
+
+* Thiết kế thế giới trò chơi 3D.&#x20;
+* Trở thành nền tảng trò chơi: khuyến khích người sáng tạo nội dung tạo các câu chuyện và vật phẩm trong trò chơi cho metaverse của CryptoWar.

@@ -11,6 +11,8 @@
 * [Tokenomics](tokenomics.md)
 * [Lộ trình phát triển](roadmap.md)
 * [Mạng Xã Hội](other-links.md)
+* [Game Concep](game-concep/README.md)
+  * [Cốt Truyện](game-concep/cot-truyen.md)
 
 ## xBlade
 
