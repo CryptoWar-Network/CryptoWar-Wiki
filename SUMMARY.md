@@ -1,6 +1,7 @@
 # Table of contents
 
-* [CryptoWar](README.md)
+* [Game Concept](README.md)
+  * [Cốt Truyện](game-concept/cot-truyen.md)
 * [Khởi Đầu](getting-started/README.md)
   * [Cài Đặt MetaMask Wallet](getting-started/metamask-wallet-setup.md)
   * [Mua xBlade](getting-started/purchasing-xblade.md)
@@ -11,8 +12,6 @@
 * [Tokenomics](tokenomics.md)
 * [Lộ trình phát triển](roadmap.md)
 * [Mạng Xã Hội](other-links.md)
-* [Game Concept](game-concept/README.md)
-  * [Cốt Truyện](game-concept/cot-truyen.md)
 
 ## xBlade
 
