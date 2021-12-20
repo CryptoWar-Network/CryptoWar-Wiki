@@ -66,7 +66,5 @@
 ## Links
 
 * [HomePage](https://cryptowar.network)
-
-***
-
 * [Play CryptoWar](https://play.cryptowar.network)
+* [Change Log](https://cryptowar.changelogfy.com)
