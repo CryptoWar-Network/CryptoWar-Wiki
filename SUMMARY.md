@@ -74,3 +74,4 @@
 
 * [Play CryptoWar](https://play.cryptowar.network)
 * [System Upgrade](system-upgrade.md)
+* [Change Log](https://cryptowar.changelogfy.com)
