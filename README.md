@@ -1,50 +1,32 @@
----
-description: RECRUIT CHARACTERS, FORGE WEAPONS, ENTER BATTLE, EARN xBlade
----
+# Game Concept
 
-# CryptoWar
+## Mission
 
-> This wiki is published at: [https://wiki.cryptowar.network/](https://wiki.cryptowar.network)
+CryptoWar xBlade strives to become a sustainable blockchain gaming ecosystem that brings enjoyment and roads to wealth creation for the general public.
 
-#### A DeFi Game Platform and gaming experience on Binance Smart Chain
+## Values
 
-CryptoWar is a Play to Earn NFT RPG in which players participate in the process of acquiring legendary Blades and powerful Heroes to wield them through the marketplace. Being forked and improved by [https://XBN.finance](https://xbn.finance) on the Binance Smart Chain platform, CryptoWar enables the players to be engaged in battles to earn xBlade tokens by using their assets minted in the ERC-721 standard to facilitate transactions on the proprietary marketplace
+1. Enjoyability
+2. Opportunities to Pursuit Wealth Creation
+3. Sustainability
 
-With other DeFi products, CryptoWar will definitely be a dreamland for gamers and blockchain adopters.
+## Player Experience Journey
 
-* NFT Yield Farming
-* NFT Marketplace
-* Gaming Metaverse
+1. Hero Personal Development
 
-#### CryptoWar Marketplace
+* P2E Mode: Slay monsters and earn XP and token.
+* PvP Mode: Wage your power against other players and win the bet.
+* Campaigns: Defeat bosses with other players, multi-players tournaments.
 
-The peer-to-peer marketplace for BSC-based NFTs collectibles and in-game items
+&#x20; 2\. Hero Social Development
 
-### NFT farming
+* Join a Clan: Support each other, trading weapons, lending heroes, etc.
+* Make families: Heroes mingle together and have babies heroes.
 
-* High APR xBlade farming
-* NFT booster farming ( Farming with higher APR with rare NFTs)
-* Redeem NFT for real xBlade
+&#x20; 3\. Hero Dream Realization
 
-## Vision
-
-Besides creating a game accommodating the playability’s facet and element mechanics in order to satisfy the needs of gamers, our ambition is to nurture sustainable economy as well as build a strong ecosystem of XBN to catch the latest trend of NFT play-to-earn market and eventually evolve into metaverse-gaming world.
-
-## Objective
-
-The objective for launching this new game is to provide impeccable gaming experience and enriching experience for our gamers in general and long-term holders in particular. More and more gamers and holders are interested in blockchain gaming through its existing systems, which leads to create a friendly and exciting community in which gamers and holders are able to gain mileage in this form of crypto currency while fully enjoying the game.
-
-Both full time gamers and casual gamers are able to benefit greatly from this game. Traders collecting NFTs or long-term investors investing in xBlade will be better off in the long run.
-
-## Play to Earn
-
-CryptoWar utilizes “Play-to-Earn” model with the aim to distribute xBlade through gameplay as well as give values to player NFTs in order to increase their use through future features. Based on experience in tokenomics and smart contract, we optimize impressive features in this game for the purpose of avoiding arbitrage & inflation bubble in the economy and keeping the value of xBlade sustainable
-
-On the marketplace, NFTs can be freely traded for xBlade tokens, which later can be traded on exchanges or converted to fiat currency. Rare and ultra-rare NFTs which are worth collecting and highly valuable will be invented. Those rare NFTS will be bought back by XBN finance in order to display in our Hall of Fames at different periods of time such as 6 months, 12 months and 18 months
-
-The following are examples of current options for players to play the game:
-
-* Participating in combat through the use of character and weapon NFTs for xBlade.
-* Minting characters and weapons and selling them for xBlade on the marketplace.
-* Trading NFTs with other players for BEP-20 tokens.
-* Exchanging xBlade on a DEX for currency that can be traded on an exchange such as Binance.
+* High-Level In-game Enjoyment: Complete difficult tasks in-game and win PvP challenges.
+* Social and Leadership: Leading a Clan, win wars of Clans.
+* Create Unique Heroes: Merging heroes to create next layers of heroes with unique design and utility abilities.
+* Personalize Heroes: Equip heroes with personal and unique gears, change hero layout, name, and design.
+* Collectability: Collecting the highest ranked and rarest Weapons and Heroes.
