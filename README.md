@@ -4,6 +4,12 @@
 
 CryptoWar xBlade strives to become a sustainable blockchain gaming ecosystem that brings enjoyment and roads to wealth creation for the general public.
 
+
+
+## Vision
+
+Cryptowar will become the Metaverse ecosystem in multi chains.
+
 ## Values
 
 1. Enjoyability
