@@ -14,6 +14,7 @@
 * [Backers & Partners](backers-and-partners.md)
 * [Roadmap](roadmap.md)
 * [Social Links](other-links.md)
+* [Feedback & Change Log](https://cryptowar.feedy.app)
 
 ## xBlade
 
@@ -74,5 +75,3 @@
 
 * [Play CryptoWar](https://play.cryptowar.network)
 * [System Upgrade](system-upgrade.md)
-* [Change Log](https://cryptowar.changelogfy.com)
-* [Feedback & Change Log](https://cryptowar.feedy.app)
