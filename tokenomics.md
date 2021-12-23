@@ -14,9 +14,3 @@ xBlade (CA: [0x27a339d9b59b21390d7209b78a839868e319301b](https://bscscan.com/tok
 | xBlade-XBN Initial Liquidity Pool (PancakeSwap)  | 8%                  | 0x888888753d31a4d9a75cdde144186c7e43338a08 |
 
 The development fund vests at a rate of 5% per month.
-
-## Token Distribution & Liquidity generations
-
-To avoid bot and pump & dump situation, xBlade will be distributed in 96 distribution rounds at [https://www.cryptowar.network/buy](https://www.cryptowar.network/buy)
-
-Please check following table for more information: [https://docs.google.com/spreadsheets/d/1kzUyGFPqM3uGTGOQZp1zgBfmzAfHc7GPj81nTW-WYzA/edit#gid=0](https://docs.google.com/spreadsheets/d/1kzUyGFPqM3uGTGOQZp1zgBfmzAfHc7GPj81nTW-WYzA/edit#gid=0)

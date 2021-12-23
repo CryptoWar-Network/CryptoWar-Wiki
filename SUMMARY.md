@@ -24,6 +24,7 @@
   * [Oracle](xblade/what-is-xblade/oracle.md)
   * [In-Game xBlade](xblade/what-is-xblade/in-game-xblade.md)
   * [Sales Tax](xblade/what-is-xblade/sales-tax.md)
+* [Bond Sales](xblade/bond-sales.md)
 
 ## GAMEPLAY
 
