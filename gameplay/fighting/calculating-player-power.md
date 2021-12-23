@@ -127,11 +127,11 @@ The Final Power Value comes down to 4912 after adding Trait Bonus to the Aligned
 
 ## Enemy Power
 
-Enemy Power is considered to be a straightforward ±10% calculation used to measure the power of whichever of enemy each player selected from the listed enemy power.
+Enemy Power is considered to be a straightforward ±20% calculation used to measure the power of whichever of enemy each player selected from the listed enemy power.
 
 Experience and xWeapon payouts can be identified by means of checking over the numerical value listed on the combat screen button.
 
-The estimated value with the ±10% applied is used to determine the enemy's rolls in combat:
+The estimated value with the ±20% applied is used to determine the enemy's rolls in combat:
 
 {% hint style="info" %}
 To make it more explicit to the players, let’s run a combat simulation by taking the preceding values into account:

@@ -36,14 +36,14 @@ Further information on the formula and other variables are given below:
 After determining the **Unaligned Character Power** the game automatically multiplies that figure by 10% to evaluate the possible strengths of your enemy.
 
 {% hint style="info" %}
-The ±10% implies that you might encounter difficulties in winning the battle without having elemental matching at your vantage so that you will never face an enemy that is impossible to defeat.
+The ±20% implies that you might encounter difficulties in winning the battle without having elemental matching at your vantage so that you will never face an enemy that is impossible to defeat.
 {% endhint %}
 
 After that, the player moves on to the next step of selecting enemy and verifying the transaction. Player’s **Aligned Character Power** and **Trait Bonus** is calculated by the contract, which is later used for measuring player’s combat roll and experience gained on victory.
 
-The player's roll is calculated by multiplying **Aligned Character Power** with **Trait Bonus** and applying a ±10%.
+The player's roll is calculated by multiplying **Aligned Character Power** with **Trait Bonus** and applying a ±20%.
 
-The enemy's roll is calculated by multiplying listed power value by ±10%.
+The enemy's roll is calculated by multiplying listed power value by ±20%.
 
 The player wins the fight if his or her roll is equal to or higher than the enemy’s roll. Then Experience and xBlade payouts can then be calculated.
 

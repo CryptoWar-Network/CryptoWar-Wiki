@@ -30,5 +30,11 @@ We have made some changes about stamina & reward per fight. From now when you sp
 
 200 stamina points / 1 fight earn A\*3 xBlade&#x20;
 
-This update will be officially applied at 16:00:00  UTC 11.11.2021
+This update will be officially applied at 16:00:00  UTC 11.11.2021.
+
+## Monster Refresh
+
+In order to reduce gas fee we have  made some changes about Monster Refresh. From now on Monster's list will be renewed every 2 hours but 14 XP monsters appearance rate will be increase.
+
+This update will be officially applied at 03:00:00  UTC 23.12.2021.
 
