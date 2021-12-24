@@ -33,7 +33,7 @@ Further information on the formula and other variables are given below:
 [calculating-player-power.md](calculating-player-power.md)
 {% endcontent-ref %}
 
-After determining the **Unaligned Character Power** the game automatically multiplies that figure by 10% to evaluate the possible strengths of your enemy.
+After determining the **Unaligned Character Power** the game automatically multiplies that figure by 20% to evaluate the possible strengths of your enemy.
 
 {% hint style="info" %}
 The ±20% implies that you might encounter difficulties in winning the battle without having elemental matching at your vantage so that you will never face an enemy that is impossible to defeat.
