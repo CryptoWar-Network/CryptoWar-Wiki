@@ -12,11 +12,11 @@ At Bond site of CryptoWar you now can buy xBlade with discount price under some 
 
 1. You have 2 options of vesting terms : 7 days or 30 days
    * With 7 days we offer :&#x20;
-     * xBlade price : 0.0377 $
+     * xBlade price : 87.5 % market price ( real time )
      * ROI : 14.57 %
      * Max you can buy : 28000 xBlade
    * With 30 days we offer :&#x20;
-     * xBlade price : 0.0323 $
+     * xBlade price : 75 % market price ( real time )
      * ROI : 33.66 %
      * Max you can buy : 28000 xBlade
 
