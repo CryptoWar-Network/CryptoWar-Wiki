@@ -18,9 +18,9 @@ The range of enemies you are able to fight are randomized but still follow an un
 In case your stamina is about to be physically drained and players don’t get the upper hand of element trump, they are advocated to go into battles with enemies of other elements. Bonus or penalty will not be exercised if players fight with the same enemies or enemies with different elements. Besides, it is suggested that players should not engage in battles where they are at a disadvantage.
 {% endhint %}
 
-## Hourly Refresh
+## &#x20;Refresh Monster List
 
-You may get unlucky sometimes and get a batch full of monsters that you have no elemental advantage against. If you still have stamina, it is advised that you wait for a new randomized batch, which occur every hour at UTC+0.
+You may get unlucky sometimes and get a batch full of monsters that you have no elemental advantage against. If you still have stamina, it is advised that you wait for a new randomized batch, which occur every 2 hours at UTC+0.
 
 To prevent EVM errors, all players will be unable to start a fight in the final 30 seconds of each hour. During this 30-second period, players should wait for the hourly fresh and not start any fight as missing monsters may cause transaction errors.
 
