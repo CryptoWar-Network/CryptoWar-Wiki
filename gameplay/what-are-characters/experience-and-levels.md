@@ -22,7 +22,7 @@ If the character is under level 41, it is recommended that player claims XP when
 
 Because of the increase in power, it appears to be more advantageous for each player to claim his or her XP at each subsequent level after overtaking this level, resulting in more xBlade gained through fight payouts.
 
-![](../../.gitbook/assets/6.jpg)
+![](<../../.gitbook/assets/6 (1).jpg>)
 
 {% hint style="info" %}
 Character level may be synced because of disparities in win-rate. If claiming experience allows character to advance to the next milestone, it seems to be a smart strategy to do so before the battle.

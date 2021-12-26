@@ -66,6 +66,9 @@
 * [Help & FAQ](information/faq.md)
 * [Terms of Use](information/terms-of-use.md)
 * [Privacy Policy](information/privacy-policy.md)
+* [Tips & Guide](information/tips-and-guide/README.md)
+  * [Your First Hero & Weapon](information/tips-and-guide/your-first-hero-and-weapon.md)
+  * [How to earn your first money ?](information/tips-and-guide/how-to-earn-your-first-money.md)
 
 ## Links
 

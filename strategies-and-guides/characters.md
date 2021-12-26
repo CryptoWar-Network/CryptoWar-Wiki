@@ -22,7 +22,7 @@ Level milestones are considered to be an essential pillar of maintaining charact
 
 Please keep an eye on time when your characters are on the verge to reach the next milestone. In case one of them has crossed the threshold, remember to restrain from engaging in fighting and claiming the much sought after experience.
 
-![](../.gitbook/assets/6.jpg)
+![](<../.gitbook/assets/6 (1).jpg>)
 
 Due to the fact that each transaction costs a certain amount of fees, it is suggested that players should claim experience to minimize the gas fees More information on the experience table and calculation formula can be found here:
 
