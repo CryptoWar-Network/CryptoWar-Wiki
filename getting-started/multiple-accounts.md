@@ -1,8 +1,8 @@
-# Nhiều tài khoản
+# Hỗ Trợ Nhiều Tài Khoản
 
 Người chơi được phép có nhiều tài khoản trong CryptoWar và được cân bằng thông qua việc sử dụng cổng thời gian sức chịu đựng.
 
-Mỗi tài khoản có bốn nhân vật bắt buộc phải có vũ khí riêng vì khóa giao dịch 24 giờ ngăn cản việc chuyển vũ khí cho nhiều tài khoản.
+Mỗi tài khoản có tám nhân vật bắt buộc phải có vũ khí riêng vì khóa giao dịch 24 giờ ngăn cản việc chuyển vũ khí cho nhiều tài khoản.
 
 Mỗi tài khoản cũng cần Gas riêng và bạn càng có nhiều tài khoản thì lượng Gas dự phòng càng cao.
 
