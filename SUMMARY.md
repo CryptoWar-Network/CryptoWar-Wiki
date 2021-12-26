@@ -61,6 +61,9 @@
 * [Help & FAQ](information/faq.md)
 * [Điều Khoản Sử Dụng](information/terms-of-use.md)
 * [Chính sách bảo mật](information/privacy-policy.md)
+* [Hướng Dẫn & Lời Khuyên](information/huong-dan-and-loi-khuyen/README.md)
+  * [Anh hùng & vũ khí đầu tiên của bạn](information/huong-dan-and-loi-khuyen/anh-hung-and-vu-khi-dau-tien-cua-ban.md)
+  * [Làm thế nào để kiếm được số tiền đầu tiên ?](information/huong-dan-and-loi-khuyen/lam-the-nao-de-kiem-duoc-so-tien-dau-tien.md)
 
 ## Links
 
