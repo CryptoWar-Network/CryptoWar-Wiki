@@ -13,7 +13,7 @@ Cryptowar will become the Metaverse ecosystem in multi chains.
 ## Values
 
 1. Enjoyability
-2. Opportunities to Pursuit Wealth Creation
+2. Opportunities to Pursue Wealth
 3. Sustainability
 
 ## Player Experience Journey
