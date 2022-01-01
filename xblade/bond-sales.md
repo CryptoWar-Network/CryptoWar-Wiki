@@ -30,7 +30,7 @@ At Bond site of CryptoWar you now can buy xBlade with discount price under some 
 
 ![](<../.gitbook/assets/9 (1).jpg>)
 
-2\. For now , you can only purchase xBlade at Bond site by BUSD
+2\. For now , you can only purchase xBlade at Bond site by BUSD & xBlade
 
 3\. You can withdraw daily or wait for vesting time to end as your choice.
 
