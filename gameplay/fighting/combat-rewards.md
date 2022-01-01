@@ -26,7 +26,7 @@ $$
 
 Gas Offset is shown in the earnings calculator as follows:
 
-![](<../../.gitbook/assets/9 (1).jpg>)
+![](<../../.gitbook/assets/9 (1) (1).jpg>)
 
 These numbers are appropriately modified by the Oracle which covers the currency value of xWeapon
 
