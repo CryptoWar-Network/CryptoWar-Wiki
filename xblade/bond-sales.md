@@ -39,4 +39,4 @@ At Bond site of CryptoWar you now can buy xBlade with discount price under some 
 5\. 100% proceed from the Bond Sales will go to Liquidity Pool and Buy Back mechanism.
 
 * 50% BUSD will be added to Liquidity Pool by : 25% to buy xBlade + 25% add directly to Liquidity Pool.
-* 50% BUSD will remain and execute Buy Back mechanism every 8 hours by 1% of total amount.
+* 50% BUSD will remain and execute Buy Back & Burn mechanism every 8 hours by 1% of total amount.
