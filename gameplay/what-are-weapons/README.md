@@ -1,6 +1,6 @@
 # Weapons
 
-![](../../.gitbook/assets/16.jpg)
+![](<../../.gitbook/assets/16 (1).jpg>)
 
 It goes without saying that weapons are an essential pillar of NFTs. To get engaged in the game, players are required to possess their own weapons which can be fully utilized for in-game transactions such as trading, obtaining xBlade and earning money. What differentiates the weapons from characters is the unbounded number of weapons in each account.
 
@@ -42,7 +42,7 @@ Weapon rarity is determined based on minting weapons. Further information on the
 
 ## Weapon Elements
 
-![](../../.gitbook/assets/19.jpg)
+![](<../../.gitbook/assets/19 (1).jpg>)
 
 Element is picked out through minting weapon. Each weapon comes as one of four distinct elements, which is basically similar to characters.(Fire, Earth, Air, Water).
 

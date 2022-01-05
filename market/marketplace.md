@@ -8,7 +8,7 @@ After purchasing NFTs on the marketplace, the system automatically dispatch a no
 
 It is due to the fact that CryptoWar is not given authorization to spend xBlade directly from players’ MetaMask wallet. Consequently, players are obligated to seek authorization whenever they need to execute a marketplace transaction, which appears to be completely different from the actual purchase confirmation. After the completion of transaction approval, players will receive an official notification of purchasing process on the market.
 
-![](<../.gitbook/assets/11 (1).jpg>)
+![](<../.gitbook/assets/11 (1) (1).jpg>)
 
 {% hint style="info" %}
 It is advisable to have a strategic purchase planning for each item on the market; otherwise players will receive a gas fee error in case they try out for items purchased by someone else.

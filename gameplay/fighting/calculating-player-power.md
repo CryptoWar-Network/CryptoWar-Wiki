@@ -87,7 +87,7 @@ The formula to calculate Trait Bonus is shown below:
 
 ![](../../.gitbook/assets/13.jpg)
 
-![](<../../.gitbook/assets/12 (1).jpg>)
+![](<../../.gitbook/assets/12 (1) (1).jpg>)
 
 ```
 TraitBonus = 1
@@ -103,7 +103,7 @@ The following are instructions about character elements to get the upper hand of
 * Air beats Water
 * Water beats Fire
 
-![](<../../.gitbook/assets/14 (1).jpg>)
+![](<../../.gitbook/assets/14 (1) (1).jpg>)
 
 The players’ final power value is totalized by measuring Trait Bonus and multiplying it by Aligned Power.
 

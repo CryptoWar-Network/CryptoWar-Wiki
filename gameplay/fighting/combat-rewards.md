@@ -10,7 +10,7 @@ The fees imposed on stamina consumption are on the par with the estimated increa
 
 Combat experience is also multiplied equivalently based on the value of stamina players pick out.
 
-![Stamina Point](<../../.gitbook/assets/15 (1).jpg>)
+![Stamina Point](<../../.gitbook/assets/15 (1) (1).jpg>)
 
 
 

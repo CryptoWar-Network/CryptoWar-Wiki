@@ -4,7 +4,7 @@ description: >-
   battle request
 ---
 
-# Challenge Mode as Defender
+# Challenge Mode as Defender ( coming soon )
 
 First, select Hero and Weapon you want to place on the ring
 
@@ -16,9 +16,9 @@ Then click " List HERO to Challenge Mode " . You do not need to put in amount a 
 
 You will find your Hero on Challenge Mode tab as below:
 
-![](../../.gitbook/assets/11.jpg)
+![](<../../.gitbook/assets/11 (1).jpg>)
 
 Now wait for battle request and Fight or Reject as you prefer :
 
-![](../../.gitbook/assets/12.jpg)
+![](<../../.gitbook/assets/12 (1).jpg>)
 
