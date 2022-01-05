@@ -28,7 +28,7 @@ You can check out other's request to fight at " Request to Challenge " tab. Reme
 
 Once you accept the request and pay gas fee then wait for fight's result : Win or Lose
 
-![You Win](<../../.gitbook/assets/photo\_2022-01-05\_15-57-43 (1).jpg>)
+![You Win](<../../.gitbook/assets/photo\_2022-01-05\_15-57-43 (1) (1).jpg>)
 
 ![You Lost](../../.gitbook/assets/photo\_2022-01-05\_15-57-53.jpg)
 
