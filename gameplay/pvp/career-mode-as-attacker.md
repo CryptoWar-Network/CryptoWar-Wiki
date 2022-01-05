@@ -20,7 +20,7 @@ Here some information you should notice : Level's opponent, amount of match bet 
 
 ![](../../.gitbook/assets/19.jpg)
 
-Then check status out all of your Fight's Request at " My Request " tab.
+You can check out status all of your Fight's Request at " My Request " tab.
 
 ![](../../.gitbook/assets/16.jpg)
 
