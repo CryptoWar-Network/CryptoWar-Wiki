@@ -18,7 +18,7 @@ Then Approve Permission to Access your Hero ( CWC )and Weapon ( CWW ) for Metama
 
 ![Confirm Gas fee & xBlade spending](<../../.gitbook/assets/13 (2).jpg>)
 
-After that you will find the Hero that you listed at " My Career Mode " tab
+After that you will find the Hero that you listed at " My Career Mode " tab. You only can " Cancel Fight " after 1 hour.
 
 ![Your listing](<../../.gitbook/assets/14 (1).jpg>)
 

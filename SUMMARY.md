@@ -48,6 +48,7 @@
   * [Challenge Mode as Attacker ( coming soon )](gameplay/pvp/challenge-mode-as-attacker-coming-soon.md)
   * [Career Mode as Defender](gameplay/pvp/career-mode-as-defender.md)
   * [Career Mode as Attacker](gameplay/pvp/career-mode-as-attacker.md)
+  * [xBlade Follow](gameplay/pvp/xblade-follow.md)
 
 ## Marketplace <a href="#market" id="market"></a>
 
