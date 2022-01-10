@@ -8,14 +8,6 @@ In order to make Cryptowar more balance and have long term growth for community,
 
 All the fight tax will be used to buy back xBlade and adding into liquidity pool as you can check here: [https://bscscan.com/address/0x8ba9f0841cfa75d7e2c7a316b048b04c98c95ca4#internaltx](https://bscscan.com/address/0x8ba9f0841cfa75d7e2c7a316b048b04c98c95ca4#internaltx)&#x20;
 
-
-
-{% embed url="https://docs.google.com/spreadsheets/d/112pr5RU45xhxlaqEq4HRn4rxf5Oym2IUJISQciduIO8/edit#gid=0" %}
-In detail
-{% endembed %}
-
-
-
 ## Stamina & Reward
 
 We have made some changes about stamina & reward per fight. From now when you spend more stamina on 1 fight you will earn better reward as example below :
