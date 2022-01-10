@@ -44,4 +44,8 @@ Big change about recovery time of stamina point is applied to mainnet after rele
 
 When Hero reaches level 30 stamina recovery time will jump from 17 mins 15 secs / 1 point to 67 mins 50 secs / 1 point then keep increasing simultaneously with Hero's level growth and stay at 100 mins / point when Hero reaches level 55. Please read more about it : [https://cryptowar.feedy.app/changelog/](https://cryptowar.feedy.app/changelog/)
 
-In detail : [https://docs.google.com/spreadsheets/d/1MLMizN8qx8m68FCisTtH6c\_Jq\_1K89PKb0PRvNlZmUo/edit#gid=0](https://docs.google.com/spreadsheets/d/1MLMizN8qx8m68FCisTtH6c\_Jq\_1K89PKb0PRvNlZmUo/edit#gid=0)
+In detail :&#x20;
+
+{% embed url="https://docs.google.com/spreadsheets/d/1MLMizN8qx8m68FCisTtH6c_Jq_1K89PKb0PRvNlZmUo/edit#gid=0" %}
+Stamina Recovery Time
+{% endembed %}
