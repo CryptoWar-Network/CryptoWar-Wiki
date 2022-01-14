@@ -41,3 +41,13 @@ In detail :&#x20;
 {% embed url="https://docs.google.com/spreadsheets/d/1MLMizN8qx8m68FCisTtH6c_Jq_1K89PKb0PRvNlZmUo/edit#gid=0" %}
 Stamina Recovery Time
 {% endembed %}
+
+## Reward Base Adjustment
+
+After releasing new currency xGem in the game, we have made some small adjustment about xBlade base reward in order to balace game's finance.
+
+Xblade base reward reduce from 2$ > 1,7$.
+
+On the other hand you will earn xGem no matter win or lose. xGem can be used to purchase high valuable NFTs that worth thousands of xBlade if you lucky.
+
+So it's a little adjustment to make the game more balance and sustainable for the long run that we all aim to achieve.
