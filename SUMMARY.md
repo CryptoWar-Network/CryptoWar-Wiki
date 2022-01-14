@@ -42,6 +42,7 @@
   * [Weapon Attributes](gameplay/what-are-weapons/weapon-stats.md)
   * [Weapon Durability](gameplay/what-are-weapons/weapon-durability.md)
 * [Rewards](gameplay/rewards.md)
+* [💎 xGem](gameplay/xgem.md)
 * [Character Levels & required experience per level](gameplay/character-levels-and-required-experience-per-level.md)
 * [PVP](gameplay/pvp/README.md)
   * [Challenge Mode as Defender ( coming soon )](gameplay/pvp/challenge-mode-as-defender-coming-soon.md)
