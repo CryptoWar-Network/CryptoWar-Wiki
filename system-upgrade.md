@@ -46,7 +46,7 @@ Stamina Recovery Time
 
 After releasing new currency xGem in the game, we have made some small adjustment about xBlade base reward in order to balace game's finance.
 
-Xblade base reward reduce from 2$ > 1,7$.
+Xblade base reward reduces from 2$ > 1,7$ / 1 fight.
 
 On the other hand you will earn xGem no matter win or lose. xGem can be used to purchase high valuable NFTs that worth thousands of xBlade if you lucky.
 
