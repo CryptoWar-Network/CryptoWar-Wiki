@@ -15,7 +15,7 @@ What are purposes of sales tax ?
 
 How sales tax will be used ?
 
-1. 25% to reward pool ( both PvE and PvP ).
+1. 25% to Reward pool ( both PvE and PvP ).
 2. 25% to Burn mechanism
 3. 25% to Dev fund to build new features in the future
 4. 25% to Marketing fund to promote CryptoWar project
