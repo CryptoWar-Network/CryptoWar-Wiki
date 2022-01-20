@@ -1,6 +1,6 @@
 ---
 description: >-
-  When you sale xBlade on trading platform likes PancakeSwap, Coinsbit,... You
+  When you sale xBlade on trading platform likes PancakeSwap, PooCoin,... You
   have to pay 4.5% of total selling token as tax fee
 ---
 
