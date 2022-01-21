@@ -16,27 +16,32 @@ At Bond site of CryptoWar you now can buy xBlade with discount price under some 
       * xBlade price : 87.5 % market price ( real time )
       * ROI : 14.57 %
       * Max you can buy : 28000 xBlade
-    * With 45 days we offer :&#x20;
+    * With 50 days we offer :&#x20;
       * xBlade price : 75 % market price ( real time )
       * ROI : 33.66 %
       * Max you can buy : 28000 xBlade
-    * With 180 days we offer :&#x20;
+    * With 220 days we offer :&#x20;
       * This vesting term uses xBlade to purchase
       * price : 85% market price ( real time )
       * ROI : 17.94 %
       * Max you can buy : 28000 xBlade
 
 
+2. Each new round, some changes:
+   * BUSD 50D: increase 5D/ round
+   * xBlade 220D: increase 20D/ round
 
-![](<../.gitbook/assets/9 (1).jpg>)
+![](../.gitbook/assets/photo\_2022-01-08\_10-50-20.jpg)
 
-2\. For now , you can only purchase xBlade at Bond site by BUSD & xBlade
 
-3\. You can withdraw daily or wait for vesting time to end as your choice.
 
-4\. Please remember ! Whenever you buy xBlade at the same vesting terms redeem time will reset and start counting from 0.
+3\. For now , you can only purchase xBlade at Bond site by BUSD & xBlade
 
-5\. 100% proceed from the Bond Sales will go to Liquidity Pool and Buy Back mechanism.
+4\. You can withdraw daily or wait for vesting time to end as your choice.
+
+5\. Please remember ! Whenever you buy xBlade at the same vesting terms redeem time will reset and start counting from 0.
+
+6\. 100% proceed from the Bond Sales will go to Liquidity Pool and Buy Back mechanism.
 
 * 50% BUSD will be added to Liquidity Pool by : 25% to buy xBlade + 25% add directly to Liquidity Pool.
 * 50% BUSD will remain and execute Buy Back mechanism every 8 hours by 1% of total amount.
