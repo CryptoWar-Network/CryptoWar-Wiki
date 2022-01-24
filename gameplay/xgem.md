@@ -4,7 +4,7 @@ description: New currency of CryptoWar
 
 # 💎 xGem
 
-We are excited to announce that new currency xGem has been successfully added to the game to reward players from playing PvE mode ( randomly from 1-10 xGem / 1 fight )
+We are excited to announce that new currency xGem has been successfully added to the game to reward players from playing PvE mode ( randomly from 1-3 xGem / 1 fight )
 
 xGem is NOT a token that means you can not trade it for other tokens or transfer to others like xBlade. xGem has it's own special mission in the game, it can be CW's stable coin in future.
 
