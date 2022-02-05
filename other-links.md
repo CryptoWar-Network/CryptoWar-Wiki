@@ -8,6 +8,7 @@
     * CryptoWar Official Announcement: [https://t.me/CrypytoWarAnn\_official](https://t.me/CrypytoWarAnn\_official)
     * Fight Feed: [https://t.me/cryptowar\_battle](https://t.me/cryptowar\_battle)&#x20;
     * LaunchBase: [https://t.me/launchbase\_xBlade](https://t.me/launchbase\_xBlade)&#x20;
+    * Türkiye: [https://t.me/cryptowarturkiye](https://t.me/cryptowarturkiye)
 
     **Telegram (community-led)**
 
