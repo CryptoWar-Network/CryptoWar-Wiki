@@ -28,10 +28,10 @@
 
 Description for website Portal to cryptocurrency destination, [Quarashi Network](https://quarashi.network) fosters adoption through [it’s mobile application](https://play.google.com/store/apps/details?id=com.ibt.quarashi) dedicated to crypto users, both beginner and advanced. Developing a cryptocurrency ecosystem for end-users as platform modules use leverage cutting edge technology, combined with synergy between multiple strategies. The platform consists out of 6 modules: Multi Chain Non Custodial Wallet supporting +9000 cryptocurrencies, Decentralized Exchange, 100% Private Messaging Module, VPN and Incognito Browser, IDO Launchpad, Airdrops & News & Top ICO module.
 
-![](<.gitbook/assets/Logo\_oscuro (1).png>)
+![](.gitbook/assets/OwlDAO.jpg)
 
 OwlDAO aims to build the best casino solution for Web 3.0. Partnering with leading protocols, the OWL token provides perpetual buyback from casino incomes, plus auto-liquidity and staking rewards.
 
-![](.gitbook/assets/Logo\_oscuro\_Games.png)
+![](.gitbook/assets/OwlGames.jpg)
 
 Owl.Games : Best Crypto Casino for Web 3.0
