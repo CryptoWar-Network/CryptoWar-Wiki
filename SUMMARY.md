@@ -41,6 +41,7 @@
   * [Reforging](gameplay/what-are-weapons/reforging.md)
   * [Weapon Attributes](gameplay/what-are-weapons/weapon-stats.md)
   * [Weapon Durability](gameplay/what-are-weapons/weapon-durability.md)
+* [Box](gameplay/box.md)
 * [Rewards](gameplay/rewards.md)
 * [💎 xGem](gameplay/xgem.md)
 * [Character Levels & required experience per level](gameplay/character-levels-and-required-experience-per-level.md)

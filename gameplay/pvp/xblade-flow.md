@@ -6,7 +6,7 @@ description: How xBlade is used in PvP mode ?
 
 Firstly, all of xBlade that spends in PvP mode is from wallet only.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Secondly, when you win a fight xBlade will go to " PvP Reward Pool " . You can claim it to wallet, it cost 0 tax. PvP and PvE have different reward pool, please remember that.
 
