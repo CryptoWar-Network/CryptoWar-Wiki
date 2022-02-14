@@ -37,7 +37,6 @@
   * [Calculating Power](gameplay/fighting/calculating-player-power.md)
   * [Combat Rewards](gameplay/fighting/combat-rewards.md)
 * [Weapons](gameplay/what-are-weapons/README.md)
-  * [Forging](gameplay/what-are-weapons/forging.md)
   * [Reforging](gameplay/what-are-weapons/reforging.md)
   * [Weapon Attributes](gameplay/what-are-weapons/weapon-stats.md)
   * [Weapon Durability](gameplay/what-are-weapons/weapon-durability.md)

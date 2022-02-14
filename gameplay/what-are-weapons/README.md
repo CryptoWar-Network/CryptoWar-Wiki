@@ -36,7 +36,7 @@ Along with Reforging, minting weapons is the game’s primary xBlade sink. All x
 
 There is no commitment that the weapon rarity is fetched by the certain amount of rolls. The harder each player tries the more they achieve.
 
-Weapon rarity is determined based on minting weapons. Further information on the rates of each rarity is elucidated at [forging](forging.md).
+Weapon rarity is determined based on minting weapons. Further information on the rates of each rarity is elucidated at [forging](broken-reference).
 
 ![](../../.gitbook/assets/18.jpg)
 
