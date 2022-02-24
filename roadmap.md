@@ -12,7 +12,7 @@ Estimated implementation time: 10 months - August, 2021 to May, 2022
 
 * Milestone 1 - P2E: Heroes battling Monsters.
 * Milestone 2 - PvP: Heroes battling other Heroes.
-* Milestone 3 - Milestone 3 - Arena Features: Lucky Wheel, RPS.
+* Milestone 3 - Arena Features: Lucky Wheel, RPS.
 * Milestone 4 - F2P: Free-To-Play/Win-To-Earn.
 * Milestone 5 - On-Chain/Off-Chain Feature: PvP Challenge and Career Mode.
 * Milestone 6 - Avatar and game world initiation.
