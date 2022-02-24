@@ -2,13 +2,13 @@
 
 ## Mission
 
-CryptoWar xBlade strives to become a sustainable blockchain gaming ecosystem that brings enjoyment and roads to wealth creation for the general public.
+CryptoWar xBlade strives to become a sustainable blockchain Metaverse Ecosystem that brings enjoyment and roads to wealth creation for the general public.
 
 
 
 ## Vision
 
-Cryptowar will become the Metaverse ecosystem in multi chains. This version of CryptoWar is only a Mini Game in the world we're going to build.
+Cryptowar will become the Metaverse ecosystem in multi chains. This version of CryptoWar is only a Mini Game in the world we're going to build up.
 
 ## Values
 
