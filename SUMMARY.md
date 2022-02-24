@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Product Concept](README.md)
-  * [Game Story](product-concept/game-story.md)
-  * [Business Model](product-concept/business-model.md)
+* [CryptoWar Metaverse](README.md)
+  * [Game Story](cryptowar-metaverse/game-story.md)
+  * [Business Model](cryptowar-metaverse/business-model.md)
 * [Getting Started](getting-started/README.md)
   * [MetaMask Wallet Setup](getting-started/metamask-wallet-setup.md)
   * [Purchasing xBlade](getting-started/purchasing-xblade.md)
@@ -51,17 +51,12 @@
   * [Career Mode as Defender](1st-mini-game-gameplay/pvp/career-mode-as-defender.md)
   * [Career Mode as Attacker](1st-mini-game-gameplay/pvp/career-mode-as-attacker.md)
   * [xBlade Flow](1st-mini-game-gameplay/pvp/xblade-flow.md)
-
-## Marketplace <a href="#market" id="market"></a>
-
-* [Marketplace](market/marketplace.md)
-* [Trading](market/trading.md)
-
-## Strategies and Guides
-
-* [Characters](strategies-and-guides/characters.md)
-* [Weapons](strategies-and-guides/weapons.md)
-* [Fights](strategies-and-guides/fights.md)
+* [Marketplace](1st-mini-game-gameplay/marketplace.md)
+* [Trading](1st-mini-game-gameplay/trading.md)
+* [Strategies and Guides](1st-mini-game-gameplay/strategies-and-guides/README.md)
+  * [Characters](1st-mini-game-gameplay/strategies-and-guides/characters.md)
+  * [Weapons](1st-mini-game-gameplay/strategies-and-guides/weapons.md)
+  * [Fights](1st-mini-game-gameplay/strategies-and-guides/fights.md)
 
 ## Information
 

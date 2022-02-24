@@ -1,4 +1,4 @@
-# Product Concept
+# CryptoWar Metaverse
 
 ## About US
 
@@ -22,7 +22,7 @@ CryptoWar envisions to open a new dimension for everyone to connect, play, expre
 
 \[People] Awesome People - We want to be the best version of ourselves and work with the best people on the planet on what we find exciting and meaningful about.
 
-## Player Experience Journey
+## Product Concept
 
 ### Problem
 
