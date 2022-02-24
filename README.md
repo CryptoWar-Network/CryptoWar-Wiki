@@ -16,6 +16,29 @@ CryptoWar envisions to open a new dimension for everyone to connect, play, expre
 
 ## Player Experience Journey
 
+### Problem
+
+Current GameFi and DeFi models face the problem of half-solved business model: it is technically doable to build a platform for play-to-earn for GameFi and high-yield provider for DeFi, but leave the question of who, or which source of money, will ultimately pay for those gamers and yield-seekers unanswered. Thus leaving these GameFi and DeFi models unsustainable in the long-run and are bounced to collapse.
+
+### Solution
+
+CryptoWar focuses on building a metaverse world with the combination 3 aspects: Gaming, Social, and Finance, that is carefully designed to have a balanced and sound in-game circular economy that generates real monetary flows enabled by $xBlade token.
+
+### Product Principles
+
+We want to build a gaming metaverse that has:
+
+* \[Finance] Balanced circular economy.
+* \[Game] Interesting and simple game interactions.
+* \[Art] Beautiful and distinct design: visual and sound.
+
+### Product Limitations
+
+* Focus 100% on optimizing (visual, gameplay) on 2D mobile as of now.
+  * Marketing aspect: Can start having artist(s) to develop 3D Concepts (Q3-2022) and work on Unreal Engine 5 to build visual about what we can develop on later phases.
+
+### Product Description
+
 CryptoWar’s metaverse is a mobile-based, cross-platform, blockchain enabled distinct digital world. Everyone can join and each persona will have a distinct digital identity. Players can engage in various P2E and PvP games to enjoy and make money. Game producers can create games and sell passes to gamers who want play their games. Artists can build their own brands and open their own shops, design in-game clothing and items, then sell those to highest bidders. Landlords can buy and monetize on virtual lands by reselling those lands or renting the place out for short or long term renters. Virtual architects and home builders will be able to design and build buildings that are so beautiful and special that they can’t exist in the real world for landowners to do their own things: either it is shops, nightclubs, restaurants, observatories, battle arenas, DeFi banks, etc.
 
 CryptoWar strives to create a foundation for a game world that works: anyone can join, become anything they want to be, create products and services that sell for real money, and enjoy their own existence in a virtual world and community that is at the frontier of gaming and social network.
