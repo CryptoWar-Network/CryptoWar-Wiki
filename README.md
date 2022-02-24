@@ -1,10 +1,10 @@
 # Game Concept
 
-## Who we are ?
+## Who We Are
 
 CryptoWar works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow.
 
-## What we do ?
+## What We Do
 
 CryptoWar envisions to open a new dimension for everyone to connect, play, express themselves, and find happiness.
 
@@ -16,21 +16,12 @@ CryptoWar envisions to open a new dimension for everyone to connect, play, expre
 
 ## Player Experience Journey
 
-1. First Mini Game with two modes
+CryptoWar’s metaverse is a mobile-based, cross-platform, blockchain enabled distinct digital world. Everyone can join and each persona will have a distinct digital identity. Players can engage in various P2E and PvP games to enjoy and make money. Game producers can create games and sell passes to gamers who want play their games. Artists can build their own brands and open their own shops, design in-game clothing and items, then sell those to highest bidders. Landlords can buy and monetize on virtual lands by reselling those lands or renting the place out for short or long term renters. Virtual architects and home builders will be able to design and build buildings that are so beautiful and special that they can’t exist in the real world for landowners to do their own things: either it is shops, nightclubs, restaurants, observatories, battle arenas, DeFi banks, etc.
 
-* P2E Mode: Slay monsters and earn XP and token.
-* PvP Mode: Wage your power against other players and win the bet.
+CryptoWar strives to create a foundation for a game world that works: anyone can join, become anything they want to be, create products and services that sell for real money, and enjoy their own existence in a virtual world and community that is at the frontier of gaming and social network.
 
-&#x20; 2\. Step into CryptoWar Metaverse
+At the heart of the product, CryptoWar’s team focuses on solving 2 things:
 
-* Create Avatar : Customized your own Avatar and join the CryptoWar Metaverse.
-* Choose a Career : Work to Earn token, the harder you work, the more you earn.
-* Build your own home : Show your class to your friends.
-
-&#x20; 3\. Let go to some social activities:
-
-* Enjoy some concerts that performed by real singers and bands with your friends.&#x20;
-* We all love the Mall : Let do some shoping and get some fancy stuff for your Avatar, you also receive the the items that you buy in real life. It's awesome, right ?
-* It's time to explore even more new lands in CryptoWar Metaverse.
-* Tired of walking around ? Let buy some cars or planes if you like.
+* Game Design: Build a world that is exciting that people want to spend time in.
+* Economic Design: Ensure the in-game economic functions well by enabling the flows of money among participants. Creating a common in-game marketplace for people all over the world to come to build, sell, consume, and live off well in real life by participating in the digital economy.
 
