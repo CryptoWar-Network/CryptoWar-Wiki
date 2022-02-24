@@ -1,12 +1,12 @@
 # Game Concept
 
-## Mission
+## Who we are ?
+
+CryptoWar works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow.
+
+## What we do ?
 
 CryptoWar envisions to open a new dimension for everyone to connect, play, express themselves, and find happiness.
-
-## Vision
-
-Cryptowar will become the Metaverse ecosystem in multi chains. This version of CryptoWar is only a Mini Game in the world we're going to build up.
 
 ## Values
 
