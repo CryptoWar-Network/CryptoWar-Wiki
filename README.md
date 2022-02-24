@@ -1,18 +1,26 @@
 # Game Concept
 
-## Who We Are
+## About US
+
+### Who We Are
 
 CryptoWar works with blockchain technology to build a distinct metaverse world with a sound circular economy based on real monetary flow.
 
-## What We Do
+### What We Do
 
 CryptoWar envisions to open a new dimension for everyone to connect, play, express themselves, and find happiness.
 
-## Values
+### What We Dream
 
-1. Enjoyability
-2. Opportunities to Pursue Wealth
-3. Sustainability
+CryptoWar envisions to open a new dimension for everyone to connect, play, express themselves, and find happiness.
+
+### What We Stand For
+
+\[Thinking] Thinking Big - We find inspirations in working with cutting edge technologies to build things that are on the next frontier of humanity development.
+
+\[Action] Laser Focus on One Thing - Each of us focus solely on doing one thing at a time and make sure that one thing is right and is done right.
+
+\[People] Awesome People - We want to be the best version of ourselves and work with the best people on the planet on what we find exciting and meaningful about.
 
 ## Player Experience Journey
 

@@ -26,6 +26,6 @@ Please keep an eye on time when your characters are on the verge to reach the ne
 
 Due to the fact that each transaction costs a certain amount of fees, it is suggested that players should claim experience to minimize the gas fees More information on the experience table and calculation formula can be found here:
 
-{% content-ref url="../gameplay/what-are-characters/experience-and-levels.md" %}
-[experience-and-levels.md](../gameplay/what-are-characters/experience-and-levels.md)
+{% content-ref url="../1st-mini-game-gameplay/what-are-characters/experience-and-levels.md" %}
+[experience-and-levels.md](../1st-mini-game-gameplay/what-are-characters/experience-and-levels.md)
 {% endcontent-ref %}

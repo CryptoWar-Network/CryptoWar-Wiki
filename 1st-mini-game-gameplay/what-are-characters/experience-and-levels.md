@@ -10,8 +10,8 @@ To determine the eligibility of claim, gamers have to keep a copy of subsequent 
 
 A summary of experience measuring table can be found here:
 
-{% content-ref url="../character-levels-&-required-experience-per-level/" %}
-[character-levels-&-required-experience-per-level](../character-levels-&-required-experience-per-level/)
+{% content-ref url="../../gameplay/character-levels-&-required-experience-per-level/" %}
+[character-levels-&-required-experience-per-level](../../gameplay/character-levels-&-required-experience-per-level/)
 {% endcontent-ref %}
 
 ## When to claim Experience ?
