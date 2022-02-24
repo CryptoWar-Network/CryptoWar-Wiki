@@ -14,11 +14,9 @@ In mid of 2021, realizing the implications that NFTs can revolutionize gaming in
 
 |                                               |                                                                                                                                                       |
 | :-------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](.gitbook/assets/ReadyPlayerMe-Avatar.png) | <p><strong>James Le / Co-CEO</strong></p><p>+20 years in high tech industry</p><p>+6 years in Crypto industry</p><p>+3 years in building</p>          |
-|          ![](.gitbook/assets/tri.png)         | <p><strong>Tri Ton / Co-CEO</strong></p><p>+15 years in Finance</p><p>+6 years in Crypto Industry</p><p></p>                                          |
-|          ![](.gitbook/assets/tam.png)         | <p><strong>Tam Nguyen / CTO </strong></p><p>+7 years in Product Development</p><p>+5 years in Smart Contract Development </p><p><strong></strong></p> |
+| ![](.gitbook/assets/ReadyPlayerMe-Avatar.png) | <p><strong>James Le / Co-CEO</strong></p><p>+15 years in high tech industry</p><p>+6 years in Crypto industry</p><p>+3 years in building</p>          |
+|          ![](.gitbook/assets/tri.png)         | <p><strong>Tri Ton / Co-CEO</strong></p><p>+10 years in Finance</p><p>+6 years in Crypto Industry</p><p></p>                                          |
+|          ![](.gitbook/assets/tam.png)         | <p><strong>Tam Nguyen / CTO</strong> </p><p>+5 years in Product Development</p><p>+3 years in Smart Contract Development </p><p><strong></strong></p> |
 |                                               |                                                                                                                                                       |
-
-![](<.gitbook/assets/Team Image.png>)
 
 #### Work hard. Have Fund. Make History!

@@ -2,9 +2,7 @@
 
 ## Mission
 
-CryptoWar xBlade strives to become a sustainable blockchain Metaverse Ecosystem that brings enjoyment and roads to wealth creation for the general public.
-
-
+CryptoWar envisions to open a new dimension for everyone to connect, play, express themselves, and find happiness.
 
 ## Vision
 
@@ -18,21 +16,21 @@ Cryptowar will become the Metaverse ecosystem in multi chains. This version of C
 
 ## Player Experience Journey
 
-1. Hero Personal Development
+1. First Mini Game with two modes
 
 * P2E Mode: Slay monsters and earn XP and token.
 * PvP Mode: Wage your power against other players and win the bet.
-* Campaigns: Defeat bosses with other players, multi-players tournaments.
 
-&#x20; 2\. Hero Social Development
+&#x20; 2\. Step into CryptoWar Metaverse
 
-* Join a Clan: Support each other, trading weapons, lending heroes, etc.
-* Make families: Heroes mingle together and have babies heroes.
+* Create Avatar : Customized your own Avatar and join the CryptoWar Metaverse.
+* Choose a Career : Work to Earn token, the harder you work, the more you earn.
+* Build your own home : Show your class to your friends.
 
-&#x20; 3\. Hero Dream Realization
+&#x20; 3\. Let go to some social activities:
 
-* High-Level In-game Enjoyment: Complete difficult tasks in-game and win PvP challenges.
-* Social and Leadership: Leading a Clan, win wars of Clans.
-* Create Unique Heroes: Merging heroes to create next layers of heroes with unique design and utility abilities.
-* Personalize Heroes: Equip heroes with personal and unique gears, change hero layout, name, and design.
-* Collectability: Collecting the highest ranked and rarest Weapons and Heroes.
+* Enjoy some concerts that performed by real singers and bands with your friends.&#x20;
+* We all love the Mall : Let do some shoping and get some fancy stuff for your Avatar, you also receive the the items that you buy in real life. It's awesome, right ?
+* It's time to explore even more new lands in CryptoWar Metaverse.
+* Tired of walking around ? Let buy some cars or planes if you like.
+
