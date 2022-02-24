@@ -1,7 +1,8 @@
 # Table of contents
 
-* [Game Concept](README.md)
-  * [Game Story](game-concept/game-story.md)
+* [Product Concept](README.md)
+  * [Game Story](product-concept/game-story.md)
+  * [Business Model](product-concept/business-model.md)
 * [Getting Started](getting-started/README.md)
   * [MetaMask Wallet Setup](getting-started/metamask-wallet-setup.md)
   * [Purchasing xBlade](getting-started/purchasing-xblade.md)

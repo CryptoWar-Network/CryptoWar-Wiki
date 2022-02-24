@@ -1,4 +1,4 @@
-# Game Concept
+# Product Concept
 
 ## About US
 
@@ -56,3 +56,6 @@ At the heart of the product, CryptoWar’s team focuses on solving 2 things:
 * Game Design: Build a world that is exciting that people want to spend time in.
 * Economic Design: Ensure the in-game economic functions well by enabling the flows of money among participants. Creating a common in-game marketplace for people all over the world to come to build, sell, consume, and live off well in real life by participating in the digital economy.
 
+### Interoperability
+
+CryptoWar’s metaverse will be an open-world to other metaverse projects and work toward achieving technical interoperability: If you buy an NFT yacht somewhere and it is interoperable to our world, you can bring it on and chill on its deck.
