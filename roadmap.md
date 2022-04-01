@@ -43,6 +43,6 @@ Estimated implementation time: 3 years - May, 2023 to April, 2026
 
 * Milestone 1 - Arena features: Public clubs, private clubs
 * Milestone 2 - 3D game world buildup using Unreal Engine 5 (or newest version)
-  * ilestone 3 - Live concerts
+* Milestone 3 - Live concerts
 * Milestone 4 - Social features: School and jobs
 * Milestone 5 - Become a game platform: encouraging content creators to create in-game stories and items for CryptoWar's metaverse.
