@@ -60,6 +60,7 @@
 
 ## Information
 
+* [Announcement Rebrand](information/announcement-rebrand.md)
 * [DISCLAIMER AND RIGHTS](information/disclaimer-and-rights.md)
 * [Contact Us](information/contact-us.md)
 * [Help & FAQ](information/faq.md)
